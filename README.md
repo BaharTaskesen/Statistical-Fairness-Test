@@ -1,5 +1,6 @@
 # A Statistical Test for Probabilistic Fairness
 Authors: Bahar Taskesen, Jose Blanchet, Daniel Kuhn, Viet-Anh Nguyen
+
 ACM FACCT 2021
 
 ## Contents
