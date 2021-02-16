@@ -1,0 +1,6012 @@
+
+Current path:/home/taskesen/FAIRNESS-Hypothesis-Testing/FAIRNESS-Hypothesis-Testing
+True marginals=[[0.4 0.1]
+ [0.3 0.2]]
+range of gamma:[-5, 5]
+range of k:from0.0 to 0.125 with (100,) number of steps
+Replications=2000
+Beta=[0 1]
+N_range=[10, 500]
+Tolerance for gamma:1e-10
+SEED:1122334455
+Reject
+Fail to reject
+Replication====>0/2000, Time remaining : 1 day, 4:34:56.661308
+Fail to reject
+Fail to reject
+Replication====>1/2000, Time remaining : 1 day, 4:40:13.070313
+Reject
+Fail to reject
+Replication====>2/2000, Time remaining : 1 day, 4:29:02.964049
+Reject
+Fail to reject
+Replication====>3/2000, Time remaining : 1 day, 4:39:32.413505
+Reject
+Fail to reject
+Replication====>4/2000, Time remaining : 1 day, 4:40:25.058091
+Fail to reject
+Fail to reject
+Replication====>5/2000, Time remaining : 1 day, 4:36:50.444742
+Reject
+Reject
+Replication====>6/2000, Time remaining : 1 day, 4:34:56.135984
+Fail to reject
+Fail to reject
+Replication====>7/2000, Time remaining : 1 day, 4:25:44.386179
+Fail to reject
+Fail to reject
+Replication====>8/2000, Time remaining : 1 day, 4:27:47.122429
+Fail to reject
+Fail to reject
+Replication====>9/2000, Time remaining : 1 day, 4:28:58.224609
+Fail to reject
+Fail to reject
+Replication====>10/2000, Time remaining : 1 day, 4:25:26.821642
+Reject
+Fail to reject
+Replication====>11/2000, Time remaining : 1 day, 4:32:21.963072
+Fail to reject
+Fail to reject
+Replication====>12/2000, Time remaining : 1 day, 4:31:11.221167
+Fail to reject
+Reject
+Replication====>13/2000, Time remaining : 1 day, 4:28:18.144945
+Fail to reject
+Fail to reject
+Replication====>14/2000, Time remaining : 1 day, 4:29:10.505756
+Fail to reject
+Fail to reject
+Replication====>15/2000, Time remaining : 1 day, 4:24:52.675720
+Reject
+Fail to reject
+Replication====>16/2000, Time remaining : 1 day, 4:32:56.067328
+Fail to reject
+Fail to reject
+Replication====>17/2000, Time remaining : 1 day, 4:19:11.105911
+Fail to reject
+Reject
+Replication====>18/2000, Time remaining : 1 day, 4:17:27.483133
+Fail to reject
+Fail to reject
+Replication====>19/2000, Time remaining : 1 day, 4:16:01.814833
+Fail to reject
+Fail to reject
+Replication====>20/2000, Time remaining : 1 day, 4:23:07.376782
+Fail to reject
+Fail to reject
+Replication====>21/2000, Time remaining : 1 day, 4:20:23.669919
+Fail to reject
+Fail to reject
+Replication====>22/2000, Time remaining : 1 day, 4:21:47.224942
+Fail to reject
+Fail to reject
+Replication====>23/2000, Time remaining : 1 day, 4:21:59.007380
+Reject
+Fail to reject
+Replication====>24/2000, Time remaining : 1 day, 4:15:40.413100
+Reject
+Fail to reject
+Replication====>25/2000, Time remaining : 1 day, 4:14:29.095449
+Fail to reject
+Fail to reject
+Replication====>26/2000, Time remaining : 1 day, 4:16:57.513639
+Fail to reject
+Reject
+Replication====>27/2000, Time remaining : 1 day, 4:06:57.152234
+Fail to reject
+Fail to reject
+Replication====>28/2000, Time remaining : 1 day, 4:16:40.963632
+Fail to reject
+Fail to reject
+Replication====>29/2000, Time remaining : 1 day, 4:20:26.698217
+Reject
+Fail to reject
+Replication====>30/2000, Time remaining : 1 day, 4:19:39.538163
+Fail to reject
+Fail to reject
+Replication====>31/2000, Time remaining : 1 day, 4:20:19.054379
+Fail to reject
+Fail to reject
+Replication====>32/2000, Time remaining : 1 day, 4:13:21.617244
+Fail to reject
+Fail to reject
+Replication====>33/2000, Time remaining : 1 day, 4:09:06.652120
+Fail to reject
+Fail to reject
+Replication====>34/2000, Time remaining : 1 day, 4:12:10.279130
+Fail to reject
+Fail to reject
+Replication====>35/2000, Time remaining : 1 day, 4:16:53.875958
+Fail to reject
+Fail to reject
+Replication====>36/2000, Time remaining : 1 day, 4:08:59.878276
+Fail to reject
+Fail to reject
+Replication====>37/2000, Time remaining : 1 day, 4:02:36.742810
+Fail to reject
+Fail to reject
+Replication====>38/2000, Time remaining : 1 day, 4:13:36.656928
+Fail to reject
+Fail to reject
+Replication====>39/2000, Time remaining : 1 day, 3:54:53.923435
+Fail to reject
+Fail to reject
+Replication====>40/2000, Time remaining : 1 day, 4:04:13.834809
+Reject
+Fail to reject
+Replication====>41/2000, Time remaining : 1 day, 4:03:39.729220
+Reject
+Fail to reject
+Replication====>42/2000, Time remaining : 1 day, 4:07:43.224880
+Fail to reject
+Fail to reject
+Replication====>43/2000, Time remaining : 1 day, 4:08:42.730582
+Fail to reject
+Fail to reject
+Replication====>44/2000, Time remaining : 1 day, 4:02:01.008561
+Reject
+Fail to reject
+Replication====>45/2000, Time remaining : 1 day, 3:58:04.582493
+Fail to reject
+Fail to reject
+Replication====>46/2000, Time remaining : 1 day, 4:02:10.149843
+Fail to reject
+Fail to reject
+Replication====>47/2000, Time remaining : 1 day, 3:56:40.421677
+Reject
+Fail to reject
+Replication====>48/2000, Time remaining : 1 day, 3:50:28.992142
+Reject
+Fail to reject
+Replication====>49/2000, Time remaining : 1 day, 4:02:12.334256
+Reject
+Fail to reject
+Replication====>50/2000, Time remaining : 1 day, 4:00:09.243253
+Fail to reject
+Fail to reject
+Replication====>51/2000, Time remaining : 1 day, 3:57:17.251706
+Fail to reject
+Fail to reject
+Replication====>52/2000, Time remaining : 1 day, 3:54:06.030635
+Fail to reject
+Fail to reject
+Replication====>53/2000, Time remaining : 1 day, 3:50:34.965879
+Reject
+Fail to reject
+Replication====>54/2000, Time remaining : 1 day, 4:00:02.567422
+Fail to reject
+Fail to reject
+Replication====>55/2000, Time remaining : 1 day, 3:50:53.474499
+Fail to reject
+Fail to reject
+Replication====>56/2000, Time remaining : 1 day, 3:55:59.657163
+Reject
+Fail to reject
+Replication====>57/2000, Time remaining : 1 day, 3:41:25.142949
+Fail to reject
+Fail to reject
+Replication====>58/2000, Time remaining : 1 day, 3:52:59.228087
+Fail to reject
+Fail to reject
+Replication====>59/2000, Time remaining : 1 day, 3:40:43.547778
+Fail to reject
+Fail to reject
+Replication====>60/2000, Time remaining : 1 day, 3:51:09.114283
+Reject
+Fail to reject
+Replication====>61/2000, Time remaining : 1 day, 3:43:01.495477
+Fail to reject
+Fail to reject
+Replication====>62/2000, Time remaining : 1 day, 3:44:48.451511
+Reject
+Fail to reject
+Replication====>63/2000, Time remaining : 1 day, 3:46:51.635983
+Fail to reject
+Fail to reject
+Replication====>64/2000, Time remaining : 1 day, 3:44:13.634069
+Reject
+Fail to reject
+Replication====>65/2000, Time remaining : 1 day, 3:42:10.804231
+Fail to reject
+Fail to reject
+Replication====>66/2000, Time remaining : 1 day, 3:35:20.506336
+Reject
+Fail to reject
+Replication====>67/2000, Time remaining : 1 day, 3:33:23.446630
+Fail to reject
+Fail to reject
+Replication====>68/2000, Time remaining : 1 day, 3:30:42.206727
+Fail to reject
+Fail to reject
+Replication====>69/2000, Time remaining : 1 day, 3:37:32.845647
+Fail to reject
+Reject
+Replication====>70/2000, Time remaining : 1 day, 3:45:39.049610
+Fail to reject
+Fail to reject
+Replication====>71/2000, Time remaining : 1 day, 3:42:24.229406
+Fail to reject
+Fail to reject
+Replication====>72/2000, Time remaining : 1 day, 3:36:54.523881
+Fail to reject
+Fail to reject
+Replication====>73/2000, Time remaining : 1 day, 3:37:50.874972
+Fail to reject
+Fail to reject
+Replication====>74/2000, Time remaining : 1 day, 3:38:40.495832
+Reject
+Fail to reject
+Replication====>75/2000, Time remaining : 1 day, 3:33:47.388154
+Fail to reject
+Fail to reject
+Replication====>76/2000, Time remaining : 1 day, 3:29:43.036199
+Fail to reject
+Fail to reject
+Replication====>77/2000, Time remaining : 1 day, 3:33:48.108724
+Fail to reject
+Fail to reject
+Replication====>78/2000, Time remaining : 1 day, 3:34:27.582392
+Fail to reject
+Fail to reject
+Replication====>79/2000, Time remaining : 1 day, 3:30:41.788330
+Fail to reject
+Fail to reject
+Replication====>80/2000, Time remaining : 1 day, 3:32:34.492691
+Fail to reject
+Reject
+Replication====>81/2000, Time remaining : 1 day, 3:31:33.250429
+Reject
+Fail to reject
+Replication====>82/2000, Time remaining : 1 day, 3:18:21.676718
+Reject
+Fail to reject
+Replication====>83/2000, Time remaining : 1 day, 3:23:53.790214
+Reject
+Fail to reject
+Replication====>84/2000, Time remaining : 1 day, 3:21:20.372920
+Reject
+Fail to reject
+Replication====>85/2000, Time remaining : 1 day, 3:27:02.605677
+Fail to reject
+Fail to reject
+Replication====>86/2000, Time remaining : 1 day, 3:29:21.314872
+Reject
+Fail to reject
+Replication====>87/2000, Time remaining : 1 day, 3:21:08.978724
+Fail to reject
+Fail to reject
+Replication====>88/2000, Time remaining : 1 day, 3:12:11.185376
+Reject
+Fail to reject
+Replication====>89/2000, Time remaining : 1 day, 3:23:51.610572
+Fail to reject
+Fail to reject
+Replication====>90/2000, Time remaining : 1 day, 3:21:00.122785
+Reject
+Fail to reject
+Replication====>91/2000, Time remaining : 1 day, 3:20:49.674637
+Reject
+Fail to reject
+Replication====>92/2000, Time remaining : 1 day, 3:19:28.062070
+Reject
+Fail to reject
+Replication====>93/2000, Time remaining : 1 day, 3:12:17.263834
+Reject
+Fail to reject
+Replication====>94/2000, Time remaining : 1 day, 3:23:58.796149
+Fail to reject
+Fail to reject
+Replication====>95/2000, Time remaining : 1 day, 3:17:19.546551
+Fail to reject
+Fail to reject
+Replication====>96/2000, Time remaining : 1 day, 3:13:56.507011
+Reject
+Fail to reject
+Replication====>97/2000, Time remaining : 1 day, 3:18:43.947011
+Fail to reject
+Fail to reject
+Replication====>98/2000, Time remaining : 1 day, 3:17:13.020523
+Fail to reject
+Fail to reject
+Replication====>99/2000, Time remaining : 1 day, 3:11:38.980117
+Reject
+Fail to reject
+Replication====>100/2000, Time remaining : 1 day, 3:15:58.402331
+Fail to reject
+Reject
+Replication====>101/2000, Time remaining : 1 day, 3:15:44.958312
+Fail to reject
+Fail to reject
+Replication====>102/2000, Time remaining : 1 day, 3:05:43.460183
+Fail to reject
+Fail to reject
+Replication====>103/2000, Time remaining : 1 day, 3:08:14.686071
+Reject
+Fail to reject
+Replication====>104/2000, Time remaining : 1 day, 3:05:07.251964
+Fail to reject
+Fail to reject
+Replication====>105/2000, Time remaining : 1 day, 3:03:02.963161
+Reject
+Fail to reject
+Replication====>106/2000, Time remaining : 1 day, 3:05:05.490493
+Fail to reject
+Fail to reject
+Replication====>107/2000, Time remaining : 1 day, 3:13:20.769209
+Fail to reject
+Fail to reject
+Replication====>108/2000, Time remaining : 1 day, 3:07:32.400685
+Reject
+Fail to reject
+Replication====>109/2000, Time remaining : 1 day, 3:04:18.115518
+Reject
+Fail to reject
+Replication====>110/2000, Time remaining : 1 day, 3:06:36.864818
+Fail to reject
+Fail to reject
+Replication====>111/2000, Time remaining : 1 day, 2:57:01.726074
+Fail to reject
+Fail to reject
+Replication====>112/2000, Time remaining : 1 day, 3:02:17.565843
+Reject
+Reject
+Replication====>113/2000, Time remaining : 1 day, 3:00:22.325502
+Fail to reject
+Fail to reject
+Replication====>114/2000, Time remaining : 1 day, 3:02:12.218567
+Reject
+Fail to reject
+Replication====>115/2000, Time remaining : 1 day, 2:53:33.865027
+Reject
+Fail to reject
+Replication====>116/2000, Time remaining : 1 day, 3:03:58.460198
+Reject
+Fail to reject
+Replication====>117/2000, Time remaining : 1 day, 3:00:57.007455
+Reject
+Fail to reject
+Replication====>118/2000, Time remaining : 1 day, 3:00:52.456513
+Fail to reject
+Fail to reject
+Replication====>119/2000, Time remaining : 1 day, 2:58:46.069069
+Reject
+Fail to reject
+Replication====>120/2000, Time remaining : 1 day, 2:52:49.346698
+Reject
+Fail to reject
+Replication====>121/2000, Time remaining : 1 day, 2:52:11.746649
+Fail to reject
+Fail to reject
+Replication====>122/2000, Time remaining : 1 day, 2:48:44.713275
+Fail to reject
+Fail to reject
+Replication====>123/2000, Time remaining : 1 day, 2:58:08.234886
+Fail to reject
+Fail to reject
+Replication====>124/2000, Time remaining : 1 day, 2:48:24.906267
+Reject
+Fail to reject
+Replication====>125/2000, Time remaining : 1 day, 2:46:17.607142
+Fail to reject
+Fail to reject
+Replication====>126/2000, Time remaining : 1 day, 2:48:58.900692
+Fail to reject
+Fail to reject
+Replication====>127/2000, Time remaining : 1 day, 2:52:11.895458
+Reject
+Fail to reject
+Replication====>128/2000, Time remaining : 1 day, 2:50:22.072635
+Reject
+Fail to reject
+Replication====>129/2000, Time remaining : 1 day, 2:47:13.313096
+Fail to reject
+Fail to reject
+Replication====>130/2000, Time remaining : 1 day, 2:47:32.243093
+Fail to reject
+Fail to reject
+Replication====>131/2000, Time remaining : 1 day, 2:51:11.327482
+Reject
+Fail to reject
+Replication====>132/2000, Time remaining : 1 day, 2:47:39.365951
+Fail to reject
+Fail to reject
+Replication====>133/2000, Time remaining : 1 day, 2:51:07.168719
+Fail to reject
+Fail to reject
+Replication====>134/2000, Time remaining : 1 day, 2:39:23.082185
+Fail to reject
+Fail to reject
+Replication====>135/2000, Time remaining : 1 day, 2:40:25.450754
+Reject
+Reject
+Replication====>136/2000, Time remaining : 1 day, 2:42:10.098916
+Fail to reject
+Fail to reject
+Replication====>137/2000, Time remaining : 1 day, 2:39:42.195499
+Fail to reject
+Fail to reject
+Replication====>138/2000, Time remaining : 1 day, 2:38:47.626907
+Fail to reject
+Fail to reject
+Replication====>139/2000, Time remaining : 1 day, 2:37:40.972881
+Reject
+Reject
+Replication====>140/2000, Time remaining : 1 day, 2:39:09.771960
+Reject
+Fail to reject
+Replication====>141/2000, Time remaining : 1 day, 2:44:10.938322
+Reject
+Fail to reject
+Replication====>142/2000, Time remaining : 1 day, 2:41:38.458961
+Reject
+Fail to reject
+Replication====>143/2000, Time remaining : 1 day, 2:38:59.171234
+Fail to reject
+Fail to reject
+Replication====>144/2000, Time remaining : 1 day, 2:34:13.612460
+Fail to reject
+Fail to reject
+Replication====>145/2000, Time remaining : 1 day, 2:30:55.944966
+Fail to reject
+Fail to reject
+Replication====>146/2000, Time remaining : 1 day, 2:27:17.563613
+Fail to reject
+Fail to reject
+Replication====>147/2000, Time remaining : 1 day, 2:30:35.827312
+Reject
+Reject
+Replication====>148/2000, Time remaining : 1 day, 2:26:15.296088
+Reject
+Fail to reject
+Replication====>149/2000, Time remaining : 1 day, 2:27:20.063381
+Fail to reject
+Fail to reject
+Replication====>150/2000, Time remaining : 1 day, 2:29:02.017423
+Fail to reject
+Fail to reject
+Replication====>151/2000, Time remaining : 1 day, 2:21:10.431696
+Reject
+Fail to reject
+Replication====>152/2000, Time remaining : 1 day, 2:30:27.669419
+Fail to reject
+Fail to reject
+Replication====>153/2000, Time remaining : 1 day, 2:21:01.057495
+Fail to reject
+Fail to reject
+Replication====>154/2000, Time remaining : 1 day, 2:23:21.841071
+Reject
+Fail to reject
+Replication====>155/2000, Time remaining : 1 day, 2:29:05.970119
+Fail to reject
+Fail to reject
+Replication====>156/2000, Time remaining : 1 day, 2:19:09.125368
+Reject
+Fail to reject
+Replication====>157/2000, Time remaining : 1 day, 2:21:31.830876
+Fail to reject
+Fail to reject
+Replication====>158/2000, Time remaining : 1 day, 2:23:04.115258
+Fail to reject
+Fail to reject
+Replication====>159/2000, Time remaining : 1 day, 2:20:47.316895
+Fail to reject
+Fail to reject
+Replication====>160/2000, Time remaining : 1 day, 2:16:19.755215
+Reject
+Fail to reject
+Replication====>161/2000, Time remaining : 1 day, 2:24:17.261005
+Fail to reject
+Fail to reject
+Replication====>162/2000, Time remaining : 1 day, 2:21:43.303681
+Fail to reject
+Fail to reject
+Replication====>163/2000, Time remaining : 1 day, 2:24:20.106577
+Fail to reject
+Fail to reject
+Replication====>164/2000, Time remaining : 1 day, 2:16:42.061878
+Reject
+Fail to reject
+Replication====>165/2000, Time remaining : 1 day, 2:13:49.873799
+Reject
+Fail to reject
+Replication====>166/2000, Time remaining : 1 day, 2:20:54.991522
+Fail to reject
+Fail to reject
+Replication====>167/2000, Time remaining : 1 day, 2:13:31.544041
+Fail to reject
+Fail to reject
+Replication====>168/2000, Time remaining : 1 day, 2:13:03.574023
+Reject
+Fail to reject
+Replication====>169/2000, Time remaining : 1 day, 2:16:30.173457
+Fail to reject
+Fail to reject
+Replication====>170/2000, Time remaining : 1 day, 2:10:50.443013
+Fail to reject
+Fail to reject
+Replication====>171/2000, Time remaining : 1 day, 2:07:21.570579
+Fail to reject
+Fail to reject
+Replication====>172/2000, Time remaining : 1 day, 2:04:16.677938
+Reject
+Fail to reject
+Replication====>173/2000, Time remaining : 1 day, 2:05:09.126565
+Reject
+Fail to reject
+Replication====>174/2000, Time remaining : 1 day, 2:07:42.709439
+Fail to reject
+Fail to reject
+Replication====>175/2000, Time remaining : 1 day, 2:06:08.477371
+Reject
+Fail to reject
+Replication====>176/2000, Time remaining : 1 day, 2:01:11.964646
+Fail to reject
+Fail to reject
+Replication====>177/2000, Time remaining : 1 day, 2:03:52.253703
+Fail to reject
+Fail to reject
+Replication====>178/2000, Time remaining : 1 day, 2:05:22.682395
+Fail to reject
+Fail to reject
+Replication====>179/2000, Time remaining : 1 day, 2:08:01.641560
+Fail to reject
+Fail to reject
+Replication====>180/2000, Time remaining : 1 day, 2:09:58.993367
+Fail to reject
+Fail to reject
+Replication====>181/2000, Time remaining : 1 day, 2:01:28.445593
+Reject
+Fail to reject
+Replication====>182/2000, Time remaining : 1 day, 2:03:38.882809
+Fail to reject
+Fail to reject
+Replication====>183/2000, Time remaining : 1 day, 2:04:28.727068
+Reject
+Fail to reject
+Replication====>184/2000, Time remaining : 1 day, 2:01:45.690690
+Fail to reject
+Fail to reject
+Replication====>185/2000, Time remaining : 1 day, 1:59:55.330324
+Reject
+Fail to reject
+Replication====>186/2000, Time remaining : 1 day, 1:58:30.233326
+Reject
+Fail to reject
+Replication====>187/2000, Time remaining : 1 day, 1:57:08.035812
+Fail to reject
+Fail to reject
+Replication====>188/2000, Time remaining : 1 day, 1:51:24.583684
+Reject
+Reject
+Replication====>189/2000, Time remaining : 1 day, 1:49:14.544170
+Fail to reject
+Fail to reject
+Replication====>190/2000, Time remaining : 1 day, 1:54:35.852582
+Fail to reject
+Fail to reject
+Replication====>191/2000, Time remaining : 1 day, 1:55:41.949379
+Fail to reject
+Fail to reject
+Replication====>192/2000, Time remaining : 1 day, 1:48:49.299940
+Reject
+Fail to reject
+Replication====>193/2000, Time remaining : 1 day, 1:54:38.614879
+Fail to reject
+Fail to reject
+Replication====>194/2000, Time remaining : 1 day, 1:55:02.690482
+Fail to reject
+Fail to reject
+Replication====>195/2000, Time remaining : 1 day, 1:51:58.952055
+Fail to reject
+Reject
+Replication====>196/2000, Time remaining : 1 day, 1:52:57.472819
+Reject
+Fail to reject
+Replication====>197/2000, Time remaining : 1 day, 1:49:40.024431
+Fail to reject
+Fail to reject
+Replication====>198/2000, Time remaining : 1 day, 1:48:46.368547
+Fail to reject
+Fail to reject
+Replication====>199/2000, Time remaining : 1 day, 1:46:28.525343
+Fail to reject
+Fail to reject
+Replication====>200/2000, Time remaining : 1 day, 1:43:40.723034
+Reject
+Fail to reject
+Replication====>201/2000, Time remaining : 1 day, 1:40:46.727416
+Reject
+Fail to reject
+Replication====>202/2000, Time remaining : 1 day, 1:42:36.203671
+Fail to reject
+Fail to reject
+Replication====>203/2000, Time remaining : 1 day, 1:46:07.670608
+Fail to reject
+Fail to reject
+Replication====>204/2000, Time remaining : 1 day, 1:43:00.728948
+Reject
+Fail to reject
+Replication====>205/2000, Time remaining : 1 day, 1:46:23.677025
+Fail to reject
+Fail to reject
+Replication====>206/2000, Time remaining : 1 day, 1:41:36.312434
+Fail to reject
+Fail to reject
+Replication====>207/2000, Time remaining : 1 day, 1:43:52.176636
+Reject
+Fail to reject
+Replication====>208/2000, Time remaining : 1 day, 1:39:57.011758
+Fail to reject
+Fail to reject
+Replication====>209/2000, Time remaining : 1 day, 1:44:53.180187
+Reject
+Fail to reject
+Replication====>210/2000, Time remaining : 1 day, 1:42:37.702833
+Fail to reject
+Fail to reject
+Replication====>211/2000, Time remaining : 1 day, 1:37:18.075886
+Fail to reject
+Fail to reject
+Replication====>212/2000, Time remaining : 1 day, 1:29:57.484676
+Fail to reject
+Fail to reject
+Replication====>213/2000, Time remaining : 1 day, 1:35:26.491446
+Reject
+Fail to reject
+Replication====>214/2000, Time remaining : 1 day, 1:30:05.498518
+Reject
+Fail to reject
+Replication====>215/2000, Time remaining : 1 day, 1:28:21.938200
+Reject
+Fail to reject
+Replication====>216/2000, Time remaining : 1 day, 1:36:32.843907
+Reject
+Fail to reject
+Replication====>217/2000, Time remaining : 1 day, 1:29:19.704371
+Fail to reject
+Fail to reject
+Replication====>218/2000, Time remaining : 1 day, 1:29:12.029580
+Fail to reject
+Fail to reject
+Replication====>219/2000, Time remaining : 1 day, 1:33:15.954046
+Reject
+Fail to reject
+Replication====>220/2000, Time remaining : 1 day, 1:38:31.744799
+Reject
+Fail to reject
+Replication====>221/2000, Time remaining : 1 day, 1:32:09.702243
+Reject
+Fail to reject
+Replication====>222/2000, Time remaining : 1 day, 1:28:54.349185
+Fail to reject
+Fail to reject
+Replication====>223/2000, Time remaining : 1 day, 1:22:38.299244
+Fail to reject
+Fail to reject
+Replication====>224/2000, Time remaining : 1 day, 1:14:23.984770
+Fail to reject
+Fail to reject
+Replication====>225/2000, Time remaining : 1 day, 1:17:46.493780
+Fail to reject
+Fail to reject
+Replication====>226/2000, Time remaining : 1 day, 1:21:45.407685
+Reject
+Fail to reject
+Replication====>227/2000, Time remaining : 1 day, 1:21:34.758519
+Fail to reject
+Fail to reject
+Replication====>228/2000, Time remaining : 1 day, 1:15:41.685020
+Reject
+Fail to reject
+Replication====>229/2000, Time remaining : 1 day, 1:24:00.337164
+Fail to reject
+Fail to reject
+Replication====>230/2000, Time remaining : 1 day, 1:20:06.615862
+Fail to reject
+Fail to reject
+Replication====>231/2000, Time remaining : 1 day, 1:23:30.114185
+Reject
+Reject
+Replication====>232/2000, Time remaining : 1 day, 1:19:58.133514
+Reject
+Fail to reject
+Replication====>233/2000, Time remaining : 1 day, 1:22:07.564810
+Reject
+Reject
+Replication====>234/2000, Time remaining : 1 day, 1:15:03.299587
+Reject
+Fail to reject
+Replication====>235/2000, Time remaining : 1 day, 1:17:24.564311
+Fail to reject
+Fail to reject
+Replication====>236/2000, Time remaining : 1 day, 1:11:18.534197
+Reject
+Fail to reject
+Replication====>237/2000, Time remaining : 1 day, 1:16:54.968555
+Fail to reject
+Fail to reject
+Replication====>238/2000, Time remaining : 1 day, 1:08:57.218779
+Fail to reject
+Fail to reject
+Replication====>239/2000, Time remaining : 1 day, 1:08:07.040482
+Fail to reject
+Fail to reject
+Replication====>240/2000, Time remaining : 1 day, 1:10:52.092006
+Reject
+Fail to reject
+Replication====>241/2000, Time remaining : 1 day, 1:11:55.956794
+Fail to reject
+Fail to reject
+Replication====>242/2000, Time remaining : 1 day, 1:14:41.627867
+Reject
+Fail to reject
+Replication====>243/2000, Time remaining : 1 day, 1:08:28.297615
+Fail to reject
+Fail to reject
+Replication====>244/2000, Time remaining : 1 day, 1:04:04.128238
+Reject
+Fail to reject
+Replication====>245/2000, Time remaining : 1 day, 1:07:49.057479
+Fail to reject
+Fail to reject
+Replication====>246/2000, Time remaining : 1 day, 1:08:35.720318
+Fail to reject
+Fail to reject
+Replication====>247/2000, Time remaining : 1 day, 1:06:31.133463
+Reject
+Fail to reject
+Replication====>248/2000, Time remaining : 1 day, 1:09:57.575376
+Reject
+Fail to reject
+Replication====>249/2000, Time remaining : 1 day, 1:05:09.115946
+Fail to reject
+Fail to reject
+Replication====>250/2000, Time remaining : 1 day, 1:05:43.040813
+Reject
+Fail to reject
+Replication====>251/2000, Time remaining : 1 day, 1:04:45.028677
+Fail to reject
+Fail to reject
+Replication====>252/2000, Time remaining : 1 day, 1:04:30.454903
+Reject
+Fail to reject
+Replication====>253/2000, Time remaining : 1 day, 1:04:22.728514
+Fail to reject
+Fail to reject
+Replication====>254/2000, Time remaining : 1 day, 1:07:43.918489
+Fail to reject
+Fail to reject
+Replication====>255/2000, Time remaining : 1 day, 1:01:20.803089
+Reject
+Fail to reject
+Replication====>256/2000, Time remaining : 1 day, 0:57:31.817389
+Reject
+Fail to reject
+Replication====>257/2000, Time remaining : 1 day, 0:55:17.181494
+Fail to reject
+Fail to reject
+Replication====>258/2000, Time remaining : 1 day, 0:56:31.076384
+Fail to reject
+Fail to reject
+Replication====>259/2000, Time remaining : 1 day, 0:53:11.130624
+Fail to reject
+Fail to reject
+Replication====>260/2000, Time remaining : 1 day, 0:47:57.015114
+Reject
+Fail to reject
+Replication====>261/2000, Time remaining : 1 day, 0:49:08.387295
+Fail to reject
+Fail to reject
+Replication====>262/2000, Time remaining : 1 day, 0:58:50.186367
+Fail to reject
+Fail to reject
+Replication====>263/2000, Time remaining : 1 day, 0:52:53.776690
+Reject
+Fail to reject
+Replication====>264/2000, Time remaining : 1 day, 0:55:06.035851
+Fail to reject
+Fail to reject
+Replication====>265/2000, Time remaining : 1 day, 0:48:39.741056
+Reject
+Fail to reject
+Replication====>266/2000, Time remaining : 1 day, 0:50:08.112547
+Reject
+Fail to reject
+Replication====>267/2000, Time remaining : 1 day, 0:44:59.748540
+Fail to reject
+Fail to reject
+Replication====>268/2000, Time remaining : 1 day, 0:45:11.024913
+Fail to reject
+Fail to reject
+Replication====>269/2000, Time remaining : 1 day, 0:42:49.963145
+Reject
+Reject
+Replication====>270/2000, Time remaining : 1 day, 0:47:39.868213
+Reject
+Fail to reject
+Replication====>271/2000, Time remaining : 1 day, 0:49:35.575424
+Fail to reject
+Reject
+Replication====>272/2000, Time remaining : 1 day, 0:44:36.730001
+Fail to reject
+Fail to reject
+Replication====>273/2000, Time remaining : 1 day, 0:43:42.142566
+Reject
+Reject
+Replication====>274/2000, Time remaining : 1 day, 0:42:20.121835
+Fail to reject
+Fail to reject
+Replication====>275/2000, Time remaining : 1 day, 0:42:51.279163
+Fail to reject
+Fail to reject
+Replication====>276/2000, Time remaining : 1 day, 0:40:33.268725
+Fail to reject
+Reject
+Replication====>277/2000, Time remaining : 1 day, 0:45:20.540638
+Fail to reject
+Fail to reject
+Replication====>278/2000, Time remaining : 1 day, 0:43:09.856887
+Reject
+Reject
+Replication====>279/2000, Time remaining : 1 day, 0:37:51.044312
+Fail to reject
+Fail to reject
+Replication====>280/2000, Time remaining : 1 day, 0:39:38.104562
+Fail to reject
+Fail to reject
+Replication====>281/2000, Time remaining : 1 day, 0:33:36.583130
+Fail to reject
+Fail to reject
+Replication====>282/2000, Time remaining : 1 day, 0:35:19.933477
+Reject
+Fail to reject
+Replication====>283/2000, Time remaining : 1 day, 0:37:14.511978
+Reject
+Fail to reject
+Replication====>284/2000, Time remaining : 1 day, 0:39:05.572183
+Fail to reject
+Fail to reject
+Replication====>285/2000, Time remaining : 1 day, 0:27:11.708779
+Fail to reject
+Fail to reject
+Replication====>286/2000, Time remaining : 1 day, 0:26:30.350375
+Fail to reject
+Fail to reject
+Replication====>287/2000, Time remaining : 1 day, 0:30:18.017063
+Fail to reject
+Reject
+Replication====>288/2000, Time remaining : 1 day, 0:30:55.648799
+Fail to reject
+Fail to reject
+Replication====>289/2000, Time remaining : 1 day, 0:33:45.799341
+Fail to reject
+Fail to reject
+Replication====>290/2000, Time remaining : 1 day, 0:34:15.949789
+Fail to reject
+Fail to reject
+Replication====>291/2000, Time remaining : 1 day, 0:32:53.227596
+Reject
+Fail to reject
+Replication====>292/2000, Time remaining : 1 day, 0:28:40.071767
+Reject
+Fail to reject
+Replication====>293/2000, Time remaining : 1 day, 0:25:30.580508
+Fail to reject
+Fail to reject
+Replication====>294/2000, Time remaining : 1 day, 0:28:26.506625
+Fail to reject
+Fail to reject
+Replication====>295/2000, Time remaining : 1 day, 0:25:45.340330
+Fail to reject
+Fail to reject
+Replication====>296/2000, Time remaining : 1 day, 0:26:38.345685
+Reject
+Fail to reject
+Replication====>297/2000, Time remaining : 1 day, 0:26:07.401623
+Reject
+Fail to reject
+Replication====>298/2000, Time remaining : 1 day, 0:24:08.146995
+Fail to reject
+Fail to reject
+Replication====>299/2000, Time remaining : 1 day, 0:21:35.819354
+Reject
+Fail to reject
+Replication====>300/2000, Time remaining : 1 day, 0:19:19.511310
+Reject
+Fail to reject
+Replication====>301/2000, Time remaining : 1 day, 0:17:25.808571
+Fail to reject
+Fail to reject
+Replication====>302/2000, Time remaining : 1 day, 0:25:54.173084
+Fail to reject
+Reject
+Replication====>303/2000, Time remaining : 1 day, 0:19:31.039688
+Reject
+Fail to reject
+Replication====>304/2000, Time remaining : 1 day, 0:20:44.503838
+Reject
+Fail to reject
+Replication====>305/2000, Time remaining : 1 day, 0:23:59.117982
+Fail to reject
+Fail to reject
+Replication====>306/2000, Time remaining : 1 day, 0:21:43.982120
+Reject
+Fail to reject
+Replication====>307/2000, Time remaining : 1 day, 0:14:45.117491
+Reject
+Fail to reject
+Replication====>308/2000, Time remaining : 1 day, 0:15:17.180998
+Reject
+Fail to reject
+Replication====>309/2000, Time remaining : 1 day, 0:19:13.852029
+Fail to reject
+Fail to reject
+Replication====>310/2000, Time remaining : 1 day, 0:15:27.999214
+Fail to reject
+Fail to reject
+Replication====>311/2000, Time remaining : 1 day, 0:08:06.516245
+Reject
+Fail to reject
+Replication====>312/2000, Time remaining : 1 day, 0:10:23.469122
+Fail to reject
+Fail to reject
+Replication====>313/2000, Time remaining : 1 day, 0:09:17.323680
+Fail to reject
+Fail to reject
+Replication====>314/2000, Time remaining : 1 day, 0:01:59.104253
+Fail to reject
+Fail to reject
+Replication====>315/2000, Time remaining : 1 day, 0:06:50.452461
+Fail to reject
+Fail to reject
+Replication====>316/2000, Time remaining : 1 day, 0:10:38.089929
+Fail to reject
+Fail to reject
+Replication====>317/2000, Time remaining : 1 day, 0:07:27.804221
+Fail to reject
+Fail to reject
+Replication====>318/2000, Time remaining : 1 day, 0:03:14.062804
+Reject
+Fail to reject
+Replication====>319/2000, Time remaining : 1 day, 0:02:42.208843
+Fail to reject
+Reject
+Replication====>320/2000, Time remaining : 1 day, 0:02:54.880999
+Fail to reject
+Fail to reject
+Replication====>321/2000, Time remaining : 1 day, 0:00:47.561471
+Fail to reject
+Fail to reject
+Replication====>322/2000, Time remaining : 1 day, 0:07:24.794563
+Reject
+Fail to reject
+Replication====>323/2000, Time remaining : 1 day, 0:07:50.200267
+Fail to reject
+Fail to reject
+Replication====>324/2000, Time remaining : 1 day, 0:09:45.764414
+Reject
+Fail to reject
+Replication====>325/2000, Time remaining : 1 day, 0:01:30.984345
+Fail to reject
+Fail to reject
+Replication====>326/2000, Time remaining : 23:59:53.947135
+Reject
+Fail to reject
+Replication====>327/2000, Time remaining : 23:56:30.450254
+Reject
+Fail to reject
+Replication====>328/2000, Time remaining : 23:53:20.218791
+Reject
+Fail to reject
+Replication====>329/2000, Time remaining : 23:58:47.124588
+Reject
+Fail to reject
+Replication====>330/2000, Time remaining : 1 day, 0:01:14.384443
+Reject
+Reject
+Replication====>331/2000, Time remaining : 23:56:49.221422
+Reject
+Fail to reject
+Replication====>332/2000, Time remaining : 23:56:31.305252
+Fail to reject
+Fail to reject
+Replication====>333/2000, Time remaining : 23:53:22.110560
+Fail to reject
+Fail to reject
+Replication====>334/2000, Time remaining : 23:50:44.621930
+Reject
+Fail to reject
+Replication====>335/2000, Time remaining : 23:53:55.031891
+Fail to reject
+Fail to reject
+Replication====>336/2000, Time remaining : 23:51:03.979076
+Fail to reject
+Fail to reject
+Replication====>337/2000, Time remaining : 23:52:32.480711
+Fail to reject
+Fail to reject
+Replication====>338/2000, Time remaining : 23:48:16.055263
+Reject
+Fail to reject
+Replication====>339/2000, Time remaining : 23:47:11.844516
+Fail to reject
+Fail to reject
+Replication====>340/2000, Time remaining : 23:50:32.183730
+Reject
+Reject
+Replication====>341/2000, Time remaining : 23:48:32.099799
+Fail to reject
+Fail to reject
+Replication====>342/2000, Time remaining : 23:48:33.182495
+Fail to reject
+Fail to reject
+Replication====>343/2000, Time remaining : 23:45:58.574432
+Reject
+Fail to reject
+Replication====>344/2000, Time remaining : 23:40:24.944135
+Fail to reject
+Fail to reject
+Replication====>345/2000, Time remaining : 23:47:35.932537
+Fail to reject
+Fail to reject
+Replication====>346/2000, Time remaining : 23:39:29.115920
+Fail to reject
+Fail to reject
+Replication====>347/2000, Time remaining : 23:43:40.969572
+Reject
+Fail to reject
+Replication====>348/2000, Time remaining : 23:46:22.475481
+Fail to reject
+Fail to reject
+Replication====>349/2000, Time remaining : 23:43:47.009404
+Reject
+Fail to reject
+Replication====>350/2000, Time remaining : 23:44:15.238400
+Reject
+Fail to reject
+Replication====>351/2000, Time remaining : 23:39:39.203205
+Fail to reject
+Fail to reject
+Replication====>352/2000, Time remaining : 23:38:34.406149
+Fail to reject
+Fail to reject
+Replication====>353/2000, Time remaining : 23:37:23.395469
+Fail to reject
+Fail to reject
+Replication====>354/2000, Time remaining : 23:34:55.360087
+Fail to reject
+Fail to reject
+Replication====>355/2000, Time remaining : 23:36:36.320100
+Fail to reject
+Fail to reject
+Replication====>356/2000, Time remaining : 23:35:22.026233
+Fail to reject
+Fail to reject
+Replication====>357/2000, Time remaining : 23:35:53.527696
+Fail to reject
+Fail to reject
+Replication====>358/2000, Time remaining : 23:24:49.324939
+Fail to reject
+Fail to reject
+Replication====>359/2000, Time remaining : 23:31:52.281284
+Fail to reject
+Fail to reject
+Replication====>360/2000, Time remaining : 23:30:31.567597
+Fail to reject
+Fail to reject
+Replication====>361/2000, Time remaining : 23:36:18.254539
+Fail to reject
+Fail to reject
+Replication====>362/2000, Time remaining : 23:31:51.385299
+Reject
+Fail to reject
+Replication====>363/2000, Time remaining : 23:31:47.133304
+Fail to reject
+Fail to reject
+Replication====>364/2000, Time remaining : 23:25:46.034331
+Fail to reject
+Fail to reject
+Replication====>365/2000, Time remaining : 23:26:51.786821
+Fail to reject
+Reject
+Replication====>366/2000, Time remaining : 23:28:27.109540
+Fail to reject
+Fail to reject
+Replication====>367/2000, Time remaining : 23:32:55.217697
+Fail to reject
+Fail to reject
+Replication====>368/2000, Time remaining : 23:20:30.874508
+Fail to reject
+Fail to reject
+Replication====>369/2000, Time remaining : 23:25:07.918806
+Fail to reject
+Fail to reject
+Replication====>370/2000, Time remaining : 23:28:54.480187
+Reject
+Fail to reject
+Replication====>371/2000, Time remaining : 23:12:04.530793
+Reject
+Fail to reject
+Replication====>372/2000, Time remaining : 23:23:55.316868
+Reject
+Fail to reject
+Replication====>373/2000, Time remaining : 23:20:58.897159
+Reject
+Fail to reject
+Replication====>374/2000, Time remaining : 23:17:11.331521
+Fail to reject
+Reject
+Replication====>375/2000, Time remaining : 23:19:50.658758
+Reject
+Fail to reject
+Replication====>376/2000, Time remaining : 23:11:05.396145
+Fail to reject
+Fail to reject
+Replication====>377/2000, Time remaining : 23:13:38.810884
+Fail to reject
+Fail to reject
+Replication====>378/2000, Time remaining : 23:06:02.332620
+Fail to reject
+Fail to reject
+Replication====>379/2000, Time remaining : 23:10:49.034200
+Reject
+Fail to reject
+Replication====>380/2000, Time remaining : 23:15:34.417567
+Fail to reject
+Fail to reject
+Replication====>381/2000, Time remaining : 23:14:11.797866
+Fail to reject
+Fail to reject
+Replication====>382/2000, Time remaining : 23:11:48.375844
+Reject
+Fail to reject
+Replication====>383/2000, Time remaining : 23:11:40.412292
+Fail to reject
+Fail to reject
+Replication====>384/2000, Time remaining : 23:13:13.242080
+Reject
+Fail to reject
+Replication====>385/2000, Time remaining : 23:09:53.735840
+Fail to reject
+Fail to reject
+Replication====>386/2000, Time remaining : 23:06:24.555788
+Fail to reject
+Fail to reject
+Replication====>387/2000, Time remaining : 23:13:24.766595
+Fail to reject
+Fail to reject
+Replication====>388/2000, Time remaining : 23:07:29.377472
+Fail to reject
+Reject
+Replication====>389/2000, Time remaining : 23:06:34.199598
+Fail to reject
+Fail to reject
+Replication====>390/2000, Time remaining : 23:07:20.491221
+Reject
+Fail to reject
+Replication====>391/2000, Time remaining : 23:03:22.296495
+Fail to reject
+Fail to reject
+Replication====>392/2000, Time remaining : 23:04:42.431873
+Reject
+Fail to reject
+Replication====>393/2000, Time remaining : 23:06:36.070162
+Fail to reject
+Fail to reject
+Replication====>394/2000, Time remaining : 22:58:41.233091
+Reject
+Fail to reject
+Replication====>395/2000, Time remaining : 22:51:06.239754
+Fail to reject
+Fail to reject
+Replication====>396/2000, Time remaining : 22:47:03.958451
+Fail to reject
+Fail to reject
+Replication====>397/2000, Time remaining : 22:56:40.664882
+Reject
+Fail to reject
+Replication====>398/2000, Time remaining : 23:00:01.161456
+Fail to reject
+Fail to reject
+Replication====>399/2000, Time remaining : 22:52:08.935242
+Fail to reject
+Fail to reject
+Replication====>400/2000, Time remaining : 22:59:13.227356
+Fail to reject
+Fail to reject
+Replication====>401/2000, Time remaining : 22:53:42.170261
+Reject
+Fail to reject
+Replication====>402/2000, Time remaining : 22:57:09.059108
+Reject
+Fail to reject
+Replication====>403/2000, Time remaining : 22:52:42.745932
+Fail to reject
+Fail to reject
+Replication====>404/2000, Time remaining : 22:49:45.849749
+Fail to reject
+Fail to reject
+Replication====>405/2000, Time remaining : 22:50:11.325736
+Reject
+Fail to reject
+Replication====>406/2000, Time remaining : 22:56:06.234331
+Reject
+Fail to reject
+Replication====>407/2000, Time remaining : 22:48:05.484903
+Reject
+Fail to reject
+Replication====>408/2000, Time remaining : 22:46:31.937059
+Reject
+Fail to reject
+Replication====>409/2000, Time remaining : 22:45:03.278747
+Fail to reject
+Fail to reject
+Replication====>410/2000, Time remaining : 22:50:21.349666
+Reject
+Fail to reject
+Replication====>411/2000, Time remaining : 22:48:42.664161
+Fail to reject
+Fail to reject
+Replication====>412/2000, Time remaining : 22:44:11.536114
+Fail to reject
+Reject
+Replication====>413/2000, Time remaining : 22:40:19.172732
+Fail to reject
+Reject
+Replication====>414/2000, Time remaining : 22:42:59.622519
+Fail to reject
+Fail to reject
+Replication====>415/2000, Time remaining : 22:36:25.582180
+Reject
+Fail to reject
+Replication====>416/2000, Time remaining : 22:42:00.598123
+Fail to reject
+Fail to reject
+Replication====>417/2000, Time remaining : 22:31:03.642096
+Reject
+Fail to reject
+Replication====>418/2000, Time remaining : 22:40:02.658386
+Reject
+Fail to reject
+Replication====>419/2000, Time remaining : 22:35:57.076883
+Fail to reject
+Fail to reject
+Replication====>420/2000, Time remaining : 22:35:52.150140
+Reject
+Fail to reject
+Replication====>421/2000, Time remaining : 22:35:37.318620
+Fail to reject
+Fail to reject
+Replication====>422/2000, Time remaining : 22:32:35.958089
+Fail to reject
+Fail to reject
+Replication====>423/2000, Time remaining : 22:35:30.640339
+Fail to reject
+Fail to reject
+Replication====>424/2000, Time remaining : 22:37:05.621778
+Reject
+Fail to reject
+Replication====>425/2000, Time remaining : 22:31:01.633832
+Fail to reject
+Reject
+Replication====>426/2000, Time remaining : 22:31:40.090207
+Fail to reject
+Reject
+Replication====>427/2000, Time remaining : 22:29:55.865064
+Fail to reject
+Fail to reject
+Replication====>428/2000, Time remaining : 22:23:40.845930
+Fail to reject
+Fail to reject
+Replication====>429/2000, Time remaining : 22:30:16.670206
+Reject
+Fail to reject
+Replication====>430/2000, Time remaining : 22:26:02.483387
+Reject
+Fail to reject
+Replication====>431/2000, Time remaining : 22:24:44.006668
+Fail to reject
+Fail to reject
+Replication====>432/2000, Time remaining : 22:27:47.257214
+Fail to reject
+Fail to reject
+Replication====>433/2000, Time remaining : 22:27:51.300251
+Fail to reject
+Fail to reject
+Replication====>434/2000, Time remaining : 22:28:30.270230
+Fail to reject
+Fail to reject
+Replication====>435/2000, Time remaining : 22:19:18.314959
+Fail to reject
+Fail to reject
+Replication====>436/2000, Time remaining : 22:27:31.614397
+Reject
+Fail to reject
+Replication====>437/2000, Time remaining : 22:18:56.749244
+Fail to reject
+Reject
+Replication====>438/2000, Time remaining : 22:18:22.917624
+Reject
+Fail to reject
+Replication====>439/2000, Time remaining : 22:17:13.364582
+Fail to reject
+Fail to reject
+Replication====>440/2000, Time remaining : 22:10:38.463743
+Fail to reject
+Fail to reject
+Replication====>441/2000, Time remaining : 22:12:29.337303
+Fail to reject
+Fail to reject
+Replication====>442/2000, Time remaining : 22:18:39.834044
+Reject
+Fail to reject
+Replication====>443/2000, Time remaining : 22:14:58.985860
+Fail to reject
+Fail to reject
+Replication====>444/2000, Time remaining : 22:12:25.967994
+Fail to reject
+Fail to reject
+Replication====>445/2000, Time remaining : 22:13:59.818700
+Fail to reject
+Fail to reject
+Replication====>446/2000, Time remaining : 22:10:02.140556
+Reject
+Fail to reject
+Replication====>447/2000, Time remaining : 22:09:36.102257
+Fail to reject
+Fail to reject
+Replication====>448/2000, Time remaining : 22:13:41.825267
+Fail to reject
+Fail to reject
+Replication====>449/2000, Time remaining : 22:10:29.543233
+Reject
+Fail to reject
+Replication====>450/2000, Time remaining : 22:08:11.448097
+Fail to reject
+Fail to reject
+Replication====>451/2000, Time remaining : 22:10:33.888594
+Fail to reject
+Fail to reject
+Replication====>452/2000, Time remaining : 22:08:20.344166
+Fail to reject
+Fail to reject
+Replication====>453/2000, Time remaining : 22:06:33.423553
+Fail to reject
+Fail to reject
+Replication====>454/2000, Time remaining : 22:11:09.897280
+Reject
+Fail to reject
+Replication====>455/2000, Time remaining : 22:07:19.437792
+Fail to reject
+Fail to reject
+Replication====>456/2000, Time remaining : 22:04:54.239408
+Reject
+Fail to reject
+Replication====>457/2000, Time remaining : 22:04:09.520766
+Fail to reject
+Fail to reject
+Replication====>458/2000, Time remaining : 22:04:28.177307
+Fail to reject
+Fail to reject
+Replication====>459/2000, Time remaining : 22:09:08.929138
+Reject
+Fail to reject
+Replication====>460/2000, Time remaining : 22:09:41.964246
+Fail to reject
+Fail to reject
+Replication====>461/2000, Time remaining : 22:04:14.708592
+Fail to reject
+Fail to reject
+Replication====>462/2000, Time remaining : 22:04:20.318438
+Reject
+Fail to reject
+Replication====>463/2000, Time remaining : 22:02:08.397217
+Reject
+Fail to reject
+Replication====>464/2000, Time remaining : 21:59:23.286469
+Fail to reject
+Fail to reject
+Replication====>465/2000, Time remaining : 21:58:52.131036
+Fail to reject
+Fail to reject
+Replication====>466/2000, Time remaining : 21:57:25.958696
+Fail to reject
+Fail to reject
+Replication====>467/2000, Time remaining : 21:58:28.549262
+Fail to reject
+Fail to reject
+Replication====>468/2000, Time remaining : 21:54:27.783154
+Fail to reject
+Fail to reject
+Replication====>469/2000, Time remaining : 21:56:43.526731
+Fail to reject
+Fail to reject
+Replication====>470/2000, Time remaining : 21:54:04.273993
+Reject
+Fail to reject
+Replication====>471/2000, Time remaining : 21:54:41.137316
+Reject
+Fail to reject
+Replication====>472/2000, Time remaining : 21:50:37.481536
+Fail to reject
+Fail to reject
+Replication====>473/2000, Time remaining : 21:48:21.870406
+Fail to reject
+Fail to reject
+Replication====>474/2000, Time remaining : 21:53:22.596253
+Reject
+Fail to reject
+Replication====>475/2000, Time remaining : 21:48:00.691458
+Reject
+Fail to reject
+Replication====>476/2000, Time remaining : 21:43:03.989379
+Fail to reject
+Fail to reject
+Replication====>477/2000, Time remaining : 21:53:23.564091
+Reject
+Fail to reject
+Replication====>478/2000, Time remaining : 21:47:39.984361
+Fail to reject
+Fail to reject
+Replication====>479/2000, Time remaining : 21:49:16.856232
+Reject
+Fail to reject
+Replication====>480/2000, Time remaining : 21:51:43.566317
+Reject
+Fail to reject
+Replication====>481/2000, Time remaining : 21:41:13.569587
+Fail to reject
+Fail to reject
+Replication====>482/2000, Time remaining : 21:44:05.897813
+Fail to reject
+Fail to reject
+Replication====>483/2000, Time remaining : 21:41:26.182783
+Fail to reject
+Fail to reject
+Replication====>484/2000, Time remaining : 21:42:11.612910
+Fail to reject
+Fail to reject
+Replication====>485/2000, Time remaining : 21:40:32.527691
+Fail to reject
+Fail to reject
+Replication====>486/2000, Time remaining : 21:36:41.521247
+Fail to reject
+Fail to reject
+Replication====>487/2000, Time remaining : 21:32:52.178490
+Fail to reject
+Fail to reject
+Replication====>488/2000, Time remaining : 21:42:03.496447
+Fail to reject
+Fail to reject
+Replication====>489/2000, Time remaining : 21:33:29.744802
+Reject
+Fail to reject
+Replication====>490/2000, Time remaining : 21:32:54.194569
+Reject
+Fail to reject
+Replication====>491/2000, Time remaining : 21:39:47.783130
+Fail to reject
+Fail to reject
+Replication====>492/2000, Time remaining : 21:37:17.237478
+Fail to reject
+Fail to reject
+Replication====>493/2000, Time remaining : 21:30:25.208744
+Reject
+Fail to reject
+Replication====>494/2000, Time remaining : 21:31:12.944202
+Fail to reject
+Fail to reject
+Replication====>495/2000, Time remaining : 21:32:06.111298
+Fail to reject
+Fail to reject
+Replication====>496/2000, Time remaining : 21:24:45.887094
+Reject
+Fail to reject
+Replication====>497/2000, Time remaining : 21:33:57.197266
+Reject
+Fail to reject
+Replication====>498/2000, Time remaining : 21:27:47.349894
+Reject
+Fail to reject
+Replication====>499/2000, Time remaining : 21:27:11.930852
+Reject
+Fail to reject
+Replication====>500/2000, Time remaining : 21:24:22.041203
+Reject
+Fail to reject
+Replication====>501/2000, Time remaining : 21:28:45.889094
+Reject
+Fail to reject
+Replication====>502/2000, Time remaining : 21:29:41.741774
+Reject
+Fail to reject
+Replication====>503/2000, Time remaining : 21:32:09.520250
+Fail to reject
+Fail to reject
+Replication====>504/2000, Time remaining : 21:25:11.314658
+Fail to reject
+Fail to reject
+Replication====>505/2000, Time remaining : 21:24:24.510365
+Fail to reject
+Reject
+Replication====>506/2000, Time remaining : 21:19:01.331380
+Reject
+Fail to reject
+Replication====>507/2000, Time remaining : 21:24:33.491609
+Reject
+Fail to reject
+Replication====>508/2000, Time remaining : 21:27:34.106488
+Fail to reject
+Fail to reject
+Replication====>509/2000, Time remaining : 21:16:15.220983
+Fail to reject
+Fail to reject
+Replication====>510/2000, Time remaining : 21:18:51.480381
+Reject
+Fail to reject
+Replication====>511/2000, Time remaining : 21:19:38.213253
+Fail to reject
+Fail to reject
+Replication====>512/2000, Time remaining : 21:20:24.397122
+Fail to reject
+Fail to reject
+Replication====>513/2000, Time remaining : 21:16:21.933407
+Fail to reject
+Fail to reject
+Replication====>514/2000, Time remaining : 21:13:44.598320
+Fail to reject
+Fail to reject
+Replication====>515/2000, Time remaining : 21:17:53.208555
+Reject
+Fail to reject
+Replication====>516/2000, Time remaining : 21:09:32.911476
+Reject
+Fail to reject
+Replication====>517/2000, Time remaining : 21:13:45.501811
+Fail to reject
+Fail to reject
+Replication====>518/2000, Time remaining : 21:11:09.694610
+Fail to reject
+Fail to reject
+Replication====>519/2000, Time remaining : 21:15:42.109909
+Fail to reject
+Fail to reject
+Replication====>520/2000, Time remaining : 21:15:23.420168
+Fail to reject
+Fail to reject
+Replication====>521/2000, Time remaining : 21:08:59.694148
+Reject
+Fail to reject
+Replication====>522/2000, Time remaining : 21:13:33.197364
+Reject
+Fail to reject
+Replication====>523/2000, Time remaining : 21:07:27.527123
+Fail to reject
+Fail to reject
+Replication====>524/2000, Time remaining : 21:06:29.446515
+Fail to reject
+Fail to reject
+Replication====>525/2000, Time remaining : 21:07:23.878814
+Fail to reject
+Fail to reject
+Replication====>526/2000, Time remaining : 21:10:34.748174
+Reject
+Fail to reject
+Replication====>527/2000, Time remaining : 21:10:14.466461
+Fail to reject
+Fail to reject
+Replication====>528/2000, Time remaining : 21:02:45.291692
+Fail to reject
+Fail to reject
+Replication====>529/2000, Time remaining : 21:08:11.941566
+Fail to reject
+Fail to reject
+Replication====>530/2000, Time remaining : 21:07:24.430917
+Fail to reject
+Fail to reject
+Replication====>531/2000, Time remaining : 20:58:09.235392
+Fail to reject
+Fail to reject
+Replication====>532/2000, Time remaining : 21:04:42.413549
+Reject
+Fail to reject
+Replication====>533/2000, Time remaining : 20:55:36.002682
+Fail to reject
+Fail to reject
+Replication====>534/2000, Time remaining : 21:00:57.490119
+Reject
+Fail to reject
+Replication====>535/2000, Time remaining : 20:58:33.060900
+Reject
+Fail to reject
+Replication====>536/2000, Time remaining : 20:52:18.381938
+Fail to reject
+Fail to reject
+Replication====>537/2000, Time remaining : 20:51:59.030776
+Fail to reject
+Fail to reject
+Replication====>538/2000, Time remaining : 20:56:00.680257
+Fail to reject
+Fail to reject
+Replication====>539/2000, Time remaining : 20:56:14.204602
+Fail to reject
+Fail to reject
+Replication====>540/2000, Time remaining : 20:58:01.413894
+Fail to reject
+Fail to reject
+Replication====>541/2000, Time remaining : 20:55:12.425085
+Fail to reject
+Fail to reject
+Replication====>542/2000, Time remaining : 20:53:30.696241
+Fail to reject
+Fail to reject
+Replication====>543/2000, Time remaining : 20:54:04.079544
+Reject
+Fail to reject
+Replication====>544/2000, Time remaining : 20:51:15.618052
+Fail to reject
+Fail to reject
+Replication====>545/2000, Time remaining : 20:50:16.296091
+Fail to reject
+Fail to reject
+Replication====>546/2000, Time remaining : 20:48:29.244311
+Reject
+Fail to reject
+Replication====>547/2000, Time remaining : 20:50:29.962592
+Reject
+Fail to reject
+Replication====>548/2000, Time remaining : 20:41:30.615774
+Fail to reject
+Fail to reject
+Replication====>549/2000, Time remaining : 20:49:55.239401
+Fail to reject
+Fail to reject
+Replication====>550/2000, Time remaining : 20:44:40.865393
+Fail to reject
+Fail to reject
+Replication====>551/2000, Time remaining : 20:48:10.749573
+Fail to reject
+Fail to reject
+Replication====>552/2000, Time remaining : 20:47:12.794407
+Fail to reject
+Fail to reject
+Replication====>553/2000, Time remaining : 20:32:06.687944
+Reject
+Fail to reject
+Replication====>554/2000, Time remaining : 20:41:39.341224
+Fail to reject
+Fail to reject
+Replication====>555/2000, Time remaining : 20:42:38.301796
+Reject
+Fail to reject
+Replication====>556/2000, Time remaining : 20:37:58.191605
+Fail to reject
+Fail to reject
+Replication====>557/2000, Time remaining : 20:36:37.339435
+Fail to reject
+Reject
+Replication====>558/2000, Time remaining : 20:39:44.831765
+Fail to reject
+Fail to reject
+Replication====>559/2000, Time remaining : 20:35:06.504478
+Fail to reject
+Fail to reject
+Replication====>560/2000, Time remaining : 20:36:29.700171
+Reject
+Fail to reject
+Replication====>561/2000, Time remaining : 20:34:52.153020
+Fail to reject
+Fail to reject
+Replication====>562/2000, Time remaining : 20:34:43.002613
+Fail to reject
+Fail to reject
+Replication====>563/2000, Time remaining : 20:34:38.216980
+Reject
+Fail to reject
+Replication====>564/2000, Time remaining : 20:35:48.487498
+Fail to reject
+Fail to reject
+Replication====>565/2000, Time remaining : 20:35:39.003871
+Reject
+Fail to reject
+Replication====>566/2000, Time remaining : 20:32:07.962521
+Reject
+Fail to reject
+Replication====>567/2000, Time remaining : 20:34:11.907850
+Reject
+Fail to reject
+Replication====>568/2000, Time remaining : 20:34:43.710974
+Reject
+Fail to reject
+Replication====>569/2000, Time remaining : 20:35:09.594941
+Fail to reject
+Fail to reject
+Replication====>570/2000, Time remaining : 20:23:05.777504
+Reject
+Fail to reject
+Replication====>571/2000, Time remaining : 20:29:31.839927
+Fail to reject
+Fail to reject
+Replication====>572/2000, Time remaining : 20:27:30.114066
+Reject
+Fail to reject
+Replication====>573/2000, Time remaining : 20:26:55.910800
+Fail to reject
+Fail to reject
+Replication====>574/2000, Time remaining : 20:24:06.748728
+Fail to reject
+Fail to reject
+Replication====>575/2000, Time remaining : 20:22:15.960617
+Fail to reject
+Fail to reject
+Replication====>576/2000, Time remaining : 20:25:53.648371
+Fail to reject
+Fail to reject
+Replication====>577/2000, Time remaining : 20:20:53.568346
+Fail to reject
+Fail to reject
+Replication====>578/2000, Time remaining : 20:20:01.899731
+Reject
+Fail to reject
+Replication====>579/2000, Time remaining : 20:19:52.088165
+Reject
+Fail to reject
+Replication====>580/2000, Time remaining : 20:20:54.566732
+Fail to reject
+Fail to reject
+Replication====>581/2000, Time remaining : 20:15:20.938989
+Fail to reject
+Fail to reject
+Replication====>582/2000, Time remaining : 20:19:41.790990
+Reject
+Fail to reject
+Replication====>583/2000, Time remaining : 20:16:25.201607
+Fail to reject
+Fail to reject
+Replication====>584/2000, Time remaining : 20:18:42.831590
+Fail to reject
+Fail to reject
+Replication====>585/2000, Time remaining : 20:19:05.681640
+Reject
+Reject
+Replication====>586/2000, Time remaining : 20:14:28.806420
+Reject
+Fail to reject
+Replication====>587/2000, Time remaining : 20:17:26.703847
+Reject
+Fail to reject
+Replication====>588/2000, Time remaining : 20:11:17.814431
+Fail to reject
+Fail to reject
+Replication====>589/2000, Time remaining : 20:12:38.625355
+Reject
+Fail to reject
+Replication====>590/2000, Time remaining : 20:13:54.071212
+Fail to reject
+Fail to reject
+Replication====>591/2000, Time remaining : 20:09:59.922119
+Fail to reject
+Fail to reject
+Replication====>592/2000, Time remaining : 20:09:30.192424
+Fail to reject
+Fail to reject
+Replication====>593/2000, Time remaining : 20:14:10.888789
+Fail to reject
+Fail to reject
+Replication====>594/2000, Time remaining : 20:09:34.080428
+Reject
+Fail to reject
+Replication====>595/2000, Time remaining : 20:05:59.456923
+Reject
+Fail to reject
+Replication====>596/2000, Time remaining : 20:02:42.077635
+Fail to reject
+Fail to reject
+Replication====>597/2000, Time remaining : 20:06:09.116602
+Fail to reject
+Fail to reject
+Replication====>598/2000, Time remaining : 20:04:10.920701
+Reject
+Fail to reject
+Replication====>599/2000, Time remaining : 20:07:52.249508
+Reject
+Fail to reject
+Replication====>600/2000, Time remaining : 20:01:05.725398
+Reject
+Fail to reject
+Replication====>601/2000, Time remaining : 20:06:04.239714
+Reject
+Fail to reject
+Replication====>602/2000, Time remaining : 20:05:35.409279
+Fail to reject
+Fail to reject
+Replication====>603/2000, Time remaining : 20:01:41.359205
+Fail to reject
+Fail to reject
+Replication====>604/2000, Time remaining : 20:03:45.159280
+Reject
+Fail to reject
+Replication====>605/2000, Time remaining : 19:58:03.791994
+Fail to reject
+Fail to reject
+Replication====>606/2000, Time remaining : 20:01:18.683868
+Fail to reject
+Fail to reject
+Replication====>607/2000, Time remaining : 20:01:04.346752
+Fail to reject
+Fail to reject
+Replication====>608/2000, Time remaining : 19:55:30.578046
+Reject
+Fail to reject
+Replication====>609/2000, Time remaining : 19:55:26.986461
+Fail to reject
+Fail to reject
+Replication====>610/2000, Time remaining : 19:54:59.025074
+Fail to reject
+Fail to reject
+Replication====>611/2000, Time remaining : 19:52:46.339873
+Fail to reject
+Fail to reject
+Replication====>612/2000, Time remaining : 19:53:58.662235
+Reject
+Fail to reject
+Replication====>613/2000, Time remaining : 19:54:58.817964
+Reject
+Fail to reject
+Replication====>614/2000, Time remaining : 19:45:06.034276
+Fail to reject
+Fail to reject
+Replication====>615/2000, Time remaining : 19:54:21.992193
+Fail to reject
+Fail to reject
+Replication====>616/2000, Time remaining : 19:51:07.946083
+Fail to reject
+Fail to reject
+Replication====>617/2000, Time remaining : 19:52:39.783681
+Reject
+Fail to reject
+Replication====>618/2000, Time remaining : 19:50:48.389036
+Reject
+Fail to reject
+Replication====>619/2000, Time remaining : 19:49:34.361057
+Fail to reject
+Fail to reject
+Replication====>620/2000, Time remaining : 19:45:53.580587
+Fail to reject
+Fail to reject
+Replication====>621/2000, Time remaining : 19:47:56.942764
+Reject
+Fail to reject
+Replication====>622/2000, Time remaining : 19:41:33.619303
+Fail to reject
+Fail to reject
+Replication====>623/2000, Time remaining : 19:44:04.930229
+Reject
+Fail to reject
+Replication====>624/2000, Time remaining : 19:42:27.141886
+Reject
+Fail to reject
+Replication====>625/2000, Time remaining : 19:39:51.452827
+Reject
+Fail to reject
+Replication====>626/2000, Time remaining : 19:37:34.317519
+Reject
+Fail to reject
+Replication====>627/2000, Time remaining : 19:42:25.146899
+Fail to reject
+Fail to reject
+Replication====>628/2000, Time remaining : 19:31:47.717862
+Fail to reject
+Fail to reject
+Replication====>629/2000, Time remaining : 19:38:25.801766
+Fail to reject
+Fail to reject
+Replication====>630/2000, Time remaining : 19:35:15.250874
+Fail to reject
+Fail to reject
+Replication====>631/2000, Time remaining : 19:36:17.408197
+Fail to reject
+Fail to reject
+Replication====>632/2000, Time remaining : 19:37:16.197848
+Fail to reject
+Fail to reject
+Replication====>633/2000, Time remaining : 19:34:48.212147
+Fail to reject
+Fail to reject
+Replication====>634/2000, Time remaining : 19:33:13.470379
+Fail to reject
+Fail to reject
+Replication====>635/2000, Time remaining : 19:32:14.229509
+Fail to reject
+Fail to reject
+Replication====>636/2000, Time remaining : 19:31:58.496063
+Fail to reject
+Fail to reject
+Replication====>637/2000, Time remaining : 19:32:23.465115
+Fail to reject
+Fail to reject
+Replication====>638/2000, Time remaining : 19:30:03.514447
+Fail to reject
+Fail to reject
+Replication====>639/2000, Time remaining : 19:29:42.302628
+Reject
+Fail to reject
+Replication====>640/2000, Time remaining : 19:33:50.825355
+Fail to reject
+Reject
+Replication====>641/2000, Time remaining : 19:29:41.215069
+Reject
+Fail to reject
+Replication====>642/2000, Time remaining : 19:29:18.805033
+Fail to reject
+Fail to reject
+Replication====>643/2000, Time remaining : 19:26:41.922641
+Reject
+Fail to reject
+Replication====>644/2000, Time remaining : 19:22:11.399462
+Reject
+Fail to reject
+Replication====>645/2000, Time remaining : 19:27:44.289705
+Fail to reject
+Fail to reject
+Replication====>646/2000, Time remaining : 19:23:27.232781
+Fail to reject
+Fail to reject
+Replication====>647/2000, Time remaining : 19:27:08.883429
+Reject
+Fail to reject
+Replication====>648/2000, Time remaining : 19:23:49.043961
+Fail to reject
+Fail to reject
+Replication====>649/2000, Time remaining : 19:22:28.533690
+Fail to reject
+Fail to reject
+Replication====>650/2000, Time remaining : 19:21:27.631957
+Reject
+Fail to reject
+Replication====>651/2000, Time remaining : 19:15:18.358076
+Fail to reject
+Fail to reject
+Replication====>652/2000, Time remaining : 19:15:01.550096
+Fail to reject
+Fail to reject
+Replication====>653/2000, Time remaining : 19:20:06.214747
+Reject
+Fail to reject
+Replication====>654/2000, Time remaining : 19:16:47.091517
+Reject
+Fail to reject
+Replication====>655/2000, Time remaining : 19:11:56.459244
+Fail to reject
+Fail to reject
+Replication====>656/2000, Time remaining : 19:16:19.720484
+Reject
+Fail to reject
+Replication====>657/2000, Time remaining : 19:14:54.623047
+Fail to reject
+Fail to reject
+Replication====>658/2000, Time remaining : 19:09:53.509130
+Reject
+Fail to reject
+Replication====>659/2000, Time remaining : 19:13:31.369128
+Fail to reject
+Fail to reject
+Replication====>660/2000, Time remaining : 19:09:43.109764
+Reject
+Fail to reject
+Replication====>661/2000, Time remaining : 19:11:34.398615
+Fail to reject
+Fail to reject
+Replication====>662/2000, Time remaining : 19:14:03.272982
+Fail to reject
+Fail to reject
+Replication====>663/2000, Time remaining : 19:08:14.231117
+Fail to reject
+Fail to reject
+Replication====>664/2000, Time remaining : 19:08:17.421666
+Fail to reject
+Fail to reject
+Replication====>665/2000, Time remaining : 19:03:16.049734
+Fail to reject
+Fail to reject
+Replication====>666/2000, Time remaining : 19:05:20.585638
+Fail to reject
+Fail to reject
+Replication====>667/2000, Time remaining : 19:01:46.579150
+Fail to reject
+Fail to reject
+Replication====>668/2000, Time remaining : 19:01:24.542220
+Fail to reject
+Fail to reject
+Replication====>669/2000, Time remaining : 19:01:18.400939
+Fail to reject
+Fail to reject
+Replication====>670/2000, Time remaining : 19:03:57.920762
+Reject
+Fail to reject
+Replication====>671/2000, Time remaining : 19:08:02.816845
+Reject
+Fail to reject
+Replication====>672/2000, Time remaining : 19:04:06.728141
+Reject
+Fail to reject
+Replication====>673/2000, Time remaining : 18:57:10.436716
+Fail to reject
+Fail to reject
+Replication====>674/2000, Time remaining : 18:59:17.097065
+Reject
+Fail to reject
+Replication====>675/2000, Time remaining : 19:00:12.661904
+Reject
+Fail to reject
+Replication====>676/2000, Time remaining : 18:55:37.097232
+Fail to reject
+Fail to reject
+Replication====>677/2000, Time remaining : 18:55:54.345318
+Reject
+Fail to reject
+Replication====>678/2000, Time remaining : 18:56:59.003209
+Fail to reject
+Fail to reject
+Replication====>679/2000, Time remaining : 18:55:41.599846
+Fail to reject
+Fail to reject
+Replication====>680/2000, Time remaining : 18:54:28.397580
+Fail to reject
+Fail to reject
+Replication====>681/2000, Time remaining : 18:55:18.689980
+Fail to reject
+Fail to reject
+Replication====>682/2000, Time remaining : 18:56:49.987144
+Reject
+Fail to reject
+Replication====>683/2000, Time remaining : 18:50:50.083070
+Fail to reject
+Fail to reject
+Replication====>684/2000, Time remaining : 18:51:54.428116
+Fail to reject
+Fail to reject
+Replication====>685/2000, Time remaining : 18:41:42.600716
+Fail to reject
+Fail to reject
+Replication====>686/2000, Time remaining : 18:48:55.644182
+Reject
+Fail to reject
+Replication====>687/2000, Time remaining : 18:51:39.642303
+Reject
+Fail to reject
+Replication====>688/2000, Time remaining : 18:48:01.972529
+Reject
+Fail to reject
+Replication====>689/2000, Time remaining : 18:45:01.071737
+Reject
+Fail to reject
+Replication====>690/2000, Time remaining : 18:48:45.326204
+Reject
+Fail to reject
+Replication====>691/2000, Time remaining : 18:47:15.186905
+Reject
+Reject
+Replication====>692/2000, Time remaining : 18:48:40.643893
+Fail to reject
+Fail to reject
+Replication====>693/2000, Time remaining : 18:43:14.963304
+Fail to reject
+Fail to reject
+Replication====>694/2000, Time remaining : 18:40:55.511745
+Fail to reject
+Fail to reject
+Replication====>695/2000, Time remaining : 18:43:40.857279
+Reject
+Fail to reject
+Replication====>696/2000, Time remaining : 18:41:07.157538
+Fail to reject
+Fail to reject
+Replication====>697/2000, Time remaining : 18:41:12.558904
+Fail to reject
+Fail to reject
+Replication====>698/2000, Time remaining : 18:44:10.133493
+Reject
+Fail to reject
+Replication====>699/2000, Time remaining : 18:37:00.229626
+Fail to reject
+Fail to reject
+Replication====>700/2000, Time remaining : 18:37:33.426267
+Fail to reject
+Fail to reject
+Replication====>701/2000, Time remaining : 18:38:22.481052
+Reject
+Fail to reject
+Replication====>702/2000, Time remaining : 18:37:57.395846
+Fail to reject
+Fail to reject
+Replication====>703/2000, Time remaining : 18:38:02.922695
+Fail to reject
+Reject
+Replication====>704/2000, Time remaining : 18:35:50.751338
+Reject
+Fail to reject
+Replication====>705/2000, Time remaining : 18:36:07.273846
+Fail to reject
+Fail to reject
+Replication====>706/2000, Time remaining : 18:31:59.740116
+Reject
+Fail to reject
+Replication====>707/2000, Time remaining : 18:31:28.133134
+Reject
+Fail to reject
+Replication====>708/2000, Time remaining : 18:28:58.296620
+Fail to reject
+Fail to reject
+Replication====>709/2000, Time remaining : 18:30:33.398938
+Fail to reject
+Fail to reject
+Replication====>710/2000, Time remaining : 18:27:46.091437
+Fail to reject
+Fail to reject
+Replication====>711/2000, Time remaining : 18:29:59.297747
+Fail to reject
+Fail to reject
+Replication====>712/2000, Time remaining : 18:30:13.374041
+Fail to reject
+Fail to reject
+Replication====>713/2000, Time remaining : 18:28:05.432013
+Fail to reject
+Fail to reject
+Replication====>714/2000, Time remaining : 18:27:33.577895
+Fail to reject
+Fail to reject
+Replication====>715/2000, Time remaining : 18:24:51.008062
+Fail to reject
+Fail to reject
+Replication====>716/2000, Time remaining : 18:23:49.165544
+Fail to reject
+Fail to reject
+Replication====>717/2000, Time remaining : 18:23:08.023988
+Fail to reject
+Fail to reject
+Replication====>718/2000, Time remaining : 18:22:48.697397
+Fail to reject
+Fail to reject
+Replication====>719/2000, Time remaining : 18:23:48.991394
+Reject
+Fail to reject
+Replication====>720/2000, Time remaining : 18:23:47.845202
+Reject
+Fail to reject
+Replication====>721/2000, Time remaining : 18:20:58.662217
+Fail to reject
+Reject
+Replication====>722/2000, Time remaining : 18:20:10.901273
+Reject
+Fail to reject
+Replication====>723/2000, Time remaining : 18:17:19.304827
+Fail to reject
+Fail to reject
+Replication====>724/2000, Time remaining : 18:14:20.500091
+Reject
+Fail to reject
+Replication====>725/2000, Time remaining : 18:09:44.912372
+Reject
+Fail to reject
+Replication====>726/2000, Time remaining : 18:12:47.056107
+Fail to reject
+Fail to reject
+Replication====>727/2000, Time remaining : 18:07:54.659809
+Fail to reject
+Reject
+Replication====>728/2000, Time remaining : 18:17:34.485378
+Fail to reject
+Fail to reject
+Replication====>729/2000, Time remaining : 18:11:47.752328
+Fail to reject
+Fail to reject
+Replication====>730/2000, Time remaining : 18:12:37.634141
+Reject
+Fail to reject
+Replication====>731/2000, Time remaining : 18:11:41.841846
+Fail to reject
+Fail to reject
+Replication====>732/2000, Time remaining : 18:12:16.368434
+Fail to reject
+Fail to reject
+Replication====>733/2000, Time remaining : 18:10:17.191389
+Fail to reject
+Reject
+Replication====>734/2000, Time remaining : 18:07:38.524206
+Reject
+Fail to reject
+Replication====>735/2000, Time remaining : 18:08:57.513485
+Fail to reject
+Fail to reject
+Replication====>736/2000, Time remaining : 18:04:38.073672
+Fail to reject
+Reject
+Replication====>737/2000, Time remaining : 18:06:55.175335
+Fail to reject
+Fail to reject
+Replication====>738/2000, Time remaining : 18:05:09.770869
+Fail to reject
+Fail to reject
+Replication====>739/2000, Time remaining : 18:05:19.194331
+Fail to reject
+Fail to reject
+Replication====>740/2000, Time remaining : 17:58:00.361070
+Reject
+Fail to reject
+Replication====>741/2000, Time remaining : 17:58:35.490253
+Fail to reject
+Fail to reject
+Replication====>742/2000, Time remaining : 17:56:23.171873
+Reject
+Fail to reject
+Replication====>743/2000, Time remaining : 17:56:41.922426
+Fail to reject
+Fail to reject
+Replication====>744/2000, Time remaining : 17:56:57.841741
+Fail to reject
+Fail to reject
+Replication====>745/2000, Time remaining : 17:58:08.886113
+Fail to reject
+Fail to reject
+Replication====>746/2000, Time remaining : 17:59:34.395947
+Reject
+Fail to reject
+Replication====>747/2000, Time remaining : 17:55:12.174675
+Reject
+Fail to reject
+Replication====>748/2000, Time remaining : 17:56:59.678399
+Fail to reject
+Fail to reject
+Replication====>749/2000, Time remaining : 17:58:09.843357
+Reject
+Reject
+Replication====>750/2000, Time remaining : 17:54:16.244128
+Fail to reject
+Fail to reject
+Replication====>751/2000, Time remaining : 17:53:52.756577
+Reject
+Fail to reject
+Replication====>752/2000, Time remaining : 17:54:03.141748
+Reject
+Fail to reject
+Replication====>753/2000, Time remaining : 17:50:49.302058
+Reject
+Reject
+Replication====>754/2000, Time remaining : 17:51:32.316320
+Fail to reject
+Fail to reject
+Replication====>755/2000, Time remaining : 17:49:45.476442
+Reject
+Fail to reject
+Replication====>756/2000, Time remaining : 17:46:00.482614
+Fail to reject
+Fail to reject
+Replication====>757/2000, Time remaining : 17:50:11.359491
+Reject
+Fail to reject
+Replication====>758/2000, Time remaining : 17:47:22.373108
+Reject
+Fail to reject
+Replication====>759/2000, Time remaining : 17:44:54.649782
+Fail to reject
+Fail to reject
+Replication====>760/2000, Time remaining : 17:45:32.123978
+Fail to reject
+Reject
+Replication====>761/2000, Time remaining : 17:43:43.656775
+Fail to reject
+Fail to reject
+Replication====>762/2000, Time remaining : 17:39:19.903797
+Fail to reject
+Fail to reject
+Replication====>763/2000, Time remaining : 17:44:10.662108
+Fail to reject
+Fail to reject
+Replication====>764/2000, Time remaining : 17:39:45.907915
+Fail to reject
+Fail to reject
+Replication====>765/2000, Time remaining : 17:40:37.531729
+Fail to reject
+Fail to reject
+Replication====>766/2000, Time remaining : 17:42:57.093621
+Fail to reject
+Fail to reject
+Replication====>767/2000, Time remaining : 17:41:38.945850
+Fail to reject
+Fail to reject
+Replication====>768/2000, Time remaining : 17:39:59.813061
+Fail to reject
+Fail to reject
+Replication====>769/2000, Time remaining : 17:41:17.313759
+Fail to reject
+Fail to reject
+Replication====>770/2000, Time remaining : 17:38:28.070660
+Fail to reject
+Fail to reject
+Replication====>771/2000, Time remaining : 17:39:49.547706
+Reject
+Fail to reject
+Replication====>772/2000, Time remaining : 17:32:25.533446
+Reject
+Fail to reject
+Replication====>773/2000, Time remaining : 17:34:31.078041
+Fail to reject
+Fail to reject
+Replication====>774/2000, Time remaining : 17:36:49.816957
+Fail to reject
+Fail to reject
+Replication====>775/2000, Time remaining : 17:35:44.428270
+Reject
+Fail to reject
+Replication====>776/2000, Time remaining : 17:31:01.115367
+Reject
+Fail to reject
+Replication====>777/2000, Time remaining : 17:32:33.613865
+Fail to reject
+Fail to reject
+Replication====>778/2000, Time remaining : 17:32:19.714632
+Fail to reject
+Fail to reject
+Replication====>779/2000, Time remaining : 17:31:18.335485
+Fail to reject
+Reject
+Replication====>780/2000, Time remaining : 17:28:00.748784
+Fail to reject
+Fail to reject
+Replication====>781/2000, Time remaining : 17:26:26.075688
+Reject
+Fail to reject
+Replication====>782/2000, Time remaining : 17:27:07.628482
+Reject
+Fail to reject
+Replication====>783/2000, Time remaining : 17:24:27.492477
+Fail to reject
+Fail to reject
+Replication====>784/2000, Time remaining : 17:23:44.385778
+Fail to reject
+Fail to reject
+Replication====>785/2000, Time remaining : 17:20:04.600194
+Fail to reject
+Fail to reject
+Replication====>786/2000, Time remaining : 17:20:53.428770
+Fail to reject
+Fail to reject
+Replication====>787/2000, Time remaining : 17:21:22.665945
+Fail to reject
+Fail to reject
+Replication====>788/2000, Time remaining : 17:21:10.407183
+Fail to reject
+Fail to reject
+Replication====>789/2000, Time remaining : 17:20:02.881925
+Fail to reject
+Fail to reject
+Replication====>790/2000, Time remaining : 17:20:26.718159
+Fail to reject
+Fail to reject
+Replication====>791/2000, Time remaining : 17:20:30.888193
+Reject
+Fail to reject
+Replication====>792/2000, Time remaining : 17:16:26.198834
+Fail to reject
+Fail to reject
+Replication====>793/2000, Time remaining : 17:16:57.829730
+Fail to reject
+Fail to reject
+Replication====>794/2000, Time remaining : 17:16:54.557234
+Fail to reject
+Fail to reject
+Replication====>795/2000, Time remaining : 17:13:48.010878
+Fail to reject
+Fail to reject
+Replication====>796/2000, Time remaining : 17:15:12.690778
+Fail to reject
+Fail to reject
+Replication====>797/2000, Time remaining : 17:12:55.525727
+Fail to reject
+Fail to reject
+Replication====>798/2000, Time remaining : 17:10:19.393475
+Fail to reject
+Fail to reject
+Replication====>799/2000, Time remaining : 17:11:34.120789
+Fail to reject
+Fail to reject
+Replication====>800/2000, Time remaining : 17:10:07.662960
+Fail to reject
+Fail to reject
+Replication====>801/2000, Time remaining : 17:13:36.690292
+Reject
+Reject
+Replication====>802/2000, Time remaining : 17:04:49.735183
+Fail to reject
+Fail to reject
+Replication====>803/2000, Time remaining : 17:07:46.923908
+Reject
+Fail to reject
+Replication====>804/2000, Time remaining : 17:06:21.383690
+Reject
+Reject
+Replication====>805/2000, Time remaining : 17:06:37.881160
+Fail to reject
+Fail to reject
+Replication====>806/2000, Time remaining : 17:07:04.519922
+Reject
+Fail to reject
+Replication====>807/2000, Time remaining : 17:01:23.422796
+Reject
+Fail to reject
+Replication====>808/2000, Time remaining : 17:01:07.810064
+Fail to reject
+Fail to reject
+Replication====>809/2000, Time remaining : 17:05:12.112658
+Fail to reject
+Fail to reject
+Replication====>810/2000, Time remaining : 17:01:58.387143
+Fail to reject
+Fail to reject
+Replication====>811/2000, Time remaining : 17:02:56.608847
+Fail to reject
+Fail to reject
+Replication====>812/2000, Time remaining : 16:59:08.204942
+Fail to reject
+Fail to reject
+Replication====>813/2000, Time remaining : 17:03:12.280373
+Reject
+Fail to reject
+Replication====>814/2000, Time remaining : 17:00:14.081029
+Fail to reject
+Fail to reject
+Replication====>815/2000, Time remaining : 16:59:45.574265
+Reject
+Fail to reject
+Replication====>816/2000, Time remaining : 16:53:18.829604
+Reject
+Fail to reject
+Replication====>817/2000, Time remaining : 16:58:55.988902
+Fail to reject
+Fail to reject
+Replication====>818/2000, Time remaining : 16:54:26.707847
+Reject
+Fail to reject
+Replication====>819/2000, Time remaining : 16:51:10.581656
+Fail to reject
+Fail to reject
+Replication====>820/2000, Time remaining : 16:48:38.139341
+Fail to reject
+Fail to reject
+Replication====>821/2000, Time remaining : 16:53:33.222344
+Fail to reject
+Fail to reject
+Replication====>822/2000, Time remaining : 16:52:48.453730
+Fail to reject
+Fail to reject
+Replication====>823/2000, Time remaining : 16:53:29.935535
+Fail to reject
+Fail to reject
+Replication====>824/2000, Time remaining : 16:55:18.516278
+Fail to reject
+Fail to reject
+Replication====>825/2000, Time remaining : 16:48:41.690337
+Fail to reject
+Fail to reject
+Replication====>826/2000, Time remaining : 16:48:53.441932
+Fail to reject
+Fail to reject
+Replication====>827/2000, Time remaining : 16:48:13.656852
+Fail to reject
+Fail to reject
+Replication====>828/2000, Time remaining : 16:44:09.167316
+Fail to reject
+Fail to reject
+Replication====>829/2000, Time remaining : 16:43:58.609750
+Reject
+Fail to reject
+Replication====>830/2000, Time remaining : 16:42:09.880913
+Fail to reject
+Fail to reject
+Replication====>831/2000, Time remaining : 16:44:58.145363
+Fail to reject
+Fail to reject
+Replication====>832/2000, Time remaining : 16:41:28.539256
+Fail to reject
+Fail to reject
+Replication====>833/2000, Time remaining : 16:41:32.369610
+Fail to reject
+Fail to reject
+Replication====>834/2000, Time remaining : 16:40:20.321401
+Reject
+Fail to reject
+Replication====>835/2000, Time remaining : 16:40:58.869289
+Fail to reject
+Fail to reject
+Replication====>836/2000, Time remaining : 16:36:28.012247
+Reject
+Fail to reject
+Replication====>837/2000, Time remaining : 16:38:21.309112
+Fail to reject
+Fail to reject
+Replication====>838/2000, Time remaining : 16:35:28.179985
+Reject
+Fail to reject
+Replication====>839/2000, Time remaining : 16:37:36.787548
+Fail to reject
+Fail to reject
+Replication====>840/2000, Time remaining : 16:38:11.767344
+Fail to reject
+Fail to reject
+Replication====>841/2000, Time remaining : 16:34:18.305214
+Fail to reject
+Fail to reject
+Replication====>842/2000, Time remaining : 16:35:31.937336
+Reject
+Fail to reject
+Replication====>843/2000, Time remaining : 16:32:20.625710
+Fail to reject
+Fail to reject
+Replication====>844/2000, Time remaining : 16:31:15.471092
+Fail to reject
+Fail to reject
+Replication====>845/2000, Time remaining : 16:34:29.606737
+Reject
+Fail to reject
+Replication====>846/2000, Time remaining : 16:31:18.040817
+Reject
+Fail to reject
+Replication====>847/2000, Time remaining : 16:30:23.188568
+Fail to reject
+Fail to reject
+Replication====>848/2000, Time remaining : 16:31:48.543881
+Fail to reject
+Fail to reject
+Replication====>849/2000, Time remaining : 16:26:53.344276
+Reject
+Fail to reject
+Replication====>850/2000, Time remaining : 16:25:23.304064
+Fail to reject
+Fail to reject
+Replication====>851/2000, Time remaining : 16:28:17.279559
+Fail to reject
+Fail to reject
+Replication====>852/2000, Time remaining : 16:26:52.326908
+Fail to reject
+Fail to reject
+Replication====>853/2000, Time remaining : 16:25:43.093733
+Fail to reject
+Fail to reject
+Replication====>854/2000, Time remaining : 16:25:49.099016
+Reject
+Fail to reject
+Replication====>855/2000, Time remaining : 16:21:59.723867
+Fail to reject
+Fail to reject
+Replication====>856/2000, Time remaining : 16:22:51.742636
+Fail to reject
+Fail to reject
+Replication====>857/2000, Time remaining : 16:21:31.861174
+Fail to reject
+Fail to reject
+Replication====>858/2000, Time remaining : 16:18:15.859986
+Fail to reject
+Fail to reject
+Replication====>859/2000, Time remaining : 16:19:36.517739
+Fail to reject
+Fail to reject
+Replication====>860/2000, Time remaining : 16:19:53.532594
+Fail to reject
+Fail to reject
+Replication====>861/2000, Time remaining : 16:17:31.297658
+Fail to reject
+Fail to reject
+Replication====>862/2000, Time remaining : 16:17:22.528141
+Reject
+Fail to reject
+Replication====>863/2000, Time remaining : 16:18:20.262142
+Fail to reject
+Fail to reject
+Replication====>864/2000, Time remaining : 16:18:13.369918
+Fail to reject
+Fail to reject
+Replication====>865/2000, Time remaining : 16:17:03.696699
+Reject
+Fail to reject
+Replication====>866/2000, Time remaining : 16:16:02.800020
+Fail to reject
+Fail to reject
+Replication====>867/2000, Time remaining : 16:10:25.749143
+Reject
+Fail to reject
+Replication====>868/2000, Time remaining : 16:10:52.967319
+Fail to reject
+Fail to reject
+Replication====>869/2000, Time remaining : 16:13:51.424181
+Fail to reject
+Fail to reject
+Replication====>870/2000, Time remaining : 16:09:33.638401
+Fail to reject
+Fail to reject
+Replication====>871/2000, Time remaining : 16:09:22.974672
+Reject
+Fail to reject
+Replication====>872/2000, Time remaining : 16:10:11.025527
+Fail to reject
+Fail to reject
+Replication====>873/2000, Time remaining : 16:08:49.431607
+Fail to reject
+Fail to reject
+Replication====>874/2000, Time remaining : 16:06:03.889450
+Reject
+Fail to reject
+Replication====>875/2000, Time remaining : 16:05:59.678568
+Reject
+Fail to reject
+Replication====>876/2000, Time remaining : 16:05:48.252404
+Fail to reject
+Fail to reject
+Replication====>877/2000, Time remaining : 16:03:04.587111
+Reject
+Fail to reject
+Replication====>878/2000, Time remaining : 16:02:36.346765
+Fail to reject
+Fail to reject
+Replication====>879/2000, Time remaining : 16:03:07.884979
+Reject
+Fail to reject
+Replication====>880/2000, Time remaining : 16:04:15.203266
+Fail to reject
+Fail to reject
+Replication====>881/2000, Time remaining : 16:03:59.344449
+Fail to reject
+Fail to reject
+Replication====>882/2000, Time remaining : 15:55:31.986985
+Fail to reject
+Fail to reject
+Replication====>883/2000, Time remaining : 15:59:04.064235
+Fail to reject
+Fail to reject
+Replication====>884/2000, Time remaining : 16:02:04.343235
+Fail to reject
+Fail to reject
+Replication====>885/2000, Time remaining : 15:59:41.879470
+Fail to reject
+Fail to reject
+Replication====>886/2000, Time remaining : 15:58:03.579708
+Fail to reject
+Fail to reject
+Replication====>887/2000, Time remaining : 15:57:12.753368
+Fail to reject
+Fail to reject
+Replication====>888/2000, Time remaining : 15:54:50.405547
+Fail to reject
+Fail to reject
+Replication====>889/2000, Time remaining : 15:48:54.884090
+Fail to reject
+Fail to reject
+Replication====>890/2000, Time remaining : 15:50:00.418755
+Fail to reject
+Fail to reject
+Replication====>891/2000, Time remaining : 15:54:16.879481
+Reject
+Fail to reject
+Replication====>892/2000, Time remaining : 15:50:46.569379
+Fail to reject
+Reject
+Replication====>893/2000, Time remaining : 15:52:14.314663
+Fail to reject
+Fail to reject
+Replication====>894/2000, Time remaining : 15:50:54.516786
+Fail to reject
+Fail to reject
+Replication====>895/2000, Time remaining : 15:49:57.139881
+Fail to reject
+Fail to reject
+Replication====>896/2000, Time remaining : 15:46:50.389078
+Fail to reject
+Fail to reject
+Replication====>897/2000, Time remaining : 15:46:29.142928
+Reject
+Fail to reject
+Replication====>898/2000, Time remaining : 15:44:11.772217
+Fail to reject
+Fail to reject
+Replication====>899/2000, Time remaining : 15:40:18.164659
+Reject
+Reject
+Replication====>900/2000, Time remaining : 15:41:33.779756
+Fail to reject
+Fail to reject
+Replication====>901/2000, Time remaining : 15:39:46.625084
+Fail to reject
+Fail to reject
+Replication====>902/2000, Time remaining : 15:40:41.238006
+Fail to reject
+Fail to reject
+Replication====>903/2000, Time remaining : 15:41:42.098423
+Reject
+Fail to reject
+Replication====>904/2000, Time remaining : 15:39:23.352242
+Reject
+Fail to reject
+Replication====>905/2000, Time remaining : 15:39:11.633775
+Fail to reject
+Fail to reject
+Replication====>906/2000, Time remaining : 15:38:31.103297
+Reject
+Fail to reject
+Replication====>907/2000, Time remaining : 15:38:39.203347
+Fail to reject
+Fail to reject
+Replication====>908/2000, Time remaining : 15:38:42.901011
+Reject
+Fail to reject
+Replication====>909/2000, Time remaining : 15:37:30.879860
+Fail to reject
+Fail to reject
+Replication====>910/2000, Time remaining : 15:34:34.508482
+Fail to reject
+Fail to reject
+Replication====>911/2000, Time remaining : 15:32:55.899948
+Fail to reject
+Fail to reject
+Replication====>912/2000, Time remaining : 15:36:04.713191
+Fail to reject
+Fail to reject
+Replication====>913/2000, Time remaining : 15:33:58.488778
+Fail to reject
+Fail to reject
+Replication====>914/2000, Time remaining : 15:32:13.726037
+Reject
+Fail to reject
+Replication====>915/2000, Time remaining : 15:35:44.685823
+Fail to reject
+Fail to reject
+Replication====>916/2000, Time remaining : 15:33:26.988581
+Fail to reject
+Fail to reject
+Replication====>917/2000, Time remaining : 15:33:59.074076
+Fail to reject
+Fail to reject
+Replication====>918/2000, Time remaining : 15:32:30.772887
+Fail to reject
+Fail to reject
+Replication====>919/2000, Time remaining : 15:29:52.261419
+Fail to reject
+Fail to reject
+Replication====>920/2000, Time remaining : 15:26:34.607386
+Fail to reject
+Fail to reject
+Replication====>921/2000, Time remaining : 15:26:42.758528
+Reject
+Fail to reject
+Replication====>922/2000, Time remaining : 15:26:35.914887
+Fail to reject
+Fail to reject
+Replication====>923/2000, Time remaining : 15:25:06.426934
+Reject
+Reject
+Replication====>924/2000, Time remaining : 15:25:19.714147
+Fail to reject
+Fail to reject
+Replication====>925/2000, Time remaining : 15:22:42.857586
+Fail to reject
+Fail to reject
+Replication====>926/2000, Time remaining : 15:22:08.167023
+Fail to reject
+Fail to reject
+Replication====>927/2000, Time remaining : 15:21:15.009968
+Fail to reject
+Fail to reject
+Replication====>928/2000, Time remaining : 15:23:10.741416
+Fail to reject
+Fail to reject
+Replication====>929/2000, Time remaining : 15:16:48.017678
+Fail to reject
+Fail to reject
+Replication====>930/2000, Time remaining : 15:21:48.714299
+Fail to reject
+Fail to reject
+Replication====>931/2000, Time remaining : 15:19:34.540286
+Fail to reject
+Fail to reject
+Replication====>932/2000, Time remaining : 15:16:50.045936
+Fail to reject
+Fail to reject
+Replication====>933/2000, Time remaining : 15:17:11.911467
+Fail to reject
+Fail to reject
+Replication====>934/2000, Time remaining : 15:16:05.854973
+Reject
+Fail to reject
+Replication====>935/2000, Time remaining : 15:12:25.982433
+Fail to reject
+Fail to reject
+Replication====>936/2000, Time remaining : 15:14:54.969492
+Fail to reject
+Fail to reject
+Replication====>937/2000, Time remaining : 15:13:50.103024
+Fail to reject
+Fail to reject
+Replication====>938/2000, Time remaining : 15:08:46.582095
+Fail to reject
+Fail to reject
+Replication====>939/2000, Time remaining : 15:10:30.099921
+Reject
+Fail to reject
+Replication====>940/2000, Time remaining : 15:13:46.604888
+Fail to reject
+Fail to reject
+Replication====>941/2000, Time remaining : 15:09:22.918989
+Fail to reject
+Fail to reject
+Replication====>942/2000, Time remaining : 15:12:50.810331
+Reject
+Fail to reject
+Replication====>943/2000, Time remaining : 15:11:53.806137
+Reject
+Fail to reject
+Replication====>944/2000, Time remaining : 15:08:44.938024
+Fail to reject
+Fail to reject
+Replication====>945/2000, Time remaining : 15:06:29.161360
+Reject
+Fail to reject
+Replication====>946/2000, Time remaining : 15:08:27.574533
+Fail to reject
+Fail to reject
+Replication====>947/2000, Time remaining : 15:08:03.353851
+Fail to reject
+Fail to reject
+Replication====>948/2000, Time remaining : 15:01:53.114127
+Fail to reject
+Fail to reject
+Replication====>949/2000, Time remaining : 15:05:19.796240
+Reject
+Fail to reject
+Replication====>950/2000, Time remaining : 15:04:35.028917
+Fail to reject
+Fail to reject
+Replication====>951/2000, Time remaining : 15:03:31.665525
+Reject
+Fail to reject
+Replication====>952/2000, Time remaining : 15:01:11.350931
+Reject
+Reject
+Replication====>953/2000, Time remaining : 14:57:00.071497
+Fail to reject
+Fail to reject
+Replication====>954/2000, Time remaining : 14:57:55.905635
+Fail to reject
+Fail to reject
+Replication====>955/2000, Time remaining : 14:57:21.527701
+Reject
+Fail to reject
+Replication====>956/2000, Time remaining : 14:58:01.751355
+Reject
+Fail to reject
+Replication====>957/2000, Time remaining : 14:58:04.867309
+Reject
+Fail to reject
+Replication====>958/2000, Time remaining : 14:59:30.467819
+Fail to reject
+Fail to reject
+Replication====>959/2000, Time remaining : 14:55:44.796143
+Reject
+Fail to reject
+Replication====>960/2000, Time remaining : 14:55:27.629134
+Reject
+Fail to reject
+Replication====>961/2000, Time remaining : 14:53:39.938350
+Reject
+Fail to reject
+Replication====>962/2000, Time remaining : 14:51:38.171016
+Fail to reject
+Fail to reject
+Replication====>963/2000, Time remaining : 14:51:32.809492
+Fail to reject
+Fail to reject
+Replication====>964/2000, Time remaining : 14:50:49.418138
+Fail to reject
+Fail to reject
+Replication====>965/2000, Time remaining : 14:50:35.030525
+Reject
+Fail to reject
+Replication====>966/2000, Time remaining : 14:47:05.120435
+Fail to reject
+Fail to reject
+Replication====>967/2000, Time remaining : 14:48:46.003653
+Reject
+Fail to reject
+Replication====>968/2000, Time remaining : 14:49:09.957919
+Fail to reject
+Fail to reject
+Replication====>969/2000, Time remaining : 14:42:00.788155
+Reject
+Fail to reject
+Replication====>970/2000, Time remaining : 14:44:44.014525
+Fail to reject
+Fail to reject
+Replication====>971/2000, Time remaining : 14:43:51.880981
+Reject
+Fail to reject
+Replication====>972/2000, Time remaining : 14:42:25.320049
+Fail to reject
+Fail to reject
+Replication====>973/2000, Time remaining : 14:42:41.325120
+Reject
+Fail to reject
+Replication====>974/2000, Time remaining : 14:43:46.282519
+Fail to reject
+Fail to reject
+Replication====>975/2000, Time remaining : 14:40:24.815430
+Fail to reject
+Fail to reject
+Replication====>976/2000, Time remaining : 14:40:24.142794
+Fail to reject
+Fail to reject
+Replication====>977/2000, Time remaining : 14:38:28.659799
+Fail to reject
+Fail to reject
+Replication====>978/2000, Time remaining : 14:41:16.851408
+Fail to reject
+Fail to reject
+Replication====>979/2000, Time remaining : 14:35:10.705304
+Fail to reject
+Fail to reject
+Replication====>980/2000, Time remaining : 14:34:36.936140
+Fail to reject
+Fail to reject
+Replication====>981/2000, Time remaining : 14:34:58.446333
+Fail to reject
+Fail to reject
+Replication====>982/2000, Time remaining : 14:32:05.004057
+Fail to reject
+Fail to reject
+Replication====>983/2000, Time remaining : 14:28:13.227991
+Reject
+Fail to reject
+Replication====>984/2000, Time remaining : 14:29:34.554759
+Fail to reject
+Fail to reject
+Replication====>985/2000, Time remaining : 14:33:45.594365
+Fail to reject
+Fail to reject
+Replication====>986/2000, Time remaining : 14:31:14.198062
+Fail to reject
+Fail to reject
+Replication====>987/2000, Time remaining : 14:29:31.923820
+Fail to reject
+Fail to reject
+Replication====>988/2000, Time remaining : 14:31:07.146297
+Fail to reject
+Fail to reject
+Replication====>989/2000, Time remaining : 14:28:50.135026
+Reject
+Fail to reject
+Replication====>990/2000, Time remaining : 14:27:38.181797
+Reject
+Fail to reject
+Replication====>991/2000, Time remaining : 14:29:09.622501
+Reject
+Fail to reject
+Replication====>992/2000, Time remaining : 14:26:47.357928
+Fail to reject
+Fail to reject
+Replication====>993/2000, Time remaining : 14:26:13.572693
+Fail to reject
+Fail to reject
+Replication====>994/2000, Time remaining : 14:24:32.150352
+Fail to reject
+Fail to reject
+Replication====>995/2000, Time remaining : 14:25:34.139710
+Reject
+Fail to reject
+Replication====>996/2000, Time remaining : 14:23:56.362477
+Fail to reject
+Fail to reject
+Replication====>997/2000, Time remaining : 14:24:19.783905
+Reject
+Fail to reject
+Replication====>998/2000, Time remaining : 14:22:35.492069
+Reject
+Fail to reject
+Replication====>999/2000, Time remaining : 14:21:28.885927
+Reject
+Fail to reject
+Replication====>1000/2000, Time remaining : 14:17:49.274788
+Fail to reject
+Reject
+Replication====>1001/2000, Time remaining : 14:17:53.252000
+Reject
+Fail to reject
+Replication====>1002/2000, Time remaining : 14:18:15.600616
+Fail to reject
+Fail to reject
+Replication====>1003/2000, Time remaining : 14:18:45.591685
+Reject
+Fail to reject
+Replication====>1004/2000, Time remaining : 14:16:54.464056
+Reject
+Fail to reject
+Replication====>1005/2000, Time remaining : 14:13:29.473457
+Reject
+Reject
+Replication====>1006/2000, Time remaining : 14:14:04.057405
+Reject
+Fail to reject
+Replication====>1007/2000, Time remaining : 14:12:15.430199
+Reject
+Fail to reject
+Replication====>1008/2000, Time remaining : 14:15:48.476984
+Reject
+Fail to reject
+Replication====>1009/2000, Time remaining : 14:08:34.203372
+Reject
+Reject
+Replication====>1010/2000, Time remaining : 14:10:18.369574
+Fail to reject
+Fail to reject
+Replication====>1011/2000, Time remaining : 14:09:16.609794
+Fail to reject
+Fail to reject
+Replication====>1012/2000, Time remaining : 14:11:29.662379
+Fail to reject
+Fail to reject
+Replication====>1013/2000, Time remaining : 14:04:46.434381
+Fail to reject
+Fail to reject
+Replication====>1014/2000, Time remaining : 14:06:50.021706
+Fail to reject
+Reject
+Replication====>1015/2000, Time remaining : 14:07:19.500372
+Reject
+Reject
+Replication====>1016/2000, Time remaining : 14:06:45.645754
+Fail to reject
+Fail to reject
+Replication====>1017/2000, Time remaining : 14:03:17.216463
+Fail to reject
+Fail to reject
+Replication====>1018/2000, Time remaining : 14:00:08.718671
+Reject
+Fail to reject
+Replication====>1019/2000, Time remaining : 14:00:39.214950
+Fail to reject
+Fail to reject
+Replication====>1020/2000, Time remaining : 14:03:37.993321
+Fail to reject
+Fail to reject
+Replication====>1021/2000, Time remaining : 14:01:42.851702
+Fail to reject
+Fail to reject
+Replication====>1022/2000, Time remaining : 14:02:43.737148
+Reject
+Fail to reject
+Replication====>1023/2000, Time remaining : 14:01:51.679863
+Reject
+Fail to reject
+Replication====>1024/2000, Time remaining : 13:58:15.918292
+Fail to reject
+Fail to reject
+Replication====>1025/2000, Time remaining : 13:57:44.268331
+Fail to reject
+Fail to reject
+Replication====>1026/2000, Time remaining : 13:51:52.297820
+Reject
+Fail to reject
+Replication====>1027/2000, Time remaining : 13:58:23.083137
+Reject
+Fail to reject
+Replication====>1028/2000, Time remaining : 13:51:59.552951
+Fail to reject
+Fail to reject
+Replication====>1029/2000, Time remaining : 13:53:09.044440
+Fail to reject
+Fail to reject
+Replication====>1030/2000, Time remaining : 13:53:22.125222
+Fail to reject
+Fail to reject
+Replication====>1031/2000, Time remaining : 13:51:12.277599
+Fail to reject
+Fail to reject
+Replication====>1032/2000, Time remaining : 13:53:22.355957
+Reject
+Fail to reject
+Replication====>1033/2000, Time remaining : 13:50:47.797088
+Reject
+Fail to reject
+Replication====>1034/2000, Time remaining : 13:50:28.264128
+Reject
+Fail to reject
+Replication====>1035/2000, Time remaining : 13:48:47.831554
+Fail to reject
+Fail to reject
+Replication====>1036/2000, Time remaining : 13:46:34.560614
+Reject
+Fail to reject
+Replication====>1037/2000, Time remaining : 13:47:35.820155
+Fail to reject
+Fail to reject
+Replication====>1038/2000, Time remaining : 13:46:37.581761
+Reject
+Reject
+Replication====>1039/2000, Time remaining : 13:42:33.521576
+Fail to reject
+Fail to reject
+Replication====>1040/2000, Time remaining : 13:45:56.798246
+Reject
+Fail to reject
+Replication====>1041/2000, Time remaining : 13:46:07.039922
+Fail to reject
+Fail to reject
+Replication====>1042/2000, Time remaining : 13:41:17.719520
+Reject
+Fail to reject
+Replication====>1043/2000, Time remaining : 13:39:55.084685
+Fail to reject
+Fail to reject
+Replication====>1044/2000, Time remaining : 13:38:47.387242
+Reject
+Fail to reject
+Replication====>1045/2000, Time remaining : 13:35:11.177393
+Fail to reject
+Fail to reject
+Replication====>1046/2000, Time remaining : 13:37:45.504139
+Fail to reject
+Fail to reject
+Replication====>1047/2000, Time remaining : 13:38:32.372772
+Fail to reject
+Fail to reject
+Replication====>1048/2000, Time remaining : 13:38:02.347199
+Fail to reject
+Fail to reject
+Replication====>1049/2000, Time remaining : 13:39:23.886619
+Reject
+Fail to reject
+Replication====>1050/2000, Time remaining : 13:37:02.471114
+Reject
+Fail to reject
+Replication====>1051/2000, Time remaining : 13:37:33.435368
+Fail to reject
+Fail to reject
+Replication====>1052/2000, Time remaining : 13:32:28.290915
+Reject
+Fail to reject
+Replication====>1053/2000, Time remaining : 13:33:22.743802
+Fail to reject
+Fail to reject
+Replication====>1054/2000, Time remaining : 13:34:04.392575
+Reject
+Fail to reject
+Replication====>1055/2000, Time remaining : 13:29:45.342480
+Reject
+Fail to reject
+Replication====>1056/2000, Time remaining : 13:33:06.331978
+Fail to reject
+Fail to reject
+Replication====>1057/2000, Time remaining : 13:30:33.487307
+Fail to reject
+Fail to reject
+Replication====>1058/2000, Time remaining : 13:28:44.732905
+Reject
+Fail to reject
+Replication====>1059/2000, Time remaining : 13:26:22.158608
+Fail to reject
+Fail to reject
+Replication====>1060/2000, Time remaining : 13:29:20.123881
+Reject
+Fail to reject
+Replication====>1061/2000, Time remaining : 13:25:46.968338
+Fail to reject
+Fail to reject
+Replication====>1062/2000, Time remaining : 13:24:13.573637
+Reject
+Fail to reject
+Replication====>1063/2000, Time remaining : 13:22:28.459768
+Fail to reject
+Fail to reject
+Replication====>1064/2000, Time remaining : 13:24:48.290101
+Fail to reject
+Fail to reject
+Replication====>1065/2000, Time remaining : 13:22:00.296369
+Fail to reject
+Fail to reject
+Replication====>1066/2000, Time remaining : 13:24:01.047878
+Fail to reject
+Fail to reject
+Replication====>1067/2000, Time remaining : 13:21:43.619455
+Fail to reject
+Reject
+Replication====>1068/2000, Time remaining : 13:21:43.737921
+Fail to reject
+Fail to reject
+Replication====>1069/2000, Time remaining : 13:21:21.034634
+Fail to reject
+Fail to reject
+Replication====>1070/2000, Time remaining : 13:17:15.899320
+Reject
+Fail to reject
+Replication====>1071/2000, Time remaining : 13:16:29.888588
+Fail to reject
+Fail to reject
+Replication====>1072/2000, Time remaining : 13:16:54.766679
+Fail to reject
+Fail to reject
+Replication====>1073/2000, Time remaining : 13:16:27.514269
+Reject
+Fail to reject
+Replication====>1074/2000, Time remaining : 13:16:03.064170
+Fail to reject
+Fail to reject
+Replication====>1075/2000, Time remaining : 13:14:43.690607
+Fail to reject
+Fail to reject
+Replication====>1076/2000, Time remaining : 13:10:58.859097
+Fail to reject
+Fail to reject
+Replication====>1077/2000, Time remaining : 13:09:44.570115
+Reject
+Fail to reject
+Replication====>1078/2000, Time remaining : 13:08:33.011639
+Reject
+Fail to reject
+Replication====>1079/2000, Time remaining : 13:13:50.129299
+Reject
+Fail to reject
+Replication====>1080/2000, Time remaining : 13:14:27.892952
+Fail to reject
+Fail to reject
+Replication====>1081/2000, Time remaining : 13:05:07.574521
+Reject
+Fail to reject
+Replication====>1082/2000, Time remaining : 13:09:52.150156
+Fail to reject
+Fail to reject
+Replication====>1083/2000, Time remaining : 13:07:35.317826
+Reject
+Fail to reject
+Replication====>1084/2000, Time remaining : 13:06:38.449531
+Fail to reject
+Fail to reject
+Replication====>1085/2000, Time remaining : 13:05:30.476298
+Reject
+Fail to reject
+Replication====>1086/2000, Time remaining : 13:01:54.436859
+Fail to reject
+Fail to reject
+Replication====>1087/2000, Time remaining : 13:06:17.474087
+Reject
+Fail to reject
+Replication====>1088/2000, Time remaining : 13:03:10.897285
+Reject
+Fail to reject
+Replication====>1089/2000, Time remaining : 13:02:24.048839
+Fail to reject
+Fail to reject
+Replication====>1090/2000, Time remaining : 13:02:37.427572
+Fail to reject
+Fail to reject
+Replication====>1091/2000, Time remaining : 13:01:34.391049
+Fail to reject
+Fail to reject
+Replication====>1092/2000, Time remaining : 13:01:43.001014
+Reject
+Fail to reject
+Replication====>1093/2000, Time remaining : 12:57:52.971996
+Fail to reject
+Fail to reject
+Replication====>1094/2000, Time remaining : 13:02:00.844434
+Reject
+Fail to reject
+Replication====>1095/2000, Time remaining : 12:58:52.059237
+Reject
+Fail to reject
+Replication====>1096/2000, Time remaining : 12:54:57.410005
+Fail to reject
+Fail to reject
+Replication====>1097/2000, Time remaining : 12:53:54.504104
+Fail to reject
+Fail to reject
+Replication====>1098/2000, Time remaining : 12:56:27.228311
+Fail to reject
+Fail to reject
+Replication====>1099/2000, Time remaining : 12:52:03.605132
+Fail to reject
+Fail to reject
+Replication====>1100/2000, Time remaining : 12:54:20.636638
+Fail to reject
+Fail to reject
+Replication====>1101/2000, Time remaining : 12:51:27.572356
+Fail to reject
+Fail to reject
+Replication====>1102/2000, Time remaining : 12:51:47.961618
+Reject
+Fail to reject
+Replication====>1103/2000, Time remaining : 12:47:34.084351
+Fail to reject
+Fail to reject
+Replication====>1104/2000, Time remaining : 12:48:14.537396
+Fail to reject
+Fail to reject
+Replication====>1105/2000, Time remaining : 12:49:25.228219
+Fail to reject
+Fail to reject
+Replication====>1106/2000, Time remaining : 12:48:37.025380
+Reject
+Fail to reject
+Replication====>1107/2000, Time remaining : 12:48:02.952254
+Reject
+Fail to reject
+Replication====>1108/2000, Time remaining : 12:44:41.494489
+Fail to reject
+Fail to reject
+Replication====>1109/2000, Time remaining : 12:43:27.448709
+Fail to reject
+Fail to reject
+Replication====>1110/2000, Time remaining : 12:45:41.356644
+Fail to reject
+Fail to reject
+Replication====>1111/2000, Time remaining : 12:46:47.888420
+Reject
+Fail to reject
+Replication====>1112/2000, Time remaining : 12:41:48.725450
+Fail to reject
+Fail to reject
+Replication====>1113/2000, Time remaining : 12:42:04.220564
+Fail to reject
+Fail to reject
+Replication====>1114/2000, Time remaining : 12:39:15.284818
+Fail to reject
+Fail to reject
+Replication====>1115/2000, Time remaining : 12:40:41.587584
+Fail to reject
+Fail to reject
+Replication====>1116/2000, Time remaining : 12:42:18.128395
+Fail to reject
+Fail to reject
+Replication====>1117/2000, Time remaining : 12:40:14.803222
+Fail to reject
+Fail to reject
+Replication====>1118/2000, Time remaining : 12:39:01.193003
+Fail to reject
+Fail to reject
+Replication====>1119/2000, Time remaining : 12:38:34.207420
+Fail to reject
+Fail to reject
+Replication====>1120/2000, Time remaining : 12:35:40.789052
+Reject
+Fail to reject
+Replication====>1121/2000, Time remaining : 12:38:38.466266
+Reject
+Fail to reject
+Replication====>1122/2000, Time remaining : 12:39:44.074892
+Fail to reject
+Fail to reject
+Replication====>1123/2000, Time remaining : 12:35:41.403059
+Fail to reject
+Fail to reject
+Replication====>1124/2000, Time remaining : 12:34:21.448354
+Fail to reject
+Fail to reject
+Replication====>1125/2000, Time remaining : 12:31:33.369259
+Fail to reject
+Fail to reject
+Replication====>1126/2000, Time remaining : 12:32:11.300150
+Fail to reject
+Fail to reject
+Replication====>1127/2000, Time remaining : 12:32:56.391876
+Fail to reject
+Fail to reject
+Replication====>1128/2000, Time remaining : 12:30:10.635060
+Reject
+Fail to reject
+Replication====>1129/2000, Time remaining : 12:28:55.416284
+Reject
+Fail to reject
+Replication====>1130/2000, Time remaining : 12:26:13.765874
+Reject
+Fail to reject
+Replication====>1131/2000, Time remaining : 12:29:02.398499
+Fail to reject
+Fail to reject
+Replication====>1132/2000, Time remaining : 12:27:05.559914
+Fail to reject
+Fail to reject
+Replication====>1133/2000, Time remaining : 12:27:22.191885
+Fail to reject
+Fail to reject
+Replication====>1134/2000, Time remaining : 12:25:34.932986
+Reject
+Fail to reject
+Replication====>1135/2000, Time remaining : 12:24:21.414139
+Reject
+Fail to reject
+Replication====>1136/2000, Time remaining : 12:22:16.954468
+Fail to reject
+Fail to reject
+Replication====>1137/2000, Time remaining : 12:21:55.787871
+Fail to reject
+Fail to reject
+Replication====>1138/2000, Time remaining : 12:21:35.914105
+Fail to reject
+Fail to reject
+Replication====>1139/2000, Time remaining : 12:22:51.142411
+Fail to reject
+Fail to reject
+Replication====>1140/2000, Time remaining : 12:16:50.209122
+Reject
+Fail to reject
+Replication====>1141/2000, Time remaining : 12:16:33.751402
+Reject
+Fail to reject
+Replication====>1142/2000, Time remaining : 12:21:00.237572
+Reject
+Fail to reject
+Replication====>1143/2000, Time remaining : 12:18:49.631744
+Fail to reject
+Fail to reject
+Replication====>1144/2000, Time remaining : 12:12:54.085146
+Fail to reject
+Fail to reject
+Replication====>1145/2000, Time remaining : 12:14:00.669587
+Fail to reject
+Fail to reject
+Replication====>1146/2000, Time remaining : 12:12:48.492534
+Reject
+Fail to reject
+Replication====>1147/2000, Time remaining : 12:09:18.384132
+Fail to reject
+Fail to reject
+Replication====>1148/2000, Time remaining : 12:12:12.688540
+Reject
+Fail to reject
+Replication====>1149/2000, Time remaining : 12:11:40.111377
+Reject
+Fail to reject
+Replication====>1150/2000, Time remaining : 12:10:07.446736
+Reject
+Fail to reject
+Replication====>1151/2000, Time remaining : 12:09:49.803814
+Fail to reject
+Fail to reject
+Replication====>1152/2000, Time remaining : 12:06:57.459583
+Fail to reject
+Fail to reject
+Replication====>1153/2000, Time remaining : 12:06:48.168131
+Fail to reject
+Fail to reject
+Replication====>1154/2000, Time remaining : 12:08:19.187015
+Fail to reject
+Fail to reject
+Replication====>1155/2000, Time remaining : 12:04:33.916203
+Reject
+Fail to reject
+Replication====>1156/2000, Time remaining : 12:04:00.914497
+Fail to reject
+Reject
+Replication====>1157/2000, Time remaining : 12:03:26.003127
+Fail to reject
+Fail to reject
+Replication====>1158/2000, Time remaining : 12:02:46.374381
+Fail to reject
+Fail to reject
+Replication====>1159/2000, Time remaining : 12:04:15.635519
+Fail to reject
+Fail to reject
+Replication====>1160/2000, Time remaining : 12:03:54.628117
+Reject
+Reject
+Replication====>1161/2000, Time remaining : 12:00:35.640220
+Fail to reject
+Fail to reject
+Replication====>1162/2000, Time remaining : 11:59:45.678150
+Reject
+Fail to reject
+Replication====>1163/2000, Time remaining : 11:57:00.190696
+Fail to reject
+Fail to reject
+Replication====>1164/2000, Time remaining : 11:59:14.503380
+Fail to reject
+Fail to reject
+Replication====>1165/2000, Time remaining : 11:57:54.927911
+Fail to reject
+Fail to reject
+Replication====>1166/2000, Time remaining : 11:58:53.471033
+Fail to reject
+Fail to reject
+Replication====>1167/2000, Time remaining : 11:57:34.866745
+Fail to reject
+Fail to reject
+Replication====>1168/2000, Time remaining : 11:57:19.898782
+Fail to reject
+Fail to reject
+Replication====>1169/2000, Time remaining : 11:54:06.106818
+Fail to reject
+Fail to reject
+Replication====>1170/2000, Time remaining : 11:53:21.661045
+Fail to reject
+Fail to reject
+Replication====>1171/2000, Time remaining : 11:51:42.846482
+Fail to reject
+Fail to reject
+Replication====>1172/2000, Time remaining : 11:51:39.432889
+Fail to reject
+Fail to reject
+Replication====>1173/2000, Time remaining : 11:52:00.968948
+Reject
+Fail to reject
+Replication====>1174/2000, Time remaining : 11:50:52.747875
+Fail to reject
+Fail to reject
+Replication====>1175/2000, Time remaining : 11:51:44.199240
+Fail to reject
+Fail to reject
+Replication====>1176/2000, Time remaining : 11:51:25.807620
+Fail to reject
+Reject
+Replication====>1177/2000, Time remaining : 11:46:58.935106
+Reject
+Fail to reject
+Replication====>1178/2000, Time remaining : 11:47:00.910533
+Fail to reject
+Fail to reject
+Replication====>1179/2000, Time remaining : 11:45:49.073005
+Fail to reject
+Fail to reject
+Replication====>1180/2000, Time remaining : 11:44:49.054253
+Reject
+Fail to reject
+Replication====>1181/2000, Time remaining : 11:44:54.235526
+Fail to reject
+Fail to reject
+Replication====>1182/2000, Time remaining : 11:43:08.954843
+Fail to reject
+Fail to reject
+Replication====>1183/2000, Time remaining : 11:39:34.885185
+Reject
+Fail to reject
+Replication====>1184/2000, Time remaining : 11:40:35.683960
+Fail to reject
+Fail to reject
+Replication====>1185/2000, Time remaining : 11:40:24.289967
+Fail to reject
+Fail to reject
+Replication====>1186/2000, Time remaining : 11:37:51.060560
+Reject
+Fail to reject
+Replication====>1187/2000, Time remaining : 11:40:20.894103
+Reject
+Fail to reject
+Replication====>1188/2000, Time remaining : 11:37:17.583232
+Reject
+Fail to reject
+Replication====>1189/2000, Time remaining : 11:37:14.636672
+Fail to reject
+Reject
+Replication====>1190/2000, Time remaining : 11:39:32.157036
+Reject
+Fail to reject
+Replication====>1191/2000, Time remaining : 11:36:12.804811
+Fail to reject
+Fail to reject
+Replication====>1192/2000, Time remaining : 11:31:46.067428
+Reject
+Fail to reject
+Replication====>1193/2000, Time remaining : 11:35:48.462462
+Reject
+Fail to reject
+Replication====>1194/2000, Time remaining : 11:29:50.664124
+Fail to reject
+Fail to reject
+Replication====>1195/2000, Time remaining : 11:29:24.742876
+Fail to reject
+Fail to reject
+Replication====>1196/2000, Time remaining : 11:33:05.284695
+Reject
+Fail to reject
+Replication====>1197/2000, Time remaining : 11:30:15.497683
+Reject
+Fail to reject
+Replication====>1198/2000, Time remaining : 11:27:56.858196
+Reject
+Fail to reject
+Replication====>1199/2000, Time remaining : 11:27:23.872833
+Fail to reject
+Fail to reject
+Replication====>1200/2000, Time remaining : 11:29:04.220429
+Fail to reject
+Fail to reject
+Replication====>1201/2000, Time remaining : 11:26:35.439883
+Reject
+Fail to reject
+Replication====>1202/2000, Time remaining : 11:23:07.651381
+Fail to reject
+Fail to reject
+Replication====>1203/2000, Time remaining : 11:23:00.195506
+Reject
+Fail to reject
+Replication====>1204/2000, Time remaining : 11:22:37.761226
+Fail to reject
+Fail to reject
+Replication====>1205/2000, Time remaining : 11:23:32.014321
+Fail to reject
+Fail to reject
+Replication====>1206/2000, Time remaining : 11:24:49.174421
+Reject
+Fail to reject
+Replication====>1207/2000, Time remaining : 11:22:24.178671
+Fail to reject
+Fail to reject
+Replication====>1208/2000, Time remaining : 11:19:26.420226
+Reject
+Fail to reject
+Replication====>1209/2000, Time remaining : 11:20:33.868797
+Reject
+Fail to reject
+Replication====>1210/2000, Time remaining : 11:19:20.926304
+Fail to reject
+Fail to reject
+Replication====>1211/2000, Time remaining : 11:20:22.512897
+Fail to reject
+Fail to reject
+Replication====>1212/2000, Time remaining : 11:19:58.498359
+Reject
+Fail to reject
+Replication====>1213/2000, Time remaining : 11:14:55.303539
+Fail to reject
+Fail to reject
+Replication====>1214/2000, Time remaining : 11:17:55.365905
+Reject
+Fail to reject
+Replication====>1215/2000, Time remaining : 11:15:14.807663
+Fail to reject
+Fail to reject
+Replication====>1216/2000, Time remaining : 11:16:18.561537
+Fail to reject
+Fail to reject
+Replication====>1217/2000, Time remaining : 11:14:14.502581
+Fail to reject
+Fail to reject
+Replication====>1218/2000, Time remaining : 11:11:33.878593
+Reject
+Fail to reject
+Replication====>1219/2000, Time remaining : 11:11:17.089548
+Reject
+Fail to reject
+Replication====>1220/2000, Time remaining : 11:13:42.809505
+Fail to reject
+Fail to reject
+Replication====>1221/2000, Time remaining : 11:10:22.021124
+Reject
+Fail to reject
+Replication====>1222/2000, Time remaining : 11:08:33.005691
+Fail to reject
+Fail to reject
+Replication====>1223/2000, Time remaining : 11:09:26.966461
+Fail to reject
+Fail to reject
+Replication====>1224/2000, Time remaining : 11:07:01.523917
+Fail to reject
+Fail to reject
+Replication====>1225/2000, Time remaining : 11:03:21.951439
+Reject
+Fail to reject
+Replication====>1226/2000, Time remaining : 11:03:51.562998
+Fail to reject
+Reject
+Replication====>1227/2000, Time remaining : 11:05:04.768209
+Fail to reject
+Fail to reject
+Replication====>1228/2000, Time remaining : 11:04:36.900525
+Fail to reject
+Fail to reject
+Replication====>1229/2000, Time remaining : 11:03:02.784851
+Reject
+Fail to reject
+Replication====>1230/2000, Time remaining : 11:01:31.509099
+Fail to reject
+Fail to reject
+Replication====>1231/2000, Time remaining : 11:00:09.123230
+Fail to reject
+Fail to reject
+Replication====>1232/2000, Time remaining : 10:58:02.480281
+Reject
+Fail to reject
+Replication====>1233/2000, Time remaining : 11:01:00.322694
+Fail to reject
+Fail to reject
+Replication====>1234/2000, Time remaining : 10:57:45.678009
+Fail to reject
+Fail to reject
+Replication====>1235/2000, Time remaining : 10:57:32.887948
+Fail to reject
+Fail to reject
+Replication====>1236/2000, Time remaining : 10:56:31.572252
+Fail to reject
+Fail to reject
+Replication====>1237/2000, Time remaining : 10:57:19.660598
+Fail to reject
+Fail to reject
+Replication====>1238/2000, Time remaining : 10:54:29.486686
+Reject
+Fail to reject
+Replication====>1239/2000, Time remaining : 10:52:56.890669
+Reject
+Fail to reject
+Replication====>1240/2000, Time remaining : 10:52:44.807630
+Fail to reject
+Fail to reject
+Replication====>1241/2000, Time remaining : 10:52:18.281809
+Fail to reject
+Fail to reject
+Replication====>1242/2000, Time remaining : 10:50:48.797687
+Reject
+Reject
+Replication====>1243/2000, Time remaining : 10:48:05.044707
+Fail to reject
+Fail to reject
+Replication====>1244/2000, Time remaining : 10:48:09.940189
+Reject
+Fail to reject
+Replication====>1245/2000, Time remaining : 10:46:49.960898
+Reject
+Fail to reject
+Replication====>1246/2000, Time remaining : 10:46:01.235239
+Reject
+Fail to reject
+Replication====>1247/2000, Time remaining : 10:48:06.852341
+Fail to reject
+Fail to reject
+Replication====>1248/2000, Time remaining : 10:46:28.586952
+Fail to reject
+Fail to reject
+Replication====>1249/2000, Time remaining : 10:43:52.955611
+Reject
+Fail to reject
+Replication====>1250/2000, Time remaining : 10:41:16.055091
+Fail to reject
+Fail to reject
+Replication====>1251/2000, Time remaining : 10:44:10.110059
+Reject
+Fail to reject
+Replication====>1252/2000, Time remaining : 10:44:33.677288
+Fail to reject
+Fail to reject
+Replication====>1253/2000, Time remaining : 10:40:44.454471
+Fail to reject
+Reject
+Replication====>1254/2000, Time remaining : 10:43:09.913629
+Fail to reject
+Fail to reject
+Replication====>1255/2000, Time remaining : 10:36:48.334826
+Reject
+Fail to reject
+Replication====>1256/2000, Time remaining : 10:39:52.429871
+Fail to reject
+Fail to reject
+Replication====>1257/2000, Time remaining : 10:36:34.364130
+Fail to reject
+Fail to reject
+Replication====>1258/2000, Time remaining : 10:40:06.224808
+Fail to reject
+Fail to reject
+Replication====>1259/2000, Time remaining : 10:37:50.745320
+Fail to reject
+Fail to reject
+Replication====>1260/2000, Time remaining : 10:36:24.239824
+Reject
+Fail to reject
+Replication====>1261/2000, Time remaining : 10:36:09.960900
+Fail to reject
+Fail to reject
+Replication====>1262/2000, Time remaining : 10:33:01.077002
+Reject
+Fail to reject
+Replication====>1263/2000, Time remaining : 10:35:37.643410
+Fail to reject
+Reject
+Replication====>1264/2000, Time remaining : 10:34:25.503999
+Fail to reject
+Fail to reject
+Replication====>1265/2000, Time remaining : 10:28:54.148016
+Fail to reject
+Fail to reject
+Replication====>1266/2000, Time remaining : 10:30:13.672872
+Reject
+Fail to reject
+Replication====>1267/2000, Time remaining : 10:29:19.387033
+Reject
+Fail to reject
+Replication====>1268/2000, Time remaining : 10:29:33.901765
+Fail to reject
+Fail to reject
+Replication====>1269/2000, Time remaining : 10:26:50.334284
+Reject
+Fail to reject
+Replication====>1270/2000, Time remaining : 10:26:56.150865
+Reject
+Fail to reject
+Replication====>1271/2000, Time remaining : 10:25:48.020000
+Fail to reject
+Fail to reject
+Replication====>1272/2000, Time remaining : 10:26:08.145465
+Reject
+Fail to reject
+Replication====>1273/2000, Time remaining : 10:24:09.154451
+Fail to reject
+Fail to reject
+Replication====>1274/2000, Time remaining : 10:24:44.587240
+Fail to reject
+Fail to reject
+Replication====>1275/2000, Time remaining : 10:24:42.624942
+Reject
+Fail to reject
+Replication====>1276/2000, Time remaining : 10:24:20.342003
+Fail to reject
+Fail to reject
+Replication====>1277/2000, Time remaining : 10:22:57.330101
+Fail to reject
+Fail to reject
+Replication====>1278/2000, Time remaining : 10:21:46.885923
+Reject
+Reject
+Replication====>1279/2000, Time remaining : 10:16:58.563595
+Fail to reject
+Fail to reject
+Replication====>1280/2000, Time remaining : 10:17:15.192009
+Reject
+Fail to reject
+Replication====>1281/2000, Time remaining : 10:15:38.043363
+Fail to reject
+Fail to reject
+Replication====>1282/2000, Time remaining : 10:13:24.841441
+Fail to reject
+Fail to reject
+Replication====>1283/2000, Time remaining : 10:14:37.623271
+Fail to reject
+Reject
+Replication====>1284/2000, Time remaining : 10:16:07.031189
+Fail to reject
+Fail to reject
+Replication====>1285/2000, Time remaining : 10:11:17.894782
+Fail to reject
+Fail to reject
+Replication====>1286/2000, Time remaining : 10:12:28.626676
+Reject
+Fail to reject
+Replication====>1287/2000, Time remaining : 10:13:45.604563
+Fail to reject
+Fail to reject
+Replication====>1288/2000, Time remaining : 10:11:53.359016
+Reject
+Fail to reject
+Replication====>1289/2000, Time remaining : 10:11:02.873025
+Reject
+Reject
+Replication====>1290/2000, Time remaining : 10:10:40.004560
+Fail to reject
+Fail to reject
+Replication====>1291/2000, Time remaining : 10:11:13.842587
+Reject
+Fail to reject
+Replication====>1292/2000, Time remaining : 10:09:26.762814
+Fail to reject
+Fail to reject
+Replication====>1293/2000, Time remaining : 10:09:24.047163
+Reject
+Fail to reject
+Replication====>1294/2000, Time remaining : 10:04:51.100105
+Fail to reject
+Fail to reject
+Replication====>1295/2000, Time remaining : 10:05:50.449173
+Reject
+Fail to reject
+Replication====>1296/2000, Time remaining : 10:04:00.665505
+Fail to reject
+Fail to reject
+Replication====>1297/2000, Time remaining : 10:04:17.643475
+Reject
+Fail to reject
+Replication====>1298/2000, Time remaining : 10:05:09.367202
+Reject
+Fail to reject
+Replication====>1299/2000, Time remaining : 10:01:48.123159
+Fail to reject
+Reject
+Replication====>1300/2000, Time remaining : 9:59:54.095819
+Fail to reject
+Fail to reject
+Replication====>1301/2000, Time remaining : 9:58:56.998888
+Fail to reject
+Fail to reject
+Replication====>1302/2000, Time remaining : 9:58:43.228585
+Fail to reject
+Fail to reject
+Replication====>1303/2000, Time remaining : 9:59:01.980703
+Fail to reject
+Fail to reject
+Replication====>1304/2000, Time remaining : 9:57:28.850738
+Fail to reject
+Fail to reject
+Replication====>1305/2000, Time remaining : 9:56:28.095590
+Fail to reject
+Reject
+Replication====>1306/2000, Time remaining : 9:56:21.052973
+Fail to reject
+Fail to reject
+Replication====>1307/2000, Time remaining : 9:53:27.643629
+Reject
+Fail to reject
+Replication====>1308/2000, Time remaining : 9:51:47.566633
+Fail to reject
+Fail to reject
+Replication====>1309/2000, Time remaining : 9:51:42.149069
+Fail to reject
+Fail to reject
+Replication====>1310/2000, Time remaining : 9:51:17.686635
+Fail to reject
+Fail to reject
+Replication====>1311/2000, Time remaining : 9:52:23.572258
+Fail to reject
+Fail to reject
+Replication====>1312/2000, Time remaining : 9:50:58.232003
+Reject
+Fail to reject
+Replication====>1313/2000, Time remaining : 9:49:16.263498
+Reject
+Fail to reject
+Replication====>1314/2000, Time remaining : 9:49:59.409567
+Fail to reject
+Fail to reject
+Replication====>1315/2000, Time remaining : 9:50:57.110991
+Reject
+Fail to reject
+Replication====>1316/2000, Time remaining : 9:49:25.442635
+Fail to reject
+Fail to reject
+Replication====>1317/2000, Time remaining : 9:46:46.372441
+Reject
+Fail to reject
+Replication====>1318/2000, Time remaining : 9:43:44.028615
+Reject
+Fail to reject
+Replication====>1319/2000, Time remaining : 9:43:37.553377
+Reject
+Reject
+Replication====>1320/2000, Time remaining : 9:43:54.533225
+Fail to reject
+Fail to reject
+Replication====>1321/2000, Time remaining : 9:43:05.248831
+Fail to reject
+Fail to reject
+Replication====>1322/2000, Time remaining : 9:42:26.532834
+Reject
+Fail to reject
+Replication====>1323/2000, Time remaining : 9:41:16.881978
+Reject
+Fail to reject
+Replication====>1324/2000, Time remaining : 9:39:29.282180
+Reject
+Fail to reject
+Replication====>1325/2000, Time remaining : 9:41:39.032371
+Fail to reject
+Fail to reject
+Replication====>1326/2000, Time remaining : 9:37:23.140257
+Fail to reject
+Fail to reject
+Replication====>1327/2000, Time remaining : 9:39:09.521851
+Fail to reject
+Fail to reject
+Replication====>1328/2000, Time remaining : 9:38:15.718249
+Reject
+Fail to reject
+Replication====>1329/2000, Time remaining : 9:35:11.400321
+Reject
+Fail to reject
+Replication====>1330/2000, Time remaining : 9:37:31.844602
+Reject
+Fail to reject
+Replication====>1331/2000, Time remaining : 9:35:29.360880
+Reject
+Fail to reject
+Replication====>1332/2000, Time remaining : 9:36:25.957311
+Reject
+Fail to reject
+Replication====>1333/2000, Time remaining : 9:33:53.685482
+Reject
+Fail to reject
+Replication====>1334/2000, Time remaining : 9:35:40.565536
+Fail to reject
+Fail to reject
+Replication====>1335/2000, Time remaining : 9:29:37.050617
+Fail to reject
+Fail to reject
+Replication====>1336/2000, Time remaining : 9:29:16.156510
+Fail to reject
+Reject
+Replication====>1337/2000, Time remaining : 9:29:13.376369
+Fail to reject
+Fail to reject
+Replication====>1338/2000, Time remaining : 9:29:36.978789
+Fail to reject
+Fail to reject
+Replication====>1339/2000, Time remaining : 9:27:53.207316
+Reject
+Fail to reject
+Replication====>1340/2000, Time remaining : 9:26:52.916039
+Fail to reject
+Fail to reject
+Replication====>1341/2000, Time remaining : 9:23:38.417336
+Reject
+Fail to reject
+Replication====>1342/2000, Time remaining : 9:24:54.041913
+Fail to reject
+Fail to reject
+Replication====>1343/2000, Time remaining : 9:22:37.484913
+Reject
+Fail to reject
+Replication====>1344/2000, Time remaining : 9:24:10.717057
+Fail to reject
+Fail to reject
+Replication====>1345/2000, Time remaining : 9:22:25.032937
+Reject
+Fail to reject
+Replication====>1346/2000, Time remaining : 9:21:22.575524
+Fail to reject
+Fail to reject
+Replication====>1347/2000, Time remaining : 9:23:01.106441
+Reject
+Fail to reject
+Replication====>1348/2000, Time remaining : 9:18:54.967974
+Reject
+Fail to reject
+Replication====>1349/2000, Time remaining : 9:18:21.284814
+Fail to reject
+Fail to reject
+Replication====>1350/2000, Time remaining : 9:18:24.746156
+Fail to reject
+Fail to reject
+Replication====>1351/2000, Time remaining : 9:16:34.757458
+Fail to reject
+Fail to reject
+Replication====>1352/2000, Time remaining : 9:17:56.911017
+Fail to reject
+Fail to reject
+Replication====>1353/2000, Time remaining : 9:16:54.646270
+Fail to reject
+Fail to reject
+Replication====>1354/2000, Time remaining : 9:14:36.000059
+Fail to reject
+Fail to reject
+Replication====>1355/2000, Time remaining : 9:15:14.298428
+Reject
+Fail to reject
+Replication====>1356/2000, Time remaining : 9:14:40.484383
+Reject
+Fail to reject
+Replication====>1357/2000, Time remaining : 9:14:35.811248
+Fail to reject
+Fail to reject
+Replication====>1358/2000, Time remaining : 9:14:14.690366
+Reject
+Fail to reject
+Replication====>1359/2000, Time remaining : 9:13:26.176910
+Reject
+Fail to reject
+Replication====>1360/2000, Time remaining : 9:10:30.675897
+Fail to reject
+Reject
+Replication====>1361/2000, Time remaining : 9:09:29.553357
+Reject
+Fail to reject
+Replication====>1362/2000, Time remaining : 9:08:13.772780
+Fail to reject
+Fail to reject
+Replication====>1363/2000, Time remaining : 9:06:33.955313
+Reject
+Fail to reject
+Replication====>1364/2000, Time remaining : 9:08:45.994564
+Fail to reject
+Reject
+Replication====>1365/2000, Time remaining : 9:07:37.138306
+Reject
+Fail to reject
+Replication====>1366/2000, Time remaining : 9:07:43.457564
+Fail to reject
+Fail to reject
+Replication====>1367/2000, Time remaining : 9:03:57.264208
+Fail to reject
+Fail to reject
+Replication====>1368/2000, Time remaining : 9:03:03.964794
+Fail to reject
+Fail to reject
+Replication====>1369/2000, Time remaining : 9:03:05.892277
+Reject
+Fail to reject
+Replication====>1370/2000, Time remaining : 9:02:43.901356
+Reject
+Reject
+Replication====>1371/2000, Time remaining : 9:01:07.723255
+Reject
+Fail to reject
+Replication====>1372/2000, Time remaining : 8:59:52.128078
+Fail to reject
+Fail to reject
+Replication====>1373/2000, Time remaining : 9:00:37.929993
+Reject
+Fail to reject
+Replication====>1374/2000, Time remaining : 8:59:25.541756
+Fail to reject
+Fail to reject
+Replication====>1375/2000, Time remaining : 8:58:20.833111
+Reject
+Fail to reject
+Replication====>1376/2000, Time remaining : 8:55:22.971101
+Reject
+Fail to reject
+Replication====>1377/2000, Time remaining : 8:55:15.610413
+Fail to reject
+Fail to reject
+Replication====>1378/2000, Time remaining : 8:55:15.926095
+Reject
+Reject
+Replication====>1379/2000, Time remaining : 8:53:06.962843
+Reject
+Fail to reject
+Replication====>1380/2000, Time remaining : 8:52:30.250242
+Fail to reject
+Fail to reject
+Replication====>1381/2000, Time remaining : 8:54:09.408474
+Reject
+Fail to reject
+Replication====>1382/2000, Time remaining : 8:49:54.390982
+Fail to reject
+Fail to reject
+Replication====>1383/2000, Time remaining : 8:50:42.636026
+Fail to reject
+Fail to reject
+Replication====>1384/2000, Time remaining : 8:50:29.245012
+Reject
+Fail to reject
+Replication====>1385/2000, Time remaining : 8:48:38.402268
+Reject
+Reject
+Replication====>1386/2000, Time remaining : 8:47:21.415590
+Fail to reject
+Fail to reject
+Replication====>1387/2000, Time remaining : 8:47:17.434364
+Fail to reject
+Fail to reject
+Replication====>1388/2000, Time remaining : 8:46:54.974184
+Fail to reject
+Fail to reject
+Replication====>1389/2000, Time remaining : 8:44:11.516049
+Reject
+Fail to reject
+Replication====>1390/2000, Time remaining : 8:43:45.092096
+Reject
+Fail to reject
+Replication====>1391/2000, Time remaining : 8:43:28.232002
+Fail to reject
+Fail to reject
+Replication====>1392/2000, Time remaining : 8:41:58.878922
+Reject
+Fail to reject
+Replication====>1393/2000, Time remaining : 8:42:20.833590
+Reject
+Fail to reject
+Replication====>1394/2000, Time remaining : 8:39:34.885638
+Fail to reject
+Fail to reject
+Replication====>1395/2000, Time remaining : 8:41:40.742185
+Reject
+Fail to reject
+Replication====>1396/2000, Time remaining : 8:41:35.111334
+Reject
+Fail to reject
+Replication====>1397/2000, Time remaining : 8:33:37.195417
+Fail to reject
+Fail to reject
+Replication====>1398/2000, Time remaining : 8:37:59.248953
+Reject
+Fail to reject
+Replication====>1399/2000, Time remaining : 8:38:02.343292
+Fail to reject
+Fail to reject
+Replication====>1400/2000, Time remaining : 8:36:58.366315
+Fail to reject
+Fail to reject
+Replication====>1401/2000, Time remaining : 8:32:49.963348
+Fail to reject
+Fail to reject
+Replication====>1402/2000, Time remaining : 8:33:54.193337
+Fail to reject
+Fail to reject
+Replication====>1403/2000, Time remaining : 8:33:37.563131
+Fail to reject
+Fail to reject
+Replication====>1404/2000, Time remaining : 8:32:57.532655
+Reject
+Fail to reject
+Replication====>1405/2000, Time remaining : 8:32:51.630040
+Fail to reject
+Reject
+Replication====>1406/2000, Time remaining : 8:30:35.659843
+Fail to reject
+Fail to reject
+Replication====>1407/2000, Time remaining : 8:28:55.988186
+Reject
+Fail to reject
+Replication====>1408/2000, Time remaining : 8:28:51.957195
+Fail to reject
+Fail to reject
+Replication====>1409/2000, Time remaining : 8:27:14.677944
+Reject
+Fail to reject
+Replication====>1410/2000, Time remaining : 8:25:37.645310
+Fail to reject
+Fail to reject
+Replication====>1411/2000, Time remaining : 8:24:46.134347
+Fail to reject
+Fail to reject
+Replication====>1412/2000, Time remaining : 8:24:09.632098
+Reject
+Fail to reject
+Replication====>1413/2000, Time remaining : 8:22:02.027995
+Fail to reject
+Fail to reject
+Replication====>1414/2000, Time remaining : 8:23:32.743832
+Fail to reject
+Fail to reject
+Replication====>1415/2000, Time remaining : 8:21:18.789045
+Fail to reject
+Fail to reject
+Replication====>1416/2000, Time remaining : 8:23:33.402634
+Reject
+Fail to reject
+Replication====>1417/2000, Time remaining : 8:20:48.696699
+Fail to reject
+Fail to reject
+Replication====>1418/2000, Time remaining : 8:21:12.863633
+Reject
+Fail to reject
+Replication====>1419/2000, Time remaining : 8:18:57.377729
+Fail to reject
+Fail to reject
+Replication====>1420/2000, Time remaining : 8:20:13.833732
+Fail to reject
+Fail to reject
+Replication====>1421/2000, Time remaining : 8:16:30.876670
+Fail to reject
+Fail to reject
+Replication====>1422/2000, Time remaining : 8:17:02.013854
+Fail to reject
+Fail to reject
+Replication====>1423/2000, Time remaining : 8:15:08.485428
+Reject
+Fail to reject
+Replication====>1424/2000, Time remaining : 8:13:27.054073
+Reject
+Reject
+Replication====>1425/2000, Time remaining : 8:16:11.477551
+Reject
+Fail to reject
+Replication====>1426/2000, Time remaining : 8:12:10.051777
+Fail to reject
+Fail to reject
+Replication====>1427/2000, Time remaining : 8:11:50.381802
+Fail to reject
+Fail to reject
+Replication====>1428/2000, Time remaining : 8:12:53.865749
+Fail to reject
+Fail to reject
+Replication====>1429/2000, Time remaining : 8:09:50.745678
+Fail to reject
+Fail to reject
+Replication====>1430/2000, Time remaining : 8:09:08.003455
+Reject
+Fail to reject
+Replication====>1431/2000, Time remaining : 8:07:31.441656
+Fail to reject
+Fail to reject
+Replication====>1432/2000, Time remaining : 8:06:39.981031
+Fail to reject
+Fail to reject
+Replication====>1433/2000, Time remaining : 8:05:25.786776
+Reject
+Fail to reject
+Replication====>1434/2000, Time remaining : 8:07:20.883347
+Reject
+Fail to reject
+Replication====>1435/2000, Time remaining : 8:07:05.673961
+Fail to reject
+Fail to reject
+Replication====>1436/2000, Time remaining : 8:04:47.025713
+Reject
+Fail to reject
+Replication====>1437/2000, Time remaining : 8:03:55.176059
+Fail to reject
+Fail to reject
+Replication====>1438/2000, Time remaining : 8:01:01.679674
+Reject
+Fail to reject
+Replication====>1439/2000, Time remaining : 8:02:43.563175
+Fail to reject
+Fail to reject
+Replication====>1440/2000, Time remaining : 8:02:42.110630
+Fail to reject
+Fail to reject
+Replication====>1441/2000, Time remaining : 7:58:14.443411
+Reject
+Fail to reject
+Replication====>1442/2000, Time remaining : 7:58:53.511673
+Reject
+Fail to reject
+Replication====>1443/2000, Time remaining : 7:59:30.960421
+Reject
+Fail to reject
+Replication====>1444/2000, Time remaining : 7:58:32.828876
+Fail to reject
+Fail to reject
+Replication====>1445/2000, Time remaining : 7:56:43.073954
+Fail to reject
+Fail to reject
+Replication====>1446/2000, Time remaining : 7:57:35.697501
+Fail to reject
+Fail to reject
+Replication====>1447/2000, Time remaining : 7:53:34.285492
+Fail to reject
+Fail to reject
+Replication====>1448/2000, Time remaining : 7:55:02.003947
+Fail to reject
+Fail to reject
+Replication====>1449/2000, Time remaining : 7:51:30.029538
+Fail to reject
+Fail to reject
+Replication====>1450/2000, Time remaining : 7:50:28.737230
+Fail to reject
+Fail to reject
+Replication====>1451/2000, Time remaining : 7:52:49.414642
+Reject
+Fail to reject
+Replication====>1452/2000, Time remaining : 7:50:34.167672
+Fail to reject
+Reject
+Replication====>1453/2000, Time remaining : 7:50:07.134858
+Fail to reject
+Fail to reject
+Replication====>1454/2000, Time remaining : 7:49:22.172658
+Fail to reject
+Fail to reject
+Replication====>1455/2000, Time remaining : 7:48:02.643860
+Fail to reject
+Fail to reject
+Replication====>1456/2000, Time remaining : 7:47:44.077221
+Fail to reject
+Fail to reject
+Replication====>1457/2000, Time remaining : 7:47:59.278949
+Fail to reject
+Fail to reject
+Replication====>1458/2000, Time remaining : 7:43:42.036949
+Fail to reject
+Fail to reject
+Replication====>1459/2000, Time remaining : 7:42:21.685424
+Reject
+Fail to reject
+Replication====>1460/2000, Time remaining : 7:42:32.175755
+Fail to reject
+Fail to reject
+Replication====>1461/2000, Time remaining : 7:44:38.111748
+Fail to reject
+Fail to reject
+Replication====>1462/2000, Time remaining : 7:41:12.148226
+Fail to reject
+Fail to reject
+Replication====>1463/2000, Time remaining : 7:41:21.372139
+Fail to reject
+Fail to reject
+Replication====>1464/2000, Time remaining : 7:42:04.605980
+Fail to reject
+Fail to reject
+Replication====>1465/2000, Time remaining : 7:38:32.706535
+Fail to reject
+Fail to reject
+Replication====>1466/2000, Time remaining : 7:36:29.625336
+Reject
+Fail to reject
+Replication====>1467/2000, Time remaining : 7:36:24.067658
+Reject
+Fail to reject
+Replication====>1468/2000, Time remaining : 7:36:04.258852
+Fail to reject
+Fail to reject
+Replication====>1469/2000, Time remaining : 7:37:07.721512
+Fail to reject
+Fail to reject
+Replication====>1470/2000, Time remaining : 7:36:57.162628
+Fail to reject
+Fail to reject
+Replication====>1471/2000, Time remaining : 7:35:25.285412
+Fail to reject
+Fail to reject
+Replication====>1472/2000, Time remaining : 7:34:29.890608
+Fail to reject
+Fail to reject
+Replication====>1473/2000, Time remaining : 7:30:41.810786
+Reject
+Fail to reject
+Replication====>1474/2000, Time remaining : 7:32:27.716975
+Fail to reject
+Fail to reject
+Replication====>1475/2000, Time remaining : 7:32:17.489988
+Fail to reject
+Fail to reject
+Replication====>1476/2000, Time remaining : 7:29:30.984275
+Reject
+Fail to reject
+Replication====>1477/2000, Time remaining : 7:30:09.654107
+Reject
+Fail to reject
+Replication====>1478/2000, Time remaining : 7:26:15.014228
+Reject
+Reject
+Replication====>1479/2000, Time remaining : 7:28:30.424500
+Reject
+Reject
+Replication====>1480/2000, Time remaining : 7:25:54.779493
+Reject
+Fail to reject
+Replication====>1481/2000, Time remaining : 7:25:36.056736
+Reject
+Fail to reject
+Replication====>1482/2000, Time remaining : 7:23:44.013948
+Reject
+Fail to reject
+Replication====>1483/2000, Time remaining : 7:24:19.713026
+Fail to reject
+Fail to reject
+Replication====>1484/2000, Time remaining : 7:22:24.672986
+Reject
+Fail to reject
+Replication====>1485/2000, Time remaining : 7:23:18.550750
+Fail to reject
+Fail to reject
+Replication====>1486/2000, Time remaining : 7:23:50.612942
+Fail to reject
+Fail to reject
+Replication====>1487/2000, Time remaining : 7:20:56.901489
+Fail to reject
+Fail to reject
+Replication====>1488/2000, Time remaining : 7:18:28.194232
+Reject
+Fail to reject
+Replication====>1489/2000, Time remaining : 7:20:54.023745
+Reject
+Fail to reject
+Replication====>1490/2000, Time remaining : 7:18:12.787812
+Fail to reject
+Fail to reject
+Replication====>1491/2000, Time remaining : 7:18:12.519044
+Reject
+Fail to reject
+Replication====>1492/2000, Time remaining : 7:17:27.968997
+Reject
+Fail to reject
+Replication====>1493/2000, Time remaining : 7:13:26.687928
+Fail to reject
+Fail to reject
+Replication====>1494/2000, Time remaining : 7:13:55.673442
+Fail to reject
+Fail to reject
+Replication====>1495/2000, Time remaining : 7:13:36.670160
+Reject
+Fail to reject
+Replication====>1496/2000, Time remaining : 7:11:57.284916
+Fail to reject
+Fail to reject
+Replication====>1497/2000, Time remaining : 7:10:12.721669
+Fail to reject
+Fail to reject
+Replication====>1498/2000, Time remaining : 7:11:20.453979
+Fail to reject
+Fail to reject
+Replication====>1499/2000, Time remaining : 7:10:50.832939
+Fail to reject
+Fail to reject
+Replication====>1500/2000, Time remaining : 7:08:06.800761
+Fail to reject
+Fail to reject
+Replication====>1501/2000, Time remaining : 7:10:16.658463
+Fail to reject
+Fail to reject
+Replication====>1502/2000, Time remaining : 7:08:15.769414
+Fail to reject
+Fail to reject
+Replication====>1503/2000, Time remaining : 7:06:13.471310
+Reject
+Fail to reject
+Replication====>1504/2000, Time remaining : 7:06:14.279190
+Reject
+Reject
+Replication====>1505/2000, Time remaining : 7:05:51.483325
+Fail to reject
+Reject
+Replication====>1506/2000, Time remaining : 7:04:34.510830
+Fail to reject
+Fail to reject
+Replication====>1507/2000, Time remaining : 7:03:22.542460
+Fail to reject
+Fail to reject
+Replication====>1508/2000, Time remaining : 7:01:30.653765
+Fail to reject
+Fail to reject
+Replication====>1509/2000, Time remaining : 7:01:58.215573
+Reject
+Fail to reject
+Replication====>1510/2000, Time remaining : 7:00:28.351714
+Fail to reject
+Fail to reject
+Replication====>1511/2000, Time remaining : 6:59:52.923443
+Fail to reject
+Fail to reject
+Replication====>1512/2000, Time remaining : 6:57:55.844343
+Fail to reject
+Fail to reject
+Replication====>1513/2000, Time remaining : 6:58:45.714754
+Fail to reject
+Fail to reject
+Replication====>1514/2000, Time remaining : 6:58:43.471528
+Fail to reject
+Reject
+Replication====>1515/2000, Time remaining : 6:54:33.189549
+Fail to reject
+Fail to reject
+Replication====>1516/2000, Time remaining : 6:57:11.766829
+Fail to reject
+Fail to reject
+Replication====>1517/2000, Time remaining : 6:55:25.365748
+Fail to reject
+Fail to reject
+Replication====>1518/2000, Time remaining : 6:52:05.756477
+Reject
+Fail to reject
+Replication====>1519/2000, Time remaining : 6:52:01.554451
+Reject
+Fail to reject
+Replication====>1520/2000, Time remaining : 6:54:22.954880
+Fail to reject
+Fail to reject
+Replication====>1521/2000, Time remaining : 6:53:37.522991
+Reject
+Fail to reject
+Replication====>1522/2000, Time remaining : 6:50:23.395688
+Reject
+Fail to reject
+Replication====>1523/2000, Time remaining : 6:49:11.291795
+Reject
+Fail to reject
+Replication====>1524/2000, Time remaining : 6:49:01.105217
+Reject
+Fail to reject
+Replication====>1525/2000, Time remaining : 6:47:37.660302
+Fail to reject
+Fail to reject
+Replication====>1526/2000, Time remaining : 6:47:38.130381
+Reject
+Fail to reject
+Replication====>1527/2000, Time remaining : 6:45:55.051748
+Fail to reject
+Fail to reject
+Replication====>1528/2000, Time remaining : 6:45:27.770813
+Fail to reject
+Fail to reject
+Replication====>1529/2000, Time remaining : 6:45:48.866053
+Fail to reject
+Reject
+Replication====>1530/2000, Time remaining : 6:43:24.767020
+Fail to reject
+Fail to reject
+Replication====>1531/2000, Time remaining : 6:43:38.871795
+Fail to reject
+Fail to reject
+Replication====>1532/2000, Time remaining : 6:43:35.207112
+Reject
+Fail to reject
+Replication====>1533/2000, Time remaining : 6:41:55.943079
+Fail to reject
+Fail to reject
+Replication====>1534/2000, Time remaining : 6:40:29.264778
+Fail to reject
+Fail to reject
+Replication====>1535/2000, Time remaining : 6:40:13.577530
+Fail to reject
+Fail to reject
+Replication====>1536/2000, Time remaining : 6:39:32.544773
+Fail to reject
+Fail to reject
+Replication====>1537/2000, Time remaining : 6:39:11.965938
+Fail to reject
+Fail to reject
+Replication====>1538/2000, Time remaining : 6:37:12.006734
+Fail to reject
+Fail to reject
+Replication====>1539/2000, Time remaining : 6:35:43.650932
+Reject
+Fail to reject
+Replication====>1540/2000, Time remaining : 6:35:32.891422
+Reject
+Fail to reject
+Replication====>1541/2000, Time remaining : 6:33:56.123655
+Fail to reject
+Fail to reject
+Replication====>1542/2000, Time remaining : 6:33:30.054571
+Reject
+Fail to reject
+Replication====>1543/2000, Time remaining : 6:34:01.078005
+Fail to reject
+Fail to reject
+Replication====>1544/2000, Time remaining : 6:30:43.010671
+Reject
+Fail to reject
+Replication====>1545/2000, Time remaining : 6:30:20.071261
+Fail to reject
+Fail to reject
+Replication====>1546/2000, Time remaining : 6:30:57.169887
+Reject
+Fail to reject
+Replication====>1547/2000, Time remaining : 6:29:25.228276
+Fail to reject
+Fail to reject
+Replication====>1548/2000, Time remaining : 6:28:38.168515
+Fail to reject
+Fail to reject
+Replication====>1549/2000, Time remaining : 6:26:58.320143
+Fail to reject
+Fail to reject
+Replication====>1550/2000, Time remaining : 6:26:18.236990
+Fail to reject
+Fail to reject
+Replication====>1551/2000, Time remaining : 6:27:10.708679
+Reject
+Fail to reject
+Replication====>1552/2000, Time remaining : 6:25:44.839694
+Fail to reject
+Fail to reject
+Replication====>1553/2000, Time remaining : 6:24:05.064816
+Fail to reject
+Fail to reject
+Replication====>1554/2000, Time remaining : 6:22:17.104787
+Reject
+Fail to reject
+Replication====>1555/2000, Time remaining : 6:22:59.365076
+Fail to reject
+Fail to reject
+Replication====>1556/2000, Time remaining : 6:20:28.579704
+Reject
+Fail to reject
+Replication====>1557/2000, Time remaining : 6:21:12.200863
+Fail to reject
+Fail to reject
+Replication====>1558/2000, Time remaining : 6:19:33.041116
+Fail to reject
+Fail to reject
+Replication====>1559/2000, Time remaining : 6:18:25.193872
+Reject
+Fail to reject
+Replication====>1560/2000, Time remaining : 6:17:28.433754
+Fail to reject
+Fail to reject
+Replication====>1561/2000, Time remaining : 6:17:05.169122
+Fail to reject
+Fail to reject
+Replication====>1562/2000, Time remaining : 6:15:56.765220
+Fail to reject
+Fail to reject
+Replication====>1563/2000, Time remaining : 6:16:08.937549
+Fail to reject
+Fail to reject
+Replication====>1564/2000, Time remaining : 6:15:58.824495
+Fail to reject
+Fail to reject
+Replication====>1565/2000, Time remaining : 6:13:55.736652
+Fail to reject
+Fail to reject
+Replication====>1566/2000, Time remaining : 6:13:08.538747
+Fail to reject
+Fail to reject
+Replication====>1567/2000, Time remaining : 6:11:07.890850
+Fail to reject
+Fail to reject
+Replication====>1568/2000, Time remaining : 6:12:24.018634
+Fail to reject
+Fail to reject
+Replication====>1569/2000, Time remaining : 6:10:07.628026
+Fail to reject
+Fail to reject
+Replication====>1570/2000, Time remaining : 6:09:29.009472
+Reject
+Fail to reject
+Replication====>1571/2000, Time remaining : 6:05:02.403029
+Reject
+Fail to reject
+Replication====>1572/2000, Time remaining : 6:08:21.350898
+Reject
+Fail to reject
+Replication====>1573/2000, Time remaining : 6:06:48.165543
+Reject
+Fail to reject
+Replication====>1574/2000, Time remaining : 6:01:59.341290
+Fail to reject
+Fail to reject
+Replication====>1575/2000, Time remaining : 6:06:09.554970
+Fail to reject
+Fail to reject
+Replication====>1576/2000, Time remaining : 6:05:23.949381
+Reject
+Fail to reject
+Replication====>1577/2000, Time remaining : 6:02:28.724045
+Fail to reject
+Fail to reject
+Replication====>1578/2000, Time remaining : 6:01:46.965542
+Fail to reject
+Fail to reject
+Replication====>1579/2000, Time remaining : 6:01:35.234370
+Fail to reject
+Fail to reject
+Replication====>1580/2000, Time remaining : 5:59:31.718866
+Fail to reject
+Fail to reject
+Replication====>1581/2000, Time remaining : 5:59:15.729587
+Reject
+Fail to reject
+Replication====>1582/2000, Time remaining : 5:59:06.840407
+Fail to reject
+Fail to reject
+Replication====>1583/2000, Time remaining : 5:57:33.183250
+Fail to reject
+Fail to reject
+Replication====>1584/2000, Time remaining : 5:56:24.142805
+Fail to reject
+Fail to reject
+Replication====>1585/2000, Time remaining : 5:56:26.230971
+Fail to reject
+Fail to reject
+Replication====>1586/2000, Time remaining : 5:54:30.679830
+Reject
+Fail to reject
+Replication====>1587/2000, Time remaining : 5:54:27.252337
+Fail to reject
+Fail to reject
+Replication====>1588/2000, Time remaining : 5:53:30.835200
+Fail to reject
+Fail to reject
+Replication====>1589/2000, Time remaining : 5:51:21.410687
+Reject
+Fail to reject
+Replication====>1590/2000, Time remaining : 5:51:43.551986
+Reject
+Fail to reject
+Replication====>1591/2000, Time remaining : 5:50:58.024298
+Fail to reject
+Fail to reject
+Replication====>1592/2000, Time remaining : 5:50:25.303793
+Fail to reject
+Fail to reject
+Replication====>1593/2000, Time remaining : 5:49:47.959147
+Reject
+Fail to reject
+Replication====>1594/2000, Time remaining : 5:48:05.636673
+Fail to reject
+Fail to reject
+Replication====>1595/2000, Time remaining : 5:48:23.946814
+Fail to reject
+Fail to reject
+Replication====>1596/2000, Time remaining : 5:44:42.474496
+Fail to reject
+Fail to reject
+Replication====>1597/2000, Time remaining : 5:47:24.932519
+Fail to reject
+Fail to reject
+Replication====>1598/2000, Time remaining : 5:45:40.146796
+Fail to reject
+Fail to reject
+Replication====>1599/2000, Time remaining : 5:44:56.899796
+Fail to reject
+Fail to reject
+Replication====>1600/2000, Time remaining : 5:42:41.261177
+Reject
+Fail to reject
+Replication====>1601/2000, Time remaining : 5:43:32.079138
+Reject
+Fail to reject
+Replication====>1602/2000, Time remaining : 5:42:09.736556
+Reject
+Fail to reject
+Replication====>1603/2000, Time remaining : 5:38:46.970103
+Reject
+Fail to reject
+Replication====>1604/2000, Time remaining : 5:39:25.965292
+Fail to reject
+Fail to reject
+Replication====>1605/2000, Time remaining : 5:38:19.014134
+Fail to reject
+Fail to reject
+Replication====>1606/2000, Time remaining : 5:38:21.446422
+Fail to reject
+Fail to reject
+Replication====>1607/2000, Time remaining : 5:36:10.639790
+Reject
+Fail to reject
+Replication====>1608/2000, Time remaining : 5:36:23.206384
+Reject
+Fail to reject
+Replication====>1609/2000, Time remaining : 5:36:29.193492
+Fail to reject
+Fail to reject
+Replication====>1610/2000, Time remaining : 5:34:45.688905
+Reject
+Fail to reject
+Replication====>1611/2000, Time remaining : 5:33:15.821012
+Fail to reject
+Fail to reject
+Replication====>1612/2000, Time remaining : 5:33:02.197201
+Reject
+Fail to reject
+Replication====>1613/2000, Time remaining : 5:33:24.910903
+Reject
+Fail to reject
+Replication====>1614/2000, Time remaining : 5:30:05.235046
+Reject
+Fail to reject
+Replication====>1615/2000, Time remaining : 5:29:38.222900
+Fail to reject
+Fail to reject
+Replication====>1616/2000, Time remaining : 5:30:32.956478
+Fail to reject
+Fail to reject
+Replication====>1617/2000, Time remaining : 5:28:14.176239
+Fail to reject
+Fail to reject
+Replication====>1618/2000, Time remaining : 5:27:06.491429
+Fail to reject
+Fail to reject
+Replication====>1619/2000, Time remaining : 5:26:48.445711
+Fail to reject
+Fail to reject
+Replication====>1620/2000, Time remaining : 5:26:00.467458
+Fail to reject
+Fail to reject
+Replication====>1621/2000, Time remaining : 5:25:10.357711
+Reject
+Fail to reject
+Replication====>1622/2000, Time remaining : 5:24:37.074091
+Fail to reject
+Fail to reject
+Replication====>1623/2000, Time remaining : 5:22:37.793581
+Reject
+Fail to reject
+Replication====>1624/2000, Time remaining : 5:22:41.448973
+Reject
+Fail to reject
+Replication====>1625/2000, Time remaining : 5:21:46.814533
+Reject
+Fail to reject
+Replication====>1626/2000, Time remaining : 5:21:45.422706
+Fail to reject
+Fail to reject
+Replication====>1627/2000, Time remaining : 5:19:50.035091
+Reject
+Fail to reject
+Replication====>1628/2000, Time remaining : 5:18:43.766348
+Reject
+Fail to reject
+Replication====>1629/2000, Time remaining : 5:17:44.901149
+Fail to reject
+Fail to reject
+Replication====>1630/2000, Time remaining : 5:17:45.164897
+Reject
+Fail to reject
+Replication====>1631/2000, Time remaining : 5:17:46.036022
+Reject
+Fail to reject
+Replication====>1632/2000, Time remaining : 5:16:16.585031
+Fail to reject
+Fail to reject
+Replication====>1633/2000, Time remaining : 5:14:09.826625
+Fail to reject
+Fail to reject
+Replication====>1634/2000, Time remaining : 5:13:30.711973
+Reject
+Fail to reject
+Replication====>1635/2000, Time remaining : 5:14:25.599179
+Fail to reject
+Fail to reject
+Replication====>1636/2000, Time remaining : 5:12:01.027803
+Reject
+Fail to reject
+Replication====>1637/2000, Time remaining : 5:11:29.358448
+Reject
+Fail to reject
+Replication====>1638/2000, Time remaining : 5:10:20.873665
+Reject
+Fail to reject
+Replication====>1639/2000, Time remaining : 5:11:10.009289
+Reject
+Fail to reject
+Replication====>1640/2000, Time remaining : 5:09:01.171257
+Fail to reject
+Fail to reject
+Replication====>1641/2000, Time remaining : 5:07:43.650545
+Fail to reject
+Fail to reject
+Replication====>1642/2000, Time remaining : 5:07:29.432755
+Fail to reject
+Fail to reject
+Replication====>1643/2000, Time remaining : 5:05:16.980801
+Fail to reject
+Fail to reject
+Replication====>1644/2000, Time remaining : 5:06:11.767142
+Fail to reject
+Fail to reject
+Replication====>1645/2000, Time remaining : 5:05:06.602387
+Reject
+Fail to reject
+Replication====>1646/2000, Time remaining : 5:04:02.740155
+Reject
+Fail to reject
+Replication====>1647/2000, Time remaining : 5:03:53.103828
+Fail to reject
+Fail to reject
+Replication====>1648/2000, Time remaining : 5:01:57.572559
+Reject
+Fail to reject
+Replication====>1649/2000, Time remaining : 5:00:37.063777
+Reject
+Fail to reject
+Replication====>1650/2000, Time remaining : 5:00:53.584702
+Reject
+Fail to reject
+Replication====>1651/2000, Time remaining : 4:58:26.826839
+Fail to reject
+Fail to reject
+Replication====>1652/2000, Time remaining : 4:58:31.798363
+Fail to reject
+Reject
+Replication====>1653/2000, Time remaining : 4:58:04.026787
+Reject
+Fail to reject
+Replication====>1654/2000, Time remaining : 4:57:02.799557
+Fail to reject
+Fail to reject
+Replication====>1655/2000, Time remaining : 4:57:01.991726
+Reject
+Fail to reject
+Replication====>1656/2000, Time remaining : 4:55:55.224612
+Reject
+Fail to reject
+Replication====>1657/2000, Time remaining : 4:55:40.924903
+Reject
+Fail to reject
+Replication====>1658/2000, Time remaining : 4:53:42.621893
+Fail to reject
+Fail to reject
+Replication====>1659/2000, Time remaining : 4:51:31.082406
+Reject
+Reject
+Replication====>1660/2000, Time remaining : 4:51:24.206930
+Reject
+Fail to reject
+Replication====>1661/2000, Time remaining : 4:49:20.384120
+Fail to reject
+Fail to reject
+Replication====>1662/2000, Time remaining : 4:50:30.236185
+Fail to reject
+Fail to reject
+Replication====>1663/2000, Time remaining : 4:50:36.619297
+Fail to reject
+Fail to reject
+Replication====>1664/2000, Time remaining : 4:47:40.958496
+Fail to reject
+Fail to reject
+Replication====>1665/2000, Time remaining : 4:48:22.733693
+Fail to reject
+Fail to reject
+Replication====>1666/2000, Time remaining : 4:48:00.654064
+Fail to reject
+Fail to reject
+Replication====>1667/2000, Time remaining : 4:45:24.028212
+Fail to reject
+Fail to reject
+Replication====>1668/2000, Time remaining : 4:43:47.640602
+Fail to reject
+Reject
+Replication====>1669/2000, Time remaining : 4:44:19.522676
+Fail to reject
+Fail to reject
+Replication====>1670/2000, Time remaining : 4:43:38.433222
+Fail to reject
+Fail to reject
+Replication====>1671/2000, Time remaining : 4:42:55.941191
+Reject
+Fail to reject
+Replication====>1672/2000, Time remaining : 4:42:42.150854
+Reject
+Fail to reject
+Replication====>1673/2000, Time remaining : 4:41:16.741973
+Fail to reject
+Reject
+Replication====>1674/2000, Time remaining : 4:39:31.028441
+Fail to reject
+Fail to reject
+Replication====>1675/2000, Time remaining : 4:39:19.881477
+Fail to reject
+Fail to reject
+Replication====>1676/2000, Time remaining : 4:38:27.690623
+Reject
+Fail to reject
+Replication====>1677/2000, Time remaining : 4:37:09.187452
+Fail to reject
+Fail to reject
+Replication====>1678/2000, Time remaining : 4:35:49.611384
+Fail to reject
+Fail to reject
+Replication====>1679/2000, Time remaining : 4:35:27.846298
+Fail to reject
+Fail to reject
+Replication====>1680/2000, Time remaining : 4:34:58.257445
+Fail to reject
+Fail to reject
+Replication====>1681/2000, Time remaining : 4:33:51.741696
+Reject
+Fail to reject
+Replication====>1682/2000, Time remaining : 4:32:18.432950
+Fail to reject
+Fail to reject
+Replication====>1683/2000, Time remaining : 4:32:37.559292
+Reject
+Fail to reject
+Replication====>1684/2000, Time remaining : 4:30:33.586010
+Fail to reject
+Fail to reject
+Replication====>1685/2000, Time remaining : 4:30:28.405955
+Reject
+Fail to reject
+Replication====>1686/2000, Time remaining : 4:30:40.839155
+Fail to reject
+Fail to reject
+Replication====>1687/2000, Time remaining : 4:28:21.560703
+Reject
+Fail to reject
+Replication====>1688/2000, Time remaining : 4:27:54.808199
+Fail to reject
+Fail to reject
+Replication====>1689/2000, Time remaining : 4:25:55.972071
+Fail to reject
+Fail to reject
+Replication====>1690/2000, Time remaining : 4:26:33.563435
+Fail to reject
+Fail to reject
+Replication====>1691/2000, Time remaining : 4:25:21.325503
+Fail to reject
+Fail to reject
+Replication====>1692/2000, Time remaining : 4:24:57.053599
+Fail to reject
+Fail to reject
+Replication====>1693/2000, Time remaining : 4:24:21.821534
+Fail to reject
+Fail to reject
+Replication====>1694/2000, Time remaining : 4:22:07.115809
+Fail to reject
+Reject
+Replication====>1695/2000, Time remaining : 4:22:16.699409
+Fail to reject
+Fail to reject
+Replication====>1696/2000, Time remaining : 4:22:06.604267
+Fail to reject
+Fail to reject
+Replication====>1697/2000, Time remaining : 4:20:49.124731
+Fail to reject
+Fail to reject
+Replication====>1698/2000, Time remaining : 4:19:15.577685
+Fail to reject
+Fail to reject
+Replication====>1699/2000, Time remaining : 4:18:25.652976
+Fail to reject
+Reject
+Replication====>1700/2000, Time remaining : 4:17:20.543952
+Fail to reject
+Reject
+Replication====>1701/2000, Time remaining : 4:17:40.979794
+Reject
+Fail to reject
+Replication====>1702/2000, Time remaining : 4:16:35.888142
+Reject
+Fail to reject
+Replication====>1703/2000, Time remaining : 4:14:35.788618
+Fail to reject
+Fail to reject
+Replication====>1704/2000, Time remaining : 4:14:31.814785
+Fail to reject
+Fail to reject
+Replication====>1705/2000, Time remaining : 4:13:16.061424
+Fail to reject
+Fail to reject
+Replication====>1706/2000, Time remaining : 4:12:05.837400
+Reject
+Fail to reject
+Replication====>1707/2000, Time remaining : 4:12:16.746630
+Fail to reject
+Fail to reject
+Replication====>1708/2000, Time remaining : 4:10:53.837473
+Fail to reject
+Fail to reject
+Replication====>1709/2000, Time remaining : 4:08:53.577347
+Reject
+Fail to reject
+Replication====>1710/2000, Time remaining : 4:08:53.988444
+Fail to reject
+Fail to reject
+Replication====>1711/2000, Time remaining : 4:08:34.380569
+Reject
+Fail to reject
+Replication====>1712/2000, Time remaining : 4:07:35.539928
+Fail to reject
+Fail to reject
+Replication====>1713/2000, Time remaining : 4:06:31.761949
+Fail to reject
+Fail to reject
+Replication====>1714/2000, Time remaining : 4:05:28.256493
+Reject
+Fail to reject
+Replication====>1715/2000, Time remaining : 4:04:42.042126
+Fail to reject
+Fail to reject
+Replication====>1716/2000, Time remaining : 4:03:34.491803
+Fail to reject
+Fail to reject
+Replication====>1717/2000, Time remaining : 4:02:13.290842
+Fail to reject
+Fail to reject
+Replication====>1718/2000, Time remaining : 4:02:21.924993
+Fail to reject
+Fail to reject
+Replication====>1719/2000, Time remaining : 4:00:45.107784
+Reject
+Fail to reject
+Replication====>1720/2000, Time remaining : 4:00:34.379339
+Reject
+Fail to reject
+Replication====>1721/2000, Time remaining : 4:00:36.395063
+Fail to reject
+Fail to reject
+Replication====>1722/2000, Time remaining : 3:58:53.892776
+Fail to reject
+Fail to reject
+Replication====>1723/2000, Time remaining : 3:57:58.062696
+Fail to reject
+Fail to reject
+Replication====>1724/2000, Time remaining : 3:57:22.367876
+Reject
+Fail to reject
+Replication====>1725/2000, Time remaining : 3:55:06.736715
+Fail to reject
+Fail to reject
+Replication====>1726/2000, Time remaining : 3:54:43.098925
+Reject
+Reject
+Replication====>1727/2000, Time remaining : 3:53:46.047974
+Fail to reject
+Fail to reject
+Replication====>1728/2000, Time remaining : 3:54:05.873897
+Reject
+Fail to reject
+Replication====>1729/2000, Time remaining : 3:52:43.423984
+Reject
+Fail to reject
+Replication====>1730/2000, Time remaining : 3:50:34.363583
+Reject
+Reject
+Replication====>1731/2000, Time remaining : 3:51:05.502004
+Fail to reject
+Fail to reject
+Replication====>1732/2000, Time remaining : 3:49:22.878761
+Fail to reject
+Reject
+Replication====>1733/2000, Time remaining : 3:49:24.640097
+Fail to reject
+Fail to reject
+Replication====>1734/2000, Time remaining : 3:48:16.384723
+Fail to reject
+Fail to reject
+Replication====>1735/2000, Time remaining : 3:47:49.549324
+Fail to reject
+Fail to reject
+Replication====>1736/2000, Time remaining : 3:46:18.398832
+Fail to reject
+Fail to reject
+Replication====>1737/2000, Time remaining : 3:45:07.081136
+Fail to reject
+Fail to reject
+Replication====>1738/2000, Time remaining : 3:44:47.403859
+Fail to reject
+Fail to reject
+Replication====>1739/2000, Time remaining : 3:44:26.083913
+Fail to reject
+Fail to reject
+Replication====>1740/2000, Time remaining : 3:43:35.603602
+Reject
+Fail to reject
+Replication====>1741/2000, Time remaining : 3:42:58.578502
+Reject
+Fail to reject
+Replication====>1742/2000, Time remaining : 3:41:02.527590
+Reject
+Fail to reject
+Replication====>1743/2000, Time remaining : 3:39:57.929321
+Fail to reject
+Fail to reject
+Replication====>1744/2000, Time remaining : 3:39:26.805958
+Reject
+Fail to reject
+Replication====>1745/2000, Time remaining : 3:39:11.270723
+Fail to reject
+Fail to reject
+Replication====>1746/2000, Time remaining : 3:37:21.197175
+Fail to reject
+Fail to reject
+Replication====>1747/2000, Time remaining : 3:36:33.066633
+Reject
+Fail to reject
+Replication====>1748/2000, Time remaining : 3:36:38.070508
+Fail to reject
+Fail to reject
+Replication====>1749/2000, Time remaining : 3:34:56.421611
+Fail to reject
+Fail to reject
+Replication====>1750/2000, Time remaining : 3:34:29.602861
+Fail to reject
+Fail to reject
+Replication====>1751/2000, Time remaining : 3:33:01.331846
+Fail to reject
+Fail to reject
+Replication====>1752/2000, Time remaining : 3:32:47.224078
+Reject
+Fail to reject
+Replication====>1753/2000, Time remaining : 3:32:12.506978
+Fail to reject
+Fail to reject
+Replication====>1754/2000, Time remaining : 3:30:59.014210
+Fail to reject
+Fail to reject
+Replication====>1755/2000, Time remaining : 3:30:40.879301
+Reject
+Fail to reject
+Replication====>1756/2000, Time remaining : 3:28:52.901020
+Reject
+Fail to reject
+Replication====>1757/2000, Time remaining : 3:28:22.064012
+Fail to reject
+Fail to reject
+Replication====>1758/2000, Time remaining : 3:28:00.358029
+Fail to reject
+Fail to reject
+Replication====>1759/2000, Time remaining : 3:26:45.802574
+Fail to reject
+Fail to reject
+Replication====>1760/2000, Time remaining : 3:26:14.445372
+Reject
+Fail to reject
+Replication====>1761/2000, Time remaining : 3:25:04.191117
+Reject
+Fail to reject
+Replication====>1762/2000, Time remaining : 3:23:42.291651
+Fail to reject
+Fail to reject
+Replication====>1763/2000, Time remaining : 3:23:38.785520
+Fail to reject
+Fail to reject
+Replication====>1764/2000, Time remaining : 3:21:29.270078
+Fail to reject
+Fail to reject
+Replication====>1765/2000, Time remaining : 3:21:30.438249
+Fail to reject
+Fail to reject
+Replication====>1766/2000, Time remaining : 3:20:07.393150
+Fail to reject
+Fail to reject
+Replication====>1767/2000, Time remaining : 3:19:58.274031
+Fail to reject
+Fail to reject
+Replication====>1768/2000, Time remaining : 3:17:36.877780
+Fail to reject
+Fail to reject
+Replication====>1769/2000, Time remaining : 3:18:12.419612
+Reject
+Fail to reject
+Replication====>1770/2000, Time remaining : 3:16:47.128061
+Reject
+Fail to reject
+Replication====>1771/2000, Time remaining : 3:15:47.010092
+Fail to reject
+Fail to reject
+Replication====>1772/2000, Time remaining : 3:14:25.577109
+Fail to reject
+Fail to reject
+Replication====>1773/2000, Time remaining : 3:14:04.447100
+Reject
+Fail to reject
+Replication====>1774/2000, Time remaining : 3:13:03.938026
+Reject
+Reject
+Replication====>1775/2000, Time remaining : 3:13:03.945503
+Fail to reject
+Fail to reject
+Replication====>1776/2000, Time remaining : 3:11:38.529214
+Reject
+Fail to reject
+Replication====>1777/2000, Time remaining : 3:11:20.395947
+Reject
+Fail to reject
+Replication====>1778/2000, Time remaining : 3:10:14.772474
+Fail to reject
+Fail to reject
+Replication====>1779/2000, Time remaining : 3:09:06.491356
+Reject
+Fail to reject
+Replication====>1780/2000, Time remaining : 3:08:30.885685
+Fail to reject
+Fail to reject
+Replication====>1781/2000, Time remaining : 3:07:11.884634
+Reject
+Fail to reject
+Replication====>1782/2000, Time remaining : 3:06:34.802753
+Fail to reject
+Fail to reject
+Replication====>1783/2000, Time remaining : 3:06:12.031900
+Fail to reject
+Fail to reject
+Replication====>1784/2000, Time remaining : 3:05:24.081497
+Fail to reject
+Fail to reject
+Replication====>1785/2000, Time remaining : 3:03:49.839386
+Fail to reject
+Fail to reject
+Replication====>1786/2000, Time remaining : 3:03:02.451025
+Reject
+Fail to reject
+Replication====>1787/2000, Time remaining : 3:02:28.101970
+Fail to reject
+Fail to reject
+Replication====>1788/2000, Time remaining : 3:01:21.906965
+Reject
+Fail to reject
+Replication====>1789/2000, Time remaining : 3:00:09.795642
+Fail to reject
+Fail to reject
+Replication====>1790/2000, Time remaining : 2:59:54.142690
+Reject
+Fail to reject
+Replication====>1791/2000, Time remaining : 2:58:45.257526
+Reject
+Fail to reject
+Replication====>1792/2000, Time remaining : 2:57:54.628626
+Fail to reject
+Fail to reject
+Replication====>1793/2000, Time remaining : 2:57:39.849580
+Fail to reject
+Fail to reject
+Replication====>1794/2000, Time remaining : 2:56:28.478318
+Reject
+Fail to reject
+Replication====>1795/2000, Time remaining : 2:55:52.741699
+Fail to reject
+Fail to reject
+Replication====>1796/2000, Time remaining : 2:55:23.415054
+Fail to reject
+Fail to reject
+Replication====>1797/2000, Time remaining : 2:54:15.776164
+Reject
+Fail to reject
+Replication====>1798/2000, Time remaining : 2:52:42.224159
+Reject
+Fail to reject
+Replication====>1799/2000, Time remaining : 2:52:26.619081
+Fail to reject
+Fail to reject
+Replication====>1800/2000, Time remaining : 2:51:34.880293
+Reject
+Fail to reject
+Replication====>1801/2000, Time remaining : 2:50:23.256560
+Fail to reject
+Fail to reject
+Replication====>1802/2000, Time remaining : 2:48:55.906880
+Reject
+Fail to reject
+Replication====>1803/2000, Time remaining : 2:48:47.968348
+Reject
+Fail to reject
+Replication====>1804/2000, Time remaining : 2:47:50.712372
+Fail to reject
+Reject
+Replication====>1805/2000, Time remaining : 2:47:09.569483
+Fail to reject
+Fail to reject
+Replication====>1806/2000, Time remaining : 2:46:32.350788
+Fail to reject
+Fail to reject
+Replication====>1807/2000, Time remaining : 2:45:52.424698
+Reject
+Fail to reject
+Replication====>1808/2000, Time remaining : 2:44:01.702210
+Reject
+Fail to reject
+Replication====>1809/2000, Time remaining : 2:43:20.756173
+Fail to reject
+Fail to reject
+Replication====>1810/2000, Time remaining : 2:43:06.609116
+Reject
+Fail to reject
+Replication====>1811/2000, Time remaining : 2:42:41.877311
+Fail to reject
+Fail to reject
+Replication====>1812/2000, Time remaining : 2:40:50.774699
+Fail to reject
+Fail to reject
+Replication====>1813/2000, Time remaining : 2:40:13.843337
+Reject
+Fail to reject
+Replication====>1814/2000, Time remaining : 2:39:05.930866
+Fail to reject
+Fail to reject
+Replication====>1815/2000, Time remaining : 2:38:32.378340
+Fail to reject
+Fail to reject
+Replication====>1816/2000, Time remaining : 2:37:39.301948
+Fail to reject
+Fail to reject
+Replication====>1817/2000, Time remaining : 2:36:59.477365
+Fail to reject
+Fail to reject
+Replication====>1818/2000, Time remaining : 2:36:22.814420
+Fail to reject
+Fail to reject
+Replication====>1819/2000, Time remaining : 2:34:26.161995
+Fail to reject
+Fail to reject
+Replication====>1820/2000, Time remaining : 2:34:28.859412
+Fail to reject
+Fail to reject
+Replication====>1821/2000, Time remaining : 2:32:34.879647
+Fail to reject
+Fail to reject
+Replication====>1822/2000, Time remaining : 2:32:17.608753
+Reject
+Fail to reject
+Replication====>1823/2000, Time remaining : 2:31:51.638916
+Fail to reject
+Fail to reject
+Replication====>1824/2000, Time remaining : 2:30:45.920032
+Fail to reject
+Fail to reject
+Replication====>1825/2000, Time remaining : 2:29:13.685187
+Reject
+Fail to reject
+Replication====>1826/2000, Time remaining : 2:29:01.228020
+Reject
+Fail to reject
+Replication====>1827/2000, Time remaining : 2:28:06.733154
+Fail to reject
+Fail to reject
+Replication====>1828/2000, Time remaining : 2:26:54.771046
+Fail to reject
+Fail to reject
+Replication====>1829/2000, Time remaining : 2:26:54.292059
+Fail to reject
+Fail to reject
+Replication====>1830/2000, Time remaining : 2:25:37.348843
+Fail to reject
+Fail to reject
+Replication====>1831/2000, Time remaining : 2:24:34.203272
+Fail to reject
+Fail to reject
+Replication====>1832/2000, Time remaining : 2:23:37.523249
+Fail to reject
+Fail to reject
+Replication====>1833/2000, Time remaining : 2:22:54.187388
+Reject
+Fail to reject
+Replication====>1834/2000, Time remaining : 2:21:43.699719
+Fail to reject
+Fail to reject
+Replication====>1835/2000, Time remaining : 2:21:31.301423
+Fail to reject
+Fail to reject
+Replication====>1836/2000, Time remaining : 2:20:29.107281
+Reject
+Reject
+Replication====>1837/2000, Time remaining : 2:19:38.579751
+Fail to reject
+Fail to reject
+Replication====>1838/2000, Time remaining : 2:18:26.479246
+Fail to reject
+Fail to reject
+Replication====>1839/2000, Time remaining : 2:18:19.608345
+Fail to reject
+Fail to reject
+Replication====>1840/2000, Time remaining : 2:16:39.922492
+Fail to reject
+Fail to reject
+Replication====>1841/2000, Time remaining : 2:16:12.646948
+Fail to reject
+Fail to reject
+Replication====>1842/2000, Time remaining : 2:15:29.949977
+Fail to reject
+Fail to reject
+Replication====>1843/2000, Time remaining : 2:14:03.419724
+Reject
+Fail to reject
+Replication====>1844/2000, Time remaining : 2:13:56.471382
+Fail to reject
+Fail to reject
+Replication====>1845/2000, Time remaining : 2:12:28.931108
+Fail to reject
+Fail to reject
+Replication====>1846/2000, Time remaining : 2:11:41.806031
+Fail to reject
+Fail to reject
+Replication====>1847/2000, Time remaining : 2:10:19.377579
+Reject
+Fail to reject
+Replication====>1848/2000, Time remaining : 2:09:51.502566
+Fail to reject
+Fail to reject
+Replication====>1849/2000, Time remaining : 2:08:52.027173
+Fail to reject
+Fail to reject
+Replication====>1850/2000, Time remaining : 2:07:55.876083
+Reject
+Reject
+Replication====>1851/2000, Time remaining : 2:07:33.437135
+Reject
+Fail to reject
+Replication====>1852/2000, Time remaining : 2:06:43.964715
+Fail to reject
+Fail to reject
+Replication====>1853/2000, Time remaining : 2:05:28.272243
+Reject
+Fail to reject
+Replication====>1854/2000, Time remaining : 2:04:31.674480
+Reject
+Fail to reject
+Replication====>1855/2000, Time remaining : 2:04:09.282566
+Fail to reject
+Fail to reject
+Replication====>1856/2000, Time remaining : 2:02:38.449500
+Reject
+Fail to reject
+Replication====>1857/2000, Time remaining : 2:02:13.089614
+Fail to reject
+Fail to reject
+Replication====>1858/2000, Time remaining : 2:01:17.939496
+Fail to reject
+Fail to reject
+Replication====>1859/2000, Time remaining : 2:00:27.620931
+Fail to reject
+Fail to reject
+Replication====>1860/2000, Time remaining : 1:59:47.391048
+Fail to reject
+Fail to reject
+Replication====>1861/2000, Time remaining : 1:58:48.499493
+Fail to reject
+Fail to reject
+Replication====>1862/2000, Time remaining : 1:57:39.126056
+Fail to reject
+Fail to reject
+Replication====>1863/2000, Time remaining : 1:56:51.508997
+Fail to reject
+Fail to reject
+Replication====>1864/2000, Time remaining : 1:56:16.029174
+Fail to reject
+Fail to reject
+Replication====>1865/2000, Time remaining : 1:55:47.943820
+Reject
+Fail to reject
+Replication====>1866/2000, Time remaining : 1:54:15.012663
+Fail to reject
+Fail to reject
+Replication====>1867/2000, Time remaining : 1:53:17.444344
+Fail to reject
+Fail to reject
+Replication====>1868/2000, Time remaining : 1:52:58.979305
+Reject
+Fail to reject
+Replication====>1869/2000, Time remaining : 1:52:11.540277
+Reject
+Fail to reject
+Replication====>1870/2000, Time remaining : 1:50:21.826157
+Fail to reject
+Fail to reject
+Replication====>1871/2000, Time remaining : 1:50:02.004669
+Reject
+Fail to reject
+Replication====>1872/2000, Time remaining : 1:49:44.716081
+Fail to reject
+Fail to reject
+Replication====>1873/2000, Time remaining : 1:48:33.394133
+Fail to reject
+Fail to reject
+Replication====>1874/2000, Time remaining : 1:47:41.582392
+Fail to reject
+Fail to reject
+Replication====>1875/2000, Time remaining : 1:47:07.644395
+Fail to reject
+Fail to reject
+Replication====>1876/2000, Time remaining : 1:46:10.162576
+Fail to reject
+Fail to reject
+Replication====>1877/2000, Time remaining : 1:44:59.508307
+Reject
+Fail to reject
+Replication====>1878/2000, Time remaining : 1:43:35.251922
+Fail to reject
+Fail to reject
+Replication====>1879/2000, Time remaining : 1:42:43.777428
+Fail to reject
+Fail to reject
+Replication====>1880/2000, Time remaining : 1:42:11.352871
+Fail to reject
+Fail to reject
+Replication====>1881/2000, Time remaining : 1:41:26.384681
+Fail to reject
+Reject
+Replication====>1882/2000, Time remaining : 1:40:45.411795
+Fail to reject
+Fail to reject
+Replication====>1883/2000, Time remaining : 1:39:35.939001
+Reject
+Fail to reject
+Replication====>1884/2000, Time remaining : 1:38:39.200639
+Fail to reject
+Fail to reject
+Replication====>1885/2000, Time remaining : 1:37:47.777654
+Reject
+Fail to reject
+Replication====>1886/2000, Time remaining : 1:36:49.768614
+Reject
+Fail to reject
+Replication====>1887/2000, Time remaining : 1:35:55.470634
+Fail to reject
+Fail to reject
+Replication====>1888/2000, Time remaining : 1:35:43.036155
+Fail to reject
+Fail to reject
+Replication====>1889/2000, Time remaining : 1:34:45.336461
+Fail to reject
+Fail to reject
+Replication====>1890/2000, Time remaining : 1:34:02.578177
+Fail to reject
+Fail to reject
+Replication====>1891/2000, Time remaining : 1:32:53.039045
+Fail to reject
+Fail to reject
+Replication====>1892/2000, Time remaining : 1:31:50.372242
+Fail to reject
+Fail to reject
+Replication====>1893/2000, Time remaining : 1:31:20.196568
+Reject
+Fail to reject
+Replication====>1894/2000, Time remaining : 1:30:23.177512
+Reject
+Fail to reject
+Replication====>1895/2000, Time remaining : 1:29:50.163631
+Fail to reject
+Fail to reject
+Replication====>1896/2000, Time remaining : 1:28:57.487080
+Reject
+Fail to reject
+Replication====>1897/2000, Time remaining : 1:27:47.040326
+Reject
+Fail to reject
+Replication====>1898/2000, Time remaining : 1:27:05.204720
+Reject
+Fail to reject
+Replication====>1899/2000, Time remaining : 1:26:05.513515
+Fail to reject
+Reject
+Replication====>1900/2000, Time remaining : 1:25:11.787297
+Fail to reject
+Fail to reject
+Replication====>1901/2000, Time remaining : 1:24:41.501000
+Reject
+Fail to reject
+Replication====>1902/2000, Time remaining : 1:23:49.265787
+Reject
+Fail to reject
+Replication====>1903/2000, Time remaining : 1:22:38.454826
+Fail to reject
+Fail to reject
+Replication====>1904/2000, Time remaining : 1:22:07.676263
+Fail to reject
+Fail to reject
+Replication====>1905/2000, Time remaining : 1:20:46.899854
+Fail to reject
+Fail to reject
+Replication====>1906/2000, Time remaining : 1:20:13.482682
+Fail to reject
+Fail to reject
+Replication====>1907/2000, Time remaining : 1:19:14.753951
+Reject
+Fail to reject
+Replication====>1908/2000, Time remaining : 1:18:27.857285
+Fail to reject
+Fail to reject
+Replication====>1909/2000, Time remaining : 1:17:37.476525
+Reject
+Fail to reject
+Replication====>1910/2000, Time remaining : 1:16:44.479900
+Reject
+Fail to reject
+Replication====>1911/2000, Time remaining : 1:15:39.641661
+Reject
+Fail to reject
+Replication====>1912/2000, Time remaining : 1:14:46.731437
+Reject
+Fail to reject
+Replication====>1913/2000, Time remaining : 1:14:19.518499
+Fail to reject
+Fail to reject
+Replication====>1914/2000, Time remaining : 1:13:14.994565
+Reject
+Fail to reject
+Replication====>1915/2000, Time remaining : 1:12:25.272017
+Fail to reject
+Fail to reject
+Replication====>1916/2000, Time remaining : 1:11:21.204307
+Fail to reject
+Fail to reject
+Replication====>1917/2000, Time remaining : 1:10:16.486516
+Reject
+Fail to reject
+Replication====>1918/2000, Time remaining : 1:09:49.954225
+Fail to reject
+Fail to reject
+Replication====>1919/2000, Time remaining : 1:09:07.598343
+Reject
+Fail to reject
+Replication====>1920/2000, Time remaining : 1:08:03.868681
+Fail to reject
+Fail to reject
+Replication====>1921/2000, Time remaining : 1:07:15.685485
+Reject
+Fail to reject
+Replication====>1922/2000, Time remaining : 1:06:25.650857
+Reject
+Fail to reject
+Replication====>1923/2000, Time remaining : 1:05:29.217689
+Fail to reject
+Fail to reject
+Replication====>1924/2000, Time remaining : 1:04:27.254627
+Reject
+Fail to reject
+Replication====>1925/2000, Time remaining : 1:03:29.642338
+Fail to reject
+Fail to reject
+Replication====>1926/2000, Time remaining : 1:03:08.828905
+Fail to reject
+Fail to reject
+Replication====>1927/2000, Time remaining : 1:02:07.808023
+Fail to reject
+Fail to reject
+Replication====>1928/2000, Time remaining : 1:01:04.268909
+Fail to reject
+Fail to reject
+Replication====>1929/2000, Time remaining : 1:00:18.878255
+Reject
+Fail to reject
+Replication====>1930/2000, Time remaining : 0:59:33.690250
+Fail to reject
+Fail to reject
+Replication====>1931/2000, Time remaining : 0:58:36.217050
+Reject
+Fail to reject
+Replication====>1932/2000, Time remaining : 0:57:42.347677
+Reject
+Fail to reject
+Replication====>1933/2000, Time remaining : 0:56:46.097743
+Fail to reject
+Fail to reject
+Replication====>1934/2000, Time remaining : 0:55:50.338035
+Fail to reject
+Fail to reject
+Replication====>1935/2000, Time remaining : 0:55:05.634811
+Reject
+Fail to reject
+Replication====>1936/2000, Time remaining : 0:54:03.107176
+Fail to reject
+Fail to reject
+Replication====>1937/2000, Time remaining : 0:53:11.017223
+Reject
+Fail to reject
+Replication====>1938/2000, Time remaining : 0:52:17.589477
+Fail to reject
+Fail to reject
+Replication====>1939/2000, Time remaining : 0:51:30.027580
+Fail to reject
+Fail to reject
+Replication====>1940/2000, Time remaining : 0:50:43.166261
+Fail to reject
+Fail to reject
+Replication====>1941/2000, Time remaining : 0:49:57.750960
+Fail to reject
+Fail to reject
+Replication====>1942/2000, Time remaining : 0:49:09.982495
+Fail to reject
+Fail to reject
+Replication====>1943/2000, Time remaining : 0:48:13.204176
+Fail to reject
+Fail to reject
+Replication====>1944/2000, Time remaining : 0:47:21.783259
+Reject
+Fail to reject
+Replication====>1945/2000, Time remaining : 0:46:26.567468
+Fail to reject
+Fail to reject
+Replication====>1946/2000, Time remaining : 0:45:30.701777
+Reject
+Fail to reject
+Replication====>1947/2000, Time remaining : 0:44:49.772299
+Reject
+Fail to reject
+Replication====>1948/2000, Time remaining : 0:43:55.762602
+Fail to reject
+Fail to reject
+Replication====>1949/2000, Time remaining : 0:43:09.602888
+Reject
+Fail to reject
+Replication====>1950/2000, Time remaining : 0:42:05.565106
+Reject
+Fail to reject
+Replication====>1951/2000, Time remaining : 0:41:19.791058
+Reject
+Fail to reject
+Replication====>1952/2000, Time remaining : 0:40:15.173406
+Fail to reject
+Fail to reject
+Replication====>1953/2000, Time remaining : 0:39:36.852565
+Fail to reject
+Reject
+Replication====>1954/2000, Time remaining : 0:38:52.922841
+Fail to reject
+Fail to reject
+Replication====>1955/2000, Time remaining : 0:37:52.831706
+Fail to reject
+Fail to reject
+Replication====>1956/2000, Time remaining : 0:37:08.598539
+Reject
+Fail to reject
+Replication====>1957/2000, Time remaining : 0:36:12.071403
+Reject
+Fail to reject
+Replication====>1958/2000, Time remaining : 0:35:26.312430
+Reject
+Fail to reject
+Replication====>1959/2000, Time remaining : 0:34:27.961063
+Fail to reject
+Fail to reject
+Replication====>1960/2000, Time remaining : 0:33:39.196058
+Reject
+Fail to reject
+Replication====>1961/2000, Time remaining : 0:32:39.302820
+Reject
+Reject
+Replication====>1962/2000, Time remaining : 0:31:54.094572
+Reject
+Fail to reject
+Replication====>1963/2000, Time remaining : 0:30:58.620738
+Fail to reject
+Fail to reject
+Replication====>1964/2000, Time remaining : 0:30:01.795036
+Fail to reject
+Fail to reject
+Replication====>1965/2000, Time remaining : 0:29:13.445180
+Fail to reject
+Fail to reject
+Replication====>1966/2000, Time remaining : 0:28:19.561699
+Reject
+Reject
+Replication====>1967/2000, Time remaining : 0:27:30.284225
+Fail to reject
+Fail to reject
+Replication====>1968/2000, Time remaining : 0:26:33.700232
+Reject
+Fail to reject
+Replication====>1969/2000, Time remaining : 0:25:54.324102
+Fail to reject
+Fail to reject
+Replication====>1970/2000, Time remaining : 0:24:55.384048
+Reject
+Reject
+Replication====>1971/2000, Time remaining : 0:24:03.612060
+Reject
+Fail to reject
+Replication====>1972/2000, Time remaining : 0:23:13.890392
+Fail to reject
+Fail to reject
+Replication====>1973/2000, Time remaining : 0:22:18.031635
+Fail to reject
+Fail to reject
+Replication====>1974/2000, Time remaining : 0:21:34.106680
+Fail to reject
+Fail to reject
+Replication====>1975/2000, Time remaining : 0:20:34.349115
+Reject
+Fail to reject
+Replication====>1976/2000, Time remaining : 0:19:47.503810
+Reject
+Fail to reject
+Replication====>1977/2000, Time remaining : 0:18:53.051928
+Reject
+Fail to reject
+Replication====>1978/2000, Time remaining : 0:18:06.540160
+Reject
+Fail to reject
+Replication====>1979/2000, Time remaining : 0:17:14.710374
+Fail to reject
+Fail to reject
+Replication====>1980/2000, Time remaining : 0:16:24.084141
+Reject
+Fail to reject
+Replication====>1981/2000, Time remaining : 0:15:29.453389
+Reject
+Reject
+Replication====>1982/2000, Time remaining : 0:14:33.838458
+Fail to reject
+Fail to reject
+Replication====>1983/2000, Time remaining : 0:13:44.193943
+Fail to reject
+Fail to reject
+Replication====>1984/2000, Time remaining : 0:12:52.943630
+Fail to reject
+Fail to reject
+Replication====>1985/2000, Time remaining : 0:12:00.749434
+Fail to reject
+Fail to reject
+Replication====>1986/2000, Time remaining : 0:11:11.690251
+Fail to reject
+Fail to reject
+Replication====>1987/2000, Time remaining : 0:10:18.729741
+Fail to reject
+Fail to reject
+Replication====>1988/2000, Time remaining : 0:09:28.317145
+Fail to reject
+Fail to reject
+Replication====>1989/2000, Time remaining : 0:08:35.926592
+Fail to reject
+Fail to reject
+Replication====>1990/2000, Time remaining : 0:07:42.974212
+Fail to reject
+Fail to reject
+Replication====>1991/2000, Time remaining : 0:06:51.868792
+Fail to reject
+Fail to reject
+Replication====>1992/2000, Time remaining : 0:06:00.394013
+Fail to reject
+Fail to reject
+Replication====>1993/2000, Time remaining : 0:05:10.288271
+Fail to reject
+Fail to reject
+Replication====>1994/2000, Time remaining : 0:04:18.707770
+Fail to reject
+Reject
+Replication====>1995/2000, Time remaining : 0:03:26.253579
+Reject
+Fail to reject
+Replication====>1996/2000, Time remaining : 0:02:34.881217
+Reject
+Fail to reject
+Replication====>1997/2000, Time remaining : 0:01:42.905593
+Reject
+Fail to reject
+Replication====>1998/2000, Time remaining : 0:00:51.562235
+Fail to reject
+Fail to reject
+Replication====>1999/2000, Time remaining : 0:00:00
+Task done.
